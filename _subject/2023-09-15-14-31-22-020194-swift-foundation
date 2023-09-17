@@ -1,0 +1,100 @@
+Introduction to Swift Foundation framework
+Using Swift Foundation for date and time manipulation
+Exploring the Swift Foundation's URLSession
+Practical examples of using Swift Foundation's FileManager
+The power of Swift Foundation's networking capabilities
+How to use Swift Foundation's JSON encoding and decoding
+An in-depth look at Swift Foundation's NumberFormatter
+Using Swift Foundation's URLSession for making HTTP requests
+Exploring Swift Foundation's Error handling and NSError
+Practical examples of using Swift Foundation's String manipulation
+Getting started with Swift Foundation's URLComponents
+Advanced file management with Swift Foundation's FileHandle
+Exploring Swift Foundation's HTML and XML parsing capabilities
+An in-depth look at Swift Foundation's URLCache
+Using Swift Foundation's NSPredicate for filtering data
+Practical examples of using Swift Foundation's Keychain services
+Exploring Swift Foundation's NotificationCenter
+Advanced date and time manipulation with Swift Foundation's Calendar
+An in-depth look at Swift Foundation's DateFormatter
+Using Swift Foundation's URL and NSURLSession for file downloads
+Practical examples of using Swift Foundation's NSAttributedString
+Exploring Swift Foundation's UserDefaults
+How to use Swift Foundation's URLSession with authentication
+An in-depth look at Swift Foundation's CharacterSet
+Using Swift Foundation's URLSession for background downloads
+Practical examples of using Swift Foundation's URLSessionDataTask
+Exploring Swift Foundation's JSONSerialization
+Advanced string manipulation with Swift Foundation's Regular Expressions
+An in-depth look at Swift Foundation's NetworkingReachability
+Using Swift Foundation's URLSession for uploading files
+Practical examples of using Swift Foundation's JSONEncoder and JSONDecoder
+Exploring Swift Foundation's NotificationQueue
+How to use Swift Foundation's URLSession with cookies
+An in-depth look at Swift Foundation's UserDefaults suite management
+Using Swift Foundation's URLSession for WebSocket communication
+Practical examples of using Swift Foundation's Codable protocol
+Exploring Swift Foundation's NotificationCenter with custom notifications
+Advanced string manipulation with Swift Foundation's NSRegularExpression
+An in-depth look at Swift Foundation's URLResponse
+Using Swift Foundation's URLSession for streaming audio and video
+Practical examples of using Swift Foundation's JSON parsing with Codable
+Exploring Swift Foundation's NotificationCenter with observers
+How to use Swift Foundation's URLSession for multipart form data
+An in-depth look at Swift Foundation's URLSessionTask
+Using Swift Foundation's URLSession for WebSocket server communication
+Practical examples of using Swift Foundation's PropertyListSerialization
+Exploring Swift Foundation's Timer
+Advanced string manipulation with Swift Foundation's NSString
+An in-depth look at Swift Foundation's URLQueryItem
+Using Swift Foundation's URLSession for creating custom download tasks
+Practical examples of using Swift Foundation's JSON decoding with Codable
+Exploring Swift Foundation's UserDefaults for app preferences
+How to use Swift Foundation's URLSession for custom upload tasks
+An in-depth look at Swift Foundation's URLRequest
+Using Swift Foundation's URLSession for WebSocket client communication
+Practical examples of using Swift Foundation's JSON encoding with Codable
+Exploring Swift Foundation's NotificationCenter with custom observers
+Advanced string manipulation with Swift Foundation's NSMutableString
+An in-depth look at Swift Foundation's URLComponentsQueryItems
+Using Swift Foundation's URLSession for managing download progress
+Practical examples of using Swift Foundation's Codable for nested objects
+Exploring Swift Foundation's NotificationCenter with multiple observers
+How to use Swift Foundation's URLSession for background file uploads
+An in-depth look at Swift Foundation's URLRequestCachePolicy
+Using Swift Foundation's URLSession for managing WebSocket connections
+Practical examples of using Swift Foundation's JSON serialization with Codable
+Exploring Swift Foundation's NotificationCenter with multiple notifications
+Advanced string manipulation with Swift Foundation's NSAttributedStringKey
+An in-depth look at Swift Foundation's URLCredential
+Using Swift Foundation's URLSession for managing WebSocket events
+Practical examples of using Swift Foundation's XML parsing with Codable
+Exploring Swift Foundation's NotificationCenter with notification payloads
+How to use Swift Foundation's URLSession for sending HTTP DELETE requests
+An in-depth look at Swift Foundation's URLRequestNetworkServiceType
+Using Swift Foundation's URLSession for managing WebSocket handshake
+Practical examples of using Swift Foundation's XML encoding with Codable
+Exploring Swift Foundation's NotificationCenter with custom notification payloads
+Advanced string manipulation with Swift Foundation's NSScanner
+An in-depth look at Swift Foundation's URLAuthenticationChallenge
+Using Swift Foundation's URLSession for managing WebSocket ping and pong
+Practical examples of using Swift Foundation's XML decoding with Codable
+Exploring Swift Foundation's NotificationCenter with custom observer priorities
+How to use Swift Foundation's URLSession for sending HTTP PUT requests
+An in-depth look at Swift Foundation's URLProtocol
+Using Swift Foundation's URLSession for managing WebSocket close events
+Practical examples of using Swift Foundation's XML parsing with custom decoders
+Exploring Swift Foundation's NotificationCenter with observer removal
+Advanced string manipulation with Swift Foundation's NSOrthography
+An in-depth look at Swift Foundation's URLAuthenticationMethod
+Using Swift Foundation's URLSession for managing WebSocket error events
+Practical examples of using Swift Foundation's XML encoding with custom encoders
+Exploring Swift Foundation's NotificationCenter with object-based observers
+How to use Swift Foundation's URLSession for sending HTTP PATCH requests
+An in-depth look at Swift Foundation's URLResponseNetworkServiceType
+Using Swift Foundation's URLSession for managing WebSocket message events
+Practical examples of using Swift Foundation's XML decoding with custom decoders
+Exploring Swift Foundation's NotificationCenter with thread-based observers
+Advanced string manipulation with Swift Foundation's NSLinguisticTagger
+An in-depth look at Swift Foundation's URLAuthenticationChallengeDisposition
+Using Swift Foundation's URLSession for managing WebSocket connection quality

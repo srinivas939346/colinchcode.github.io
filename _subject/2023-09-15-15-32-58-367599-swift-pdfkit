@@ -1,0 +1,100 @@
+Introduction to using PDFKit in Swift.
+Creating a PDF viewer app in Swift using PDFKit.
+Manipulating PDFs with PDFKit in Swift.
+Extracting text from a PDF using PDFKit in Swift.
+Adding annotations and highlighting to a PDF using PDFKit in Swift.
+Generating PDFs from a SwiftUI app using PDFKit in Swift.
+Creating custom PDF templates with PDFKit in Swift.
+Converting HTML to PDF using PDFKit in Swift.
+Merging multiple PDFs into one using PDFKit in Swift.
+Splitting a PDF into multiple documents using PDFKit in Swift.
+Adding watermarks to a PDF using PDFKit in Swift.
+Creating interactive forms in a PDF with PDFKit in Swift.
+Adding digital signatures to a PDF using PDFKit in Swift.
+Converting images to PDF using PDFKit in Swift.
+Implementing OCR (optical character recognition) in PDFs using PDFKit in Swift.
+Generating thumbnails for PDF pages using PDFKit in Swift.
+Extracting images from a PDF using PDFKit in Swift.
+Encrypting and password-protecting PDFs with PDFKit in Swift.
+Creating an e-book reader with PDFKit in Swift.
+Implementing text search in a PDF using PDFKit in Swift.
+Creating a table of contents in a PDF with PDFKit in Swift.
+Extracting metadata from a PDF using PDFKit in Swift.
+Creating bookmarks in a PDF using PDFKit in Swift.
+Printing a PDF document using PDFKit in Swift.
+Implementing a PDF thumbnail grid using PDFKit in Swift.
+Generating barcodes in a PDF using PDFKit in Swift.
+Adding audio and video content to a PDF using PDFKit in Swift.
+Implementing document redaction in a PDF using PDFKit in Swift.
+Exporting a PDF to other formats using PDFKit in Swift.
+Implementing page transitions in a PDF using PDFKit in Swift.
+Creating a digital magazine using PDFKit in Swift.
+Adding hyperlinks and interactivity to a PDF using PDFKit in Swift.
+Extracting tables and data from PDFs using PDFKit in Swift.
+Implementing text-to-speech in a PDF using PDFKit in Swift.
+Adding custom stamps and images to a PDF using PDFKit in Swift.
+Creating a document viewer with side-by-side pages using PDFKit in Swift.
+Implementing pagination in a PDF using PDFKit in Swift.
+Creating a PDF editor app using PDFKit in Swift.
+Implementing document versioning and history in PDFs with PDFKit in Swift.
+Extracting specific page ranges from a PDF using PDFKit in Swift.
+Implementing form filling and data extraction in PDFs using PDFKit in Swift.
+Creating interactive quizzes and surveys in PDFs using PDFKit in Swift.
+Implementing document collaboration and annotation sharing in PDFs with PDFKit in Swift.
+Extracting structured data from PDF forms using PDFKit in Swift.
+Implementing accessibility features in PDFs using PDFKit in Swift.
+Creating a PDF generator API using PDFKit in Swift.
+Implementing custom page transitions and animations in PDFs using PDFKit in Swift.
+Creating a barcode scanner app with PDFKit integration in Swift.
+Implementing automatic text extraction and summarization in PDFs using PDFKit in Swift.
+Creating an offline documentation viewer with PDFKit in Swift.
+Implementing collaborative editing and real-time syncing of PDFs using PDFKit in Swift.
+Creating a PDF portfolio viewer with PDFKit in Swift.
+Implementing automated text recognition and extraction (OCR) in PDFs with PDFKit in Swift.
+Creating a PDF invoice generator using PDFKit in Swift.
+Implementing layout and design customization in PDFs using PDFKit in Swift.
+Creating a digital signature platform using PDFKit in Swift.
+Implementing 3D model embedding and visualization in PDFs with PDFKit in Swift.
+Creating a PDF report generator with data visualization using PDFKit in Swift.
+Implementing advanced search and indexing capabilities in PDFs using PDFKit in Swift.
+Creating a PDF annotation and review workflow system using PDFKit in Swift.
+Implementing AI-based document classification and sorting in PDFs with PDFKit in Swift.
+Creating a PDF portfolio creator for photographers and artists using PDFKit in Swift.
+Implementing automatic document translation in PDFs using PDFKit in Swift.
+Creating a PDF-based digital magazine subscription platform using PDFKit in Swift.
+Implementing document signing workflows and integration with digital identity providers using PDFKit in Swift.
+Creating a PDF scanning and document archiving app with PDFKit in Swift.
+Implementing document comparison and version control features in PDFs using PDFKit in Swift.
+Creating a PDF-based image flipbook or flipcard viewer using PDFKit in Swift.
+Implementing semantic search and content extraction in PDFs using PDFKit in Swift.
+Creating a PDF-based interactive storybook or interactive tutorial app using PDFKit in Swift.
+Implementing automatic image recognition and tagging in PDFs using PDFKit in Swift.
+Creating a PDF-based recipe organizer and meal planner using PDFKit in Swift.
+Implementing barcode scanning and inventory management in PDFs using PDFKit in Swift.
+Creating an e-signature platform with PDFKit integration in Swift.
+Implementing a PDF-based document management system using PDFKit in Swift.
+Creating a PDF-based resume builder and template generator using PDFKit in Swift.
+Implementing automated invoice processing and data extraction from PDFs using PDFKit in Swift.
+Creating a PDF-based interactive product catalog or brochure using PDFKit in Swift.
+Implementing automatic text translation in PDFs using PDFKit in Swift.
+Creating a PDF-based contract management system with digital signing and approval workflows using PDFKit in Swift.
+Implementing optical mark recognition (OMR) and automated grading in PDFs using PDFKit in Swift.
+Creating a PDF-based quiz platform with interactive exercises and grading using PDFKit in Swift.
+Implementing automatic document summarization and key content extraction in PDFs using PDFKit in Swift.
+Creating a PDF-based CAD drawing viewer and inspection tool using PDFKit in Swift.
+Implementing AI-powered document classification and sorting in PDFs using PDFKit in Swift.
+Creating a PDF-based job application submission platform with resume parsing using PDFKit in Swift.
+Implementing document version control and change tracking in PDFs using PDFKit in Swift.
+Creating a PDF-based legal document drafting and review platform using PDFKit in Swift.
+Implementing automatic data extraction and visualization from financial statements in PDFs using PDFKit in Swift.
+Creating a PDF-based diagram editor and visual modeling tool using PDFKit in Swift.
+Implementing virtual reality (VR) and augmented reality (AR) content embedding in PDFs using PDFKit in Swift.
+Creating a PDF-based ticketing and event management platform using PDFKit in Swift.
+Implementing automatic invoice scanning and payment processing in PDFs using PDFKit in Swift.
+Creating a PDF-based lesson planner and curriculum organizer for educators using PDFKit in Swift.
+Implementing automatic code extraction and syntax highlighting in PDFs using PDFKit in Swift.
+Creating a PDF-based notebook app with handwriting recognition and search using PDFKit in Swift.
+Implementing automatic document translation and multi-language support in PDFs using PDFKit in Swift.
+Creating a PDF-based document scoring and evaluation system with customizable rubrics using PDFKit in Swift.
+Implementing automated document redaction and sensitive information removal in PDFs using PDFKit in Swift.
+Creating a PDF-based event registration and ticketing system using PDFKit in Swift.

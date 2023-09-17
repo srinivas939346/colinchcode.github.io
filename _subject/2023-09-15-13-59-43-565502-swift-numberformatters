@@ -1,0 +1,100 @@
+How to use NumberFormatters in Swift for currency formatting
+Customizing NumberFormatters for localization in Swift
+Formatting decimal numbers with NumberFormatters in Swift
+Converting number strings to NSNumber using NumberFormatters in Swift
+Using NumberFormatters to format percentages in Swift
+Rounding decimal numbers with NumberFormatters in Swift
+Creating a custom number format with NumberFormatters in Swift
+Formatting large numbers with abbreviated units using NumberFormatters in Swift
+Localizing number formatting in Swift using NumberFormatters
+How to format phone numbers using NumberFormatters in Swift
+Applying custom currency symbols with NumberFormatters in Swift
+Handling decimal separators when converting number strings with NumberFormatters in Swift
+Formatting scientific notation with NumberFormatters in Swift
+Displaying negative numbers with NumberFormatters in Swift
+Formatting exponential numbers with NumberFormatters in Swift
+Customizing thousands separators with NumberFormatters in Swift
+Formatting postal codes with NumberFormatters in Swift
+Converting NSNumber to formatted number strings using NumberFormatters in Swift
+Formatting time durations with NumberFormatters in Swift
+Customizing minimum and maximum fraction digits with NumberFormatters in Swift
+Formatting prices with NumberFormatters in Swift
+Converting formatted number strings to NSNumber with NumberFormatters in Swift
+Formatting Roman numerals with NumberFormatters in Swift
+Handling different numbering systems with NumberFormatters in Swift
+Formatting ordinal numbers with NumberFormatters in Swift
+Customizing significant digit counting with NumberFormatters in Swift
+Formatting hexadecimal numbers with NumberFormatters in Swift
+Validating number strings using NumberFormatters in Swift
+Displaying localized currencies with NumberFormatters in Swift
+Handling different number styles with NumberFormatters in Swift
+Formatting fractions with NumberFormatters in Swift
+Converting number strings to formatted phone numbers using NumberFormatters in Swift
+Displaying unit measurements with NumberFormatters in Swift
+Customizing grouping sizes with NumberFormatters in Swift
+Formatting timestamp intervals with NumberFormatters in Swift
+Representing currency amounts with NumberFormatters in Swift
+Displaying mixed fraction numbers with NumberFormatters in Swift
+Formatting binary numbers with NumberFormatters in Swift
+Customizing rounding behaviors with NumberFormatters in Swift
+Handling scientific notation with NumberFormatters in Swift
+Displaying percentage change with NumberFormatters in Swift
+Formatting long decimal numbers with NumberFormatters in Swift
+Displaying number in international numeral systems with NumberFormatters in Swift
+Formatting elapsed time strings with NumberFormatters in Swift
+Customizing exponent symbols with NumberFormatters in Swift
+Handling negative currency amounts with NumberFormatters in Swift
+Formatting scaled numbers with NumberFormatters in Swift
+Displaying localized integer ordinals with NumberFormatters in Swift
+Customizing rounding policies with NumberFormatters in Swift
+Formatting GPS coordinates with NumberFormatters in Swift
+Displaying mixed numeral fractions with NumberFormatters in Swift
+Handling infinity and NaN values with NumberFormatters in Swift
+Formatting engineering notation with NumberFormatters in Swift
+Customizing ordinal suffixes with NumberFormatters in Swift
+Formatting population counts with NumberFormatters in Swift
+Displaying logarithmic scale numbers with NumberFormatters in Swift
+Customizing digit substitution with NumberFormatters in Swift
+Formatting Julian day numbers with NumberFormatters in Swift
+Handling currency formatting for different locales with NumberFormatters in Swift
+Formatting chord progressions with NumberFormatters in Swift
+Displaying repeated decimals with NumberFormatters in Swift
+Customizing special number formats with NumberFormatters in Swift
+Formatting binary-coded decimal numbers with NumberFormatters in Swift
+Handling non-breaking decimal digit formatting with NumberFormatters in Swift
+Displaying number sequences with NumberFormatters in Swift
+Customizing digit width formatting with NumberFormatters in Swift
+Formatting fractions as vulgar numbers with NumberFormatters in Swift
+Preventing rounding errors with NumberFormatters in Swift
+Displaying logarithmic time scales with NumberFormatters in Swift
+Customizing text directions with NumberFormatters in Swift
+Formatting custom date intervals with NumberFormatters in Swift
+Handling exponential big numbers with NumberFormatters in Swift
+Displaying clock time with NumberFormatters in Swift
+Customizing character width formatting with NumberFormatters in Swift
+Formatting repeating decimals with NumberFormatters in Swift
+Handling negative zero with NumberFormatters in Swift
+Displaying mixed radix number systems with NumberFormatters in Swift
+Customizing trailing zeros with NumberFormatters in Swift
+Formatting numeric key codes with NumberFormatters in Swift
+Handling mixed-mode fractions with NumberFormatters in Swift
+Displaying floating-point number components with NumberFormatters in Swift
+Customizing fractional digits with NumberFormatters in Swift
+Formatting mixed-mode numbers with NumberFormatters in Swift
+Handling extremely large or small numbers with NumberFormatters in Swift
+Displaying rational numbers with NumberFormatters in Swift
+Customizing thousands-grouping separators with NumberFormatters in Swift
+Formatting interval distances with NumberFormatters in Swift
+Handling prime numbers with NumberFormatters in Swift
+Displaying non-decimal numeral systems with NumberFormatters in Swift
+Customizing exponent formatting with NumberFormatters in Swift
+Formatting numbers with custom unit symbols using NumberFormatters in Swift
+Handling repeating fractions with NumberFormatters in Swift
+Displaying financial ratios with NumberFormatters in Swift
+Customizing digit width and height ratios with NumberFormatters in Swift
+Formatting musical note durations with NumberFormatters in Swift
+Handling mixed-radix numbers with NumberFormatters in Swift
+Displaying arithmetic progression sequences with NumberFormatters in Swift
+Customizing digit opacity with NumberFormatters in Swift
+Formatting harmonic series numbers with NumberFormatters in Swift
+Handling complex numbers with NumberFormatters in Swift
