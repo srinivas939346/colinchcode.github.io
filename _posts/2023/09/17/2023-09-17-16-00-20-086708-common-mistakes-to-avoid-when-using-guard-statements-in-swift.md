@@ -3,7 +3,7 @@ layout: post
 title: "Common mistakes to avoid when using guard statements in Swift"
 description: " "
 date: 2023-09-17
-tags: [Swift, GuardStatements]
+tags: [GuardStatements]
 comments: true
 share: true
 ---

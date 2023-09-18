@@ -3,7 +3,7 @@ layout: post
 title: "Implementing custom data validation and error handling strategies with Swift Tuples."
 description: " "
 date: 2023-09-15
-tags: [Swift, DataValidation, ErrorHandling]
+tags: [DataValidation, ErrorHandling]
 comments: true
 share: true
 ---

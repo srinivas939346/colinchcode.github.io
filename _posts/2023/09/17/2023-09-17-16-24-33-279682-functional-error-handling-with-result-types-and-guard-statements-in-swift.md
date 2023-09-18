@@ -3,7 +3,7 @@ layout: post
 title: "Functional error handling with Result types and guard statements in Swift"
 description: " "
 date: 2023-09-17
-tags: [swift, functionalprogramming]
+tags: [functionalprogramming]
 comments: true
 share: true
 ---

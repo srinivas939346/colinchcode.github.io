@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the role of Swift Tuples in reactive programming frameworks."
 description: " "
 date: 2023-09-15
-tags: [swift, reactiveprogramming]
+tags: [reactiveprogramming]
 comments: true
 share: true
 ---

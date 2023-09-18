@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for managing background tasks in Swift multithreading"
 description: " "
 date: 2023-09-17
-tags: [Swift, Multithreading]
+tags: [Multithreading]
 comments: true
 share: true
 ---

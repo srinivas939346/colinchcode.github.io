@@ -3,7 +3,7 @@ layout: post
 title: "Automatically saving and restoring document states in Swift document-based apps"
 description: " "
 date: 2023-09-18
-tags: [swift, documentbased]
+tags: [documentbased]
 comments: true
 share: true
 ---

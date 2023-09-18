@@ -3,7 +3,7 @@ layout: post
 title: "Implementing optical character recognition (OCR) for scanned documents in Swift"
 description: " "
 date: 2023-09-18
-tags: [swift]
+tags: []
 comments: true
 share: true
 ---

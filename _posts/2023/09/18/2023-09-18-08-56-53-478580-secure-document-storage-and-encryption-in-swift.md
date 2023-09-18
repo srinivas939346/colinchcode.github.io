@@ -3,7 +3,7 @@ layout: post
 title: "Secure document storage and encryption in Swift"
 description: " "
 date: 2023-09-18
-tags: [Swift, DocumentStorage]
+tags: [DocumentStorage]
 comments: true
 share: true
 ---

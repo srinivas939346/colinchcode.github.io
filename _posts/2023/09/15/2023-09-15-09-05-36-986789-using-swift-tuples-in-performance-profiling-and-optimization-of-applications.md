@@ -3,7 +3,7 @@ layout: post
 title: "Using Swift Tuples in performance profiling and optimization of applications."
 description: " "
 date: 2023-09-15
-tags: [Swift, PerformanceOptimization]
+tags: [PerformanceOptimization]
 comments: true
 share: true
 ---

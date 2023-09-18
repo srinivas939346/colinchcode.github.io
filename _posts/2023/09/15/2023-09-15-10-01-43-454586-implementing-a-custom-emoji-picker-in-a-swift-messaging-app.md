@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a custom emoji picker in a Swift messaging app"
 description: " "
 date: 2023-09-15
-tags: [Swift, iOSProgramming]
+tags: [iOSProgramming]
 comments: true
 share: true
 ---

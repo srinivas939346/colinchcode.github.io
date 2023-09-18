@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a character-based speech recognition feature in a Swift application"
 description: " "
 date: 2023-09-15
-tags: [swift, speechrecognition]
+tags: [speechrecognition]
 comments: true
 share: true
 ---

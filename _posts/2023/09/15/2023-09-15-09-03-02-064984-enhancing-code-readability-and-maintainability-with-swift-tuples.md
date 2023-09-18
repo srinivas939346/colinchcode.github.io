@@ -3,7 +3,7 @@ layout: post
 title: "Enhancing code readability and maintainability with Swift Tuples."
 description: " "
 date: 2023-09-15
-tags: [Swift, CodeReadability]
+tags: [CodeReadability]
 comments: true
 share: true
 ---

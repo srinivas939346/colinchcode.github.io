@@ -3,7 +3,7 @@ layout: post
 title: "Guard statements vs. if-let statements in Swift: pros and cons"
 description: " "
 date: 2023-09-17
-tags: [swift, codingtips]
+tags: [codingtips]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Achieving thread safety in concurrent data access with Swift actors"
 description: " "
 date: 2023-09-17
-tags: [Swift, Concurrency]
+tags: [Concurrency]
 comments: true
 share: true
 ---

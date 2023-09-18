@@ -3,7 +3,7 @@ layout: post
 title: "Implementing custom event handling and routing with Swift Tuples."
 description: " "
 date: 2023-09-15
-tags: [Swift]
+tags: []
 comments: true
 share: true
 ---

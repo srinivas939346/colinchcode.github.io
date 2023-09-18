@@ -3,7 +3,7 @@ layout: post
 title: "Implementing parallel machine learning algorithms in Swift"
 description: " "
 date: 2023-09-17
-tags: [swift, machinelearning]
+tags: [machinelearning]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Creating dynamic data structures using variadic Swift Tuples."
 description: " "
 date: 2023-09-15
-tags: [Swift, DataStructures]
+tags: [DataStructures]
 comments: true
 share: true
 ---

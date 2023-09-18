@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for working with text and characters in Swift"
 description: " "
 date: 2023-09-15
-tags: [swift, textprocessing]
+tags: [textprocessing]
 comments: true
 share: true
 ---

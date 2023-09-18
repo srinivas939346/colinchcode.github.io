@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging Swift Tuples for efficient data streaming and processing."
 description: " "
 date: 2023-09-15
-tags: [Swift, DataProcessing]
+tags: [DataProcessing]
 comments: true
 share: true
 ---

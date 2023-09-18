@@ -3,7 +3,7 @@ layout: post
 title: "Building an AR-based navigation app with Swift in iOS"
 description: " "
 date: 2023-09-14
-tags: [Swift, AugmentedReality]
+tags: [AugmentedReality]
 comments: true
 share: true
 ---

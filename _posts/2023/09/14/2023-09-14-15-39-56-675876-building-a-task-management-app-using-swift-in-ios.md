@@ -3,7 +3,7 @@ layout: post
 title: "Building a task management app using Swift in iOS"
 description: " "
 date: 2023-09-14
-tags: [Swift, TaskManagementApp]
+tags: [TaskManagementApp]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "How to handle and manipulate Swift characters effectively"
 description: " "
 date: 2023-09-15
-tags: [Swift, CharacterHandling]
+tags: [CharacterHandling]
 comments: true
 share: true
 ---

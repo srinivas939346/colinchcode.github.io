@@ -3,7 +3,7 @@ layout: post
 title: "Guarding against invalid states with guard statements in Swift"
 description: " "
 date: 2023-09-17
-tags: [swift, guardstatements]
+tags: [guardstatements]
 comments: true
 share: true
 ---

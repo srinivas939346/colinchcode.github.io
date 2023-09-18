@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing futures and promises for asynchronous programming in Swift"
 description: " "
 date: 2023-09-17
-tags: [swift, asynchronousprogramming]
+tags: [asynchronousprogramming]
 comments: true
 share: true
 ---

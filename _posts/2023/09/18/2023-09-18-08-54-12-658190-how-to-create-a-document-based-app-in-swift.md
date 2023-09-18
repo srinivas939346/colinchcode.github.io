@@ -3,7 +3,7 @@ layout: post
 title: "How to create a document-based app in Swift"
 description: " "
 date: 2023-09-18
-tags: [Swift]
+tags: []
 comments: true
 share: true
 ---

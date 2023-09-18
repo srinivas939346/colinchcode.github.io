@@ -3,7 +3,7 @@ layout: post
 title: "Handling multiple document types in a Swift document-based app"
 description: " "
 date: 2023-09-18
-tags: [swift, documentbasedapp]
+tags: [documentbasedapp]
 comments: true
 share: true
 ---

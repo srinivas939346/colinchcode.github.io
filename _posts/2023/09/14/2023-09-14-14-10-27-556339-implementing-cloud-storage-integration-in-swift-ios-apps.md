@@ -3,7 +3,7 @@ layout: post
 title: "Implementing cloud storage integration in Swift iOS apps"
 description: " "
 date: 2023-09-14
-tags: [Swift, CloudKit]
+tags: [CloudKit]
 comments: true
 share: true
 ---

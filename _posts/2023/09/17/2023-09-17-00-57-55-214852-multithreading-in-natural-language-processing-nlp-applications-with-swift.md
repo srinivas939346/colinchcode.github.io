@@ -3,7 +3,7 @@ layout: post
 title: "Multithreading in natural language processing (NLP) applications with Swift"
 description: " "
 date: 2023-09-17
-tags: [Swift]
+tags: []
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Integrating third-party libraries in Swift for iOS development"
 description: " "
 date: 2023-09-14
-tags: [Swift, Development, ThirdPartyLibraries]
+tags: [Development, ThirdPartyLibraries]
 comments: true
 share: true
 ---

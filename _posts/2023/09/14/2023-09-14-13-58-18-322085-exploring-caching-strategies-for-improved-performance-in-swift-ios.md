@@ -3,7 +3,7 @@ layout: post
 title: "Exploring caching strategies for improved performance in Swift iOS"
 description: " "
 date: 2023-09-14
-tags: [Swift, CachingStrategies]
+tags: [CachingStrategies]
 comments: true
 share: true
 ---

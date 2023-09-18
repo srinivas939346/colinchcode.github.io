@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging Swift Tuples for efficient parallel processing in scientific computing."
 description: " "
 date: 2023-09-15
-tags: [Swift, ParallelProcessing]
+tags: [ParallelProcessing]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for extracting and manipulating substrings based on specific characters in Swift"
 description: " "
 date: 2023-09-15
-tags: [Swift, SubstringExtraction, StringManipulation]
+tags: [SubstringExtraction, StringManipulation]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using Swift Tuples to build advanced robotics and automation systems."
 description: " "
 date: 2023-09-15
-tags: [Swift, Robotics]
+tags: [Robotics]
 comments: true
 share: true
 ---

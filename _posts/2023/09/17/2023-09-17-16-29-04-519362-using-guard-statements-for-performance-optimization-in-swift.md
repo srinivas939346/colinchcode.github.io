@@ -3,7 +3,7 @@ layout: post
 title: "Using guard statements for performance optimization in Swift"
 description: " "
 date: 2023-09-17
-tags: [Swift, PerformanceOptimization]
+tags: [PerformanceOptimization]
 comments: true
 share: true
 ---

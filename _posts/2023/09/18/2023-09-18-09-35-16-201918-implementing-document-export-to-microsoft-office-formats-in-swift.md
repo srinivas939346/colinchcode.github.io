@@ -3,7 +3,7 @@ layout: post
 title: "Implementing document export to Microsoft Office formats in Swift"
 description: " "
 date: 2023-09-18
-tags: [Swift, OfficeKit]
+tags: [OfficeKit]
 comments: true
 share: true
 ---

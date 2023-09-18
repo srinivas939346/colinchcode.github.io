@@ -3,7 +3,7 @@ layout: post
 title: "Multithreading techniques for video processing in Swift"
 description: " "
 date: 2023-09-17
-tags: [Swift, Multithreading]
+tags: [Multithreading]
 comments: true
 share: true
 ---

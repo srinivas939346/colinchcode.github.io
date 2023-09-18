@@ -3,7 +3,7 @@ layout: post
 title: "Creating a PDF viewer using Swift for document-based apps"
 description: " "
 date: 2023-09-18
-tags: [swift, pdfviewer]
+tags: [pdfviewer]
 comments: true
 share: true
 ---

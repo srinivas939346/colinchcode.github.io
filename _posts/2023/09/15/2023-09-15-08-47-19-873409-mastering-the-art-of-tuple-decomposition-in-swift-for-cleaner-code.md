@@ -3,7 +3,7 @@ layout: post
 title: "Mastering the art of tuple decomposition in Swift for cleaner code."
 description: " "
 date: 2023-09-15
-tags: [swift, tupledecomposition]
+tags: [tupledecomposition]
 comments: true
 share: true
 ---

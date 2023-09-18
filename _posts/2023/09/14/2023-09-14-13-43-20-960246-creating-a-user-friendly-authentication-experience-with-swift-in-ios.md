@@ -3,7 +3,7 @@ layout: post
 title: "Creating a user-friendly authentication experience with Swift in iOS"
 description: " "
 date: 2023-09-14
-tags: [Swift, Authentication]
+tags: [Authentication]
 comments: true
 share: true
 ---

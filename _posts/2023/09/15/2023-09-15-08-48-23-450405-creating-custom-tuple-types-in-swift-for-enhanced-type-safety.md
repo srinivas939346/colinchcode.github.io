@@ -3,7 +3,7 @@ layout: post
 title: "Creating custom tuple types in Swift for enhanced type safety."
 description: " "
 date: 2023-09-15
-tags: [Swift, TypeSafety]
+tags: [TypeSafety]
 comments: true
 share: true
 ---

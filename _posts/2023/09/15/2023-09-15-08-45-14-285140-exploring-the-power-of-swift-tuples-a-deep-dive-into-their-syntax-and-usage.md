@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the power of Swift Tuples: A deep dive into their syntax and usage."
 description: " "
 date: 2023-09-15
-tags: [Swift, Tuples]
+tags: [Tuples]
 comments: true
 share: true
 ---

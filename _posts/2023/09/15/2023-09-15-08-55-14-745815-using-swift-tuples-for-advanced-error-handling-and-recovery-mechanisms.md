@@ -3,7 +3,7 @@ layout: post
 title: "Using Swift Tuples for advanced error handling and recovery mechanisms."
 description: " "
 date: 2023-09-15
-tags: [Swift, ErrorHandling]
+tags: [ErrorHandling]
 comments: true
 share: true
 ---

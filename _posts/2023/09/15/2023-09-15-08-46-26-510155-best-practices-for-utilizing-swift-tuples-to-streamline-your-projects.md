@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for utilizing Swift Tuples to streamline your projects."
 description: " "
 date: 2023-09-15
-tags: [swift, tutorials]
+tags: [tutorials]
 comments: true
 share: true
 ---

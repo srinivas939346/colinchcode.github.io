@@ -3,7 +3,7 @@ layout: post
 title: "Building a travel expense tracker app with Swift in iOS"
 description: " "
 date: 2023-09-14
-tags: [Swift]
+tags: []
 comments: true
 share: true
 ---

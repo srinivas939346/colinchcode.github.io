@@ -3,7 +3,7 @@ layout: post
 title: "Enhancing document security with two-factor authentication in Swift"
 description: " "
 date: 2023-09-18
-tags: [Swift, DocumentSecurity]
+tags: [DocumentSecurity]
 comments: true
 share: true
 ---

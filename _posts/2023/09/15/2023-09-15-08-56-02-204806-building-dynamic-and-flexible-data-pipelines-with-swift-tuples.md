@@ -3,7 +3,7 @@ layout: post
 title: "Building dynamic and flexible data pipelines with Swift Tuples."
 description: " "
 date: 2023-09-15
-tags: [swift, datapipeines]
+tags: [datapipeines]
 comments: true
 share: true
 ---

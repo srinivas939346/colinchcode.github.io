@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for translating characters between different languages using Swift"
 description: " "
 date: 2023-09-15
-tags: [Swift, Translation]
+tags: [Translation]
 comments: true
 share: true
 ---

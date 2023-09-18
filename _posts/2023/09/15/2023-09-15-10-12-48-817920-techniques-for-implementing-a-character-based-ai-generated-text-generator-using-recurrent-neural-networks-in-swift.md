@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for implementing a character-based AI-generated text generator using recurrent neural networks in Swift"
 description: " "
 date: 2023-09-15
-tags: [Swift]
+tags: []
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging concurrency for efficient web scraping with Swift"
 description: " "
 date: 2023-09-17
-tags: [swift, webscraping]
+tags: [webscraping]
 comments: true
 share: true
 ---

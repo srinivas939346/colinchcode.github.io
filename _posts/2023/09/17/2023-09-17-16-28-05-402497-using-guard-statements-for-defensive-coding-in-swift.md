@@ -3,7 +3,7 @@ layout: post
 title: "Using guard statements for defensive coding in Swift"
 description: " "
 date: 2023-09-17
-tags: [swift, defensivecoding]
+tags: [defensivecoding]
 comments: true
 share: true
 ---

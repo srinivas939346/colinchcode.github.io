@@ -3,7 +3,7 @@ layout: post
 title: "Implementing image compression and optimization in Swift iOS apps"
 description: " "
 date: 2023-09-14
-tags: [Swift]
+tags: []
 comments: true
 share: true
 ---

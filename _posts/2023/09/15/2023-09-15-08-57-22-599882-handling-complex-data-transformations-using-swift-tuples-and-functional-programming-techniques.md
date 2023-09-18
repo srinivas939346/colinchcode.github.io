@@ -3,7 +3,7 @@ layout: post
 title: "Handling complex data transformations using Swift Tuples and functional programming techniques."
 description: " "
 date: 2023-09-15
-tags: [swift, functionalprogramming]
+tags: [functionalprogramming]
 comments: true
 share: true
 ---

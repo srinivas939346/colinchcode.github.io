@@ -3,7 +3,7 @@ layout: post
 title: "Handling complex data synchronization challenges with Swift Tuples in distributed systems."
 description: " "
 date: 2023-09-15
-tags: [Swift, DataSynchronization]
+tags: [DataSynchronization]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Guarding against database and persistence errors with guard statements in Swift"
 description: " "
 date: 2023-09-17
-tags: [Swift, DatabaseErrors]
+tags: [DatabaseErrors]
 comments: true
 share: true
 ---

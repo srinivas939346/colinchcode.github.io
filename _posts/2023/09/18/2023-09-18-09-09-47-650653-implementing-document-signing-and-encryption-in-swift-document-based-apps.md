@@ -3,7 +3,7 @@ layout: post
 title: "Implementing document signing and encryption in Swift document-based apps"
 description: " "
 date: 2023-09-18
-tags: [swift, security]
+tags: [security]
 comments: true
 share: true
 ---

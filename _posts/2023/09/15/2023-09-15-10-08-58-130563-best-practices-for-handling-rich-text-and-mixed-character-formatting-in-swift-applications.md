@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for handling rich text and mixed character formatting in Swift applications"
 description: " "
 date: 2023-09-15
-tags: [Swift, RichText, TextHandling]
+tags: [RichText, TextHandling]
 comments: true
 share: true
 ---

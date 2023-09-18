@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the use of Swift Tuples in event-driven architectures."
 description: " "
 date: 2023-09-15
-tags: [swift, eventdriven]
+tags: [eventdriven]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Guarding against numeric overflows with guard statements in Swift"
 description: " "
 date: 2023-09-17
-tags: [Swift, NumericOverflow, GuardStatements]
+tags: [NumericOverflow, GuardStatements]
 comments: true
 share: true
 ---

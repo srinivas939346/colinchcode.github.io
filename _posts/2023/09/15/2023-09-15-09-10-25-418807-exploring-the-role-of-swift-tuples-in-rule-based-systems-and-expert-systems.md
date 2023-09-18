@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the role of Swift Tuples in rule-based systems and expert systems."
 description: " "
 date: 2023-09-15
-tags: [swift, rulebasedsystems, expertsystems]
+tags: [rulebasedsystems, expertsystems]
 comments: true
 share: true
 ---

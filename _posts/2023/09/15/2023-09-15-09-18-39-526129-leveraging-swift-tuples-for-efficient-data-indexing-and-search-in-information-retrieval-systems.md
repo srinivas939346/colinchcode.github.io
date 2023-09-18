@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging Swift Tuples for efficient data indexing and search in information retrieval systems."
 description: " "
 date: 2023-09-15
-tags: [Swift, InformationRetrieval]
+tags: [InformationRetrieval]
 comments: true
 share: true
 ---

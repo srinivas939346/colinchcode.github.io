@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for efficiently storing and indexing large-scale text or character-based data in Swift databases"
 description: " "
 date: 2023-09-15
-tags: [Swift, TextData, DatabaseOptimization]
+tags: [TextData, DatabaseOptimization]
 comments: true
 share: true
 ---

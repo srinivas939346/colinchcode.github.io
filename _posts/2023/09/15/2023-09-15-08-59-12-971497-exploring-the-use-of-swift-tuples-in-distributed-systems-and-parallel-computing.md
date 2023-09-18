@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the use of Swift Tuples in distributed systems and parallel computing."
 description: " "
 date: 2023-09-15
-tags: [Swift, Tuples, DistributedSystems, ParallelComputing]
+tags: [Tuples, DistributedSystems, ParallelComputing]
 comments: true
 share: true
 ---

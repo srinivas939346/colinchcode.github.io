@@ -3,7 +3,7 @@ layout: post
 title: "Design patterns for multithreading in Swift applications"
 description: " "
 date: 2023-09-17
-tags: [swift, multithreading]
+tags: [multithreading]
 comments: true
 share: true
 ---

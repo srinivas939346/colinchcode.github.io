@@ -3,7 +3,7 @@ layout: post
 title: "Tips for efficiently converting characters to other data types in Swift"
 description: " "
 date: 2023-09-15
-tags: [Swift, CharacterConversions]
+tags: [CharacterConversions]
 comments: true
 share: true
 ---

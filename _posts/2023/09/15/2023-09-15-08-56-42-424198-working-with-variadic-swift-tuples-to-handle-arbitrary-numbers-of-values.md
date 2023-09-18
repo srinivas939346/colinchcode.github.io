@@ -3,7 +3,7 @@ layout: post
 title: "Working with variadic Swift Tuples to handle arbitrary numbers of values."
 description: " "
 date: 2023-09-15
-tags: [Swift, Tuples]
+tags: [Tuples]
 comments: true
 share: true
 ---

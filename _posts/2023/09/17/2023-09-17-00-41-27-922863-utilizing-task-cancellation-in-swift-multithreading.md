@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing task cancellation in Swift multithreading"
 description: " "
 date: 2023-09-17
-tags: [swift, multithreading]
+tags: [multithreading]
 comments: true
 share: true
 ---

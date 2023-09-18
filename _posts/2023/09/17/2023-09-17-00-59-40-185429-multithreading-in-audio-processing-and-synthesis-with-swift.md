@@ -3,7 +3,7 @@ layout: post
 title: "Multithreading in audio processing and synthesis with Swift"
 description: " "
 date: 2023-09-17
-tags: [swift, multithreading, audio]
+tags: [multithreading, audio]
 comments: true
 share: true
 ---

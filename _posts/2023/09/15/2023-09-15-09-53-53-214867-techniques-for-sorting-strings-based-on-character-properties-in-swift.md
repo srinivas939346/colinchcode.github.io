@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for sorting strings based on character properties in Swift"
 description: " "
 date: 2023-09-15
-tags: [swift, strings, sorting, characterproperties]
+tags: [strings, sorting, characterproperties]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing custom error types and guard statements in Swift"
 description: " "
 date: 2023-09-17
-tags: [swift, errorhandling]
+tags: [errorhandling]
 comments: true
 share: true
 ---

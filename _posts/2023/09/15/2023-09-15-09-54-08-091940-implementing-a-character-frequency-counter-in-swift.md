@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a character frequency counter in Swift"
 description: " "
 date: 2023-09-15
-tags: [Swift, CharacterFrequencyCounter]
+tags: [CharacterFrequencyCounter]
 comments: true
 share: true
 ---

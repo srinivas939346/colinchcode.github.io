@@ -3,7 +3,7 @@ layout: post
 title: "Applying Swift Tuples in sorting and searching algorithms for increased efficiency."
 description: " "
 date: 2023-09-15
-tags: [Swift, SortingAlgorithms, SearchingAlgorithms]
+tags: [SortingAlgorithms, SearchingAlgorithms]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Maximizing code reuse with Swift Tuples in modular software architectures."
 description: " "
 date: 2023-09-15
-tags: [Swift, CodeReuse]
+tags: [CodeReuse]
 comments: true
 share: true
 ---

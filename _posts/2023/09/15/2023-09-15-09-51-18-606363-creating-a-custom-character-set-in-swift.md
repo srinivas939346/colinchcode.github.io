@@ -3,7 +3,7 @@ layout: post
 title: "Creating a custom character set in Swift"
 description: " "
 date: 2023-09-15
-tags: [Swift, CharacterSet]
+tags: [CharacterSet]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Guard clauses in Swift: an in-depth look"
 description: " "
 date: 2023-09-17
-tags: [Swift, GuardClauses]
+tags: [GuardClauses]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for implementing a character-based recommendation system for personalized product recommendations using collaborative filtering and natural language processing in Swift"
 description: " "
 date: 2023-09-15
-tags: [Swift, RecommendationSystem, CollaborativeFiltering]
+tags: [RecommendationSystem, CollaborativeFiltering]
 comments: true
 share: true
 ---

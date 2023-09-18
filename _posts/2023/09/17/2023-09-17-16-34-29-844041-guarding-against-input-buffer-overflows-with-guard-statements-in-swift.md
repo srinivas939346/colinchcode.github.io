@@ -3,7 +3,7 @@ layout: post
 title: "Guarding against input buffer overflows with guard statements in Swift"
 description: " "
 date: 2023-09-17
-tags: [Swift, ErrorHandling]
+tags: [ErrorHandling]
 comments: true
 share: true
 ---

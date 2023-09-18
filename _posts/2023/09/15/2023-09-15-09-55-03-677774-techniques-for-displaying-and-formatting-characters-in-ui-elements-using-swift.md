@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for displaying and formatting characters in UI elements using Swift"
 description: " "
 date: 2023-09-15
-tags: [swift, UIelements]
+tags: [UIelements]
 comments: true
 share: true
 ---

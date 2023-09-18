@@ -3,7 +3,7 @@ layout: post
 title: "Creating a password strength checker based on required character types in Swift"
 description: " "
 date: 2023-09-15
-tags: [Swift, PasswordStrengthChecker]
+tags: [PasswordStrengthChecker]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Handling complex concurrency and parallelism challenges with Swift Tuples."
 description: " "
 date: 2023-09-15
-tags: [Swift, Concurrency]
+tags: [Concurrency]
 comments: true
 share: true
 ---

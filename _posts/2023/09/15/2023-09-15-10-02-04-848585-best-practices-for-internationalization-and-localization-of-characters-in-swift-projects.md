@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for internationalization and localization of characters in Swift projects"
 description: " "
 date: 2023-09-15
-tags: [Swift, Localization]
+tags: [Localization]
 comments: true
 share: true
 ---

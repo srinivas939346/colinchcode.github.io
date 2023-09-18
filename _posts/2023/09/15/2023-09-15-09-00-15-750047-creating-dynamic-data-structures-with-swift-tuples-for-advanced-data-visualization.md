@@ -3,7 +3,7 @@ layout: post
 title: "Creating dynamic data structures with Swift Tuples for advanced data visualization."
 description: " "
 date: 2023-09-15
-tags: [swift, datavisualization]
+tags: [datavisualization]
 comments: true
 share: true
 ---

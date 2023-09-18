@@ -3,7 +3,7 @@ layout: post
 title: "Tips for efficiently handling and manipulating large-scale character datasets in Swift"
 description: " "
 date: 2023-09-15
-tags: [Swift, CharacterDataManipulation]
+tags: [CharacterDataManipulation]
 comments: true
 share: true
 ---

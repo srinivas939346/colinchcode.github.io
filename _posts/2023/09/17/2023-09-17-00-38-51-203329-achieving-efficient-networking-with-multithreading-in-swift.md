@@ -3,7 +3,7 @@ layout: post
 title: "Achieving efficient networking with multithreading in Swift"
 description: " "
 date: 2023-09-17
-tags: [swift, networking, multithreading]
+tags: [networking, multithreading]
 comments: true
 share: true
 ---

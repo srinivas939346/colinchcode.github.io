@@ -3,7 +3,7 @@ layout: post
 title: "Guarding against code injection attacks with guard statements in Swift"
 description: " "
 date: 2023-09-17
-tags: [swift, security]
+tags: [security]
 comments: true
 share: true
 ---

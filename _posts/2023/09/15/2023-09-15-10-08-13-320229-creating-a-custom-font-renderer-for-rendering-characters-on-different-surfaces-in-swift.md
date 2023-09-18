@@ -3,7 +3,7 @@ layout: post
 title: "Creating a custom font renderer for rendering characters on different surfaces in Swift"
 description: " "
 date: 2023-09-15
-tags: [Swift, CustomFontRenderer]
+tags: [CustomFontRenderer]
 comments: true
 share: true
 ---

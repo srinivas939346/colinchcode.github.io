@@ -3,7 +3,7 @@ layout: post
 title: "Using guard statements with pattern matching in Swift"
 description: " "
 date: 2023-09-17
-tags: [Swift, PatternMatching]
+tags: [PatternMatching]
 comments: true
 share: true
 ---

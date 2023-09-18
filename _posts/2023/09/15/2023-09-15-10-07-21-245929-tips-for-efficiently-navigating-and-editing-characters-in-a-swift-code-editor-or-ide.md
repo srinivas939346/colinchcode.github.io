@@ -3,7 +3,7 @@ layout: post
 title: "Tips for efficiently navigating and editing characters in a Swift code editor or IDE"
 description: " "
 date: 2023-09-15
-tags: [Swift, DevelopmentTips]
+tags: [DevelopmentTips]
 comments: true
 share: true
 ---

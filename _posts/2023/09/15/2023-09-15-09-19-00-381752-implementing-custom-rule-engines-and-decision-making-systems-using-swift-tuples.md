@@ -3,7 +3,7 @@ layout: post
 title: "Implementing custom rule engines and decision-making systems using Swift Tuples."
 description: " "
 date: 2023-09-15
-tags: [swift, tuples, ruleengine, decisionmaking]
+tags: [tuples, ruleengine, decisionmaking]
 comments: true
 share: true
 ---

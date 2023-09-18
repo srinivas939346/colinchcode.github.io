@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the benefits of asynchronous programming in Swift"
 description: " "
 date: 2023-09-17
-tags: [Swift, AsynchronousProgramming, iOSDevelopment, macOSDevelopment]
+tags: [AsynchronousProgramming, iOSDevelopment, macOSDevelopment]
 comments: true
 share: true
 ---

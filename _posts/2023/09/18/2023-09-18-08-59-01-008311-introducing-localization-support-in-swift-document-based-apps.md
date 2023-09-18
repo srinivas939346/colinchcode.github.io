@@ -3,7 +3,7 @@ layout: post
 title: "Introducing localization support in Swift document-based apps"
 description: " "
 date: 2023-09-18
-tags: [swift, localization]
+tags: [localization]
 comments: true
 share: true
 ---

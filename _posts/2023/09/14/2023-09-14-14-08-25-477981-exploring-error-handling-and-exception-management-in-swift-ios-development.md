@@ -3,7 +3,7 @@ layout: post
 title: "Exploring error handling and exception management in Swift iOS development"
 description: " "
 date: 2023-09-14
-tags: [Swift, ErrorHandling]
+tags: [ErrorHandling]
 comments: true
 share: true
 ---

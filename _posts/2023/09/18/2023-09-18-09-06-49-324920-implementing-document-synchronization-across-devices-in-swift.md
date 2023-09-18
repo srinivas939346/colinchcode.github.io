@@ -3,7 +3,7 @@ layout: post
 title: "Implementing document synchronization across devices in Swift"
 description: " "
 date: 2023-09-18
-tags: [Swift]
+tags: []
 comments: true
 share: true
 ---

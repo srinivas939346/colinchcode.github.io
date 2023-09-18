@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for implementing a character-based emotion recognition feature using facial expression analysis and natural language processing in Swift"
 description: " "
 date: 2023-09-15
-tags: [Swift, EmotionRecognition, FacialExpressionAnalysis, NaturalLanguageProcessing]
+tags: [EmotionRecognition, FacialExpressionAnalysis, NaturalLanguageProcessing]
 comments: true
 share: true
 ---

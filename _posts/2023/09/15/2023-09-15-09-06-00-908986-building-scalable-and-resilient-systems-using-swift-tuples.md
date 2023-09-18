@@ -3,7 +3,7 @@ layout: post
 title: "Building scalable and resilient systems using Swift Tuples."
 description: " "
 date: 2023-09-15
-tags: [Swift, Tuples]
+tags: [Tuples]
 comments: true
 share: true
 ---

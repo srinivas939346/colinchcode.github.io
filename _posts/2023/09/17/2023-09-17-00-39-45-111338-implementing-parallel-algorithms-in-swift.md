@@ -3,7 +3,7 @@ layout: post
 title: "Implementing parallel algorithms in Swift"
 description: " "
 date: 2023-09-17
-tags: [Swift, ParallelAlgorithms]
+tags: [ParallelAlgorithms]
 comments: true
 share: true
 ---

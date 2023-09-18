@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the role of Swift Tuples in state management architectures."
 description: " "
 date: 2023-09-15
-tags: [Swift, StateManagement]
+tags: [StateManagement]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for implementing a character-based music visualization feature in a Swift audio player"
 description: " "
 date: 2023-09-15
-tags: [swift, musicvisualization]
+tags: [musicvisualization]
 comments: true
 share: true
 ---

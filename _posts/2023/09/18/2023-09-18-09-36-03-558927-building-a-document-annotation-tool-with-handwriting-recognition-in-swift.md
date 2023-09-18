@@ -3,7 +3,7 @@ layout: post
 title: "Building a document annotation tool with handwriting recognition in Swift"
 description: " "
 date: 2023-09-18
-tags: [swift, handwritingrecognition]
+tags: [handwritingrecognition]
 comments: true
 share: true
 ---

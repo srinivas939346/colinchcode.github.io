@@ -3,7 +3,7 @@ layout: post
 title: "Achieving thread safety in Swift with locks and mutexes"
 description: " "
 date: 2023-09-17
-tags: [swift, threadsafe]
+tags: [threadsafe]
 comments: true
 share: true
 ---

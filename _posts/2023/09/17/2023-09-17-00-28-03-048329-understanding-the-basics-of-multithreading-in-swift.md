@@ -3,7 +3,7 @@ layout: post
 title: "Understanding the basics of multithreading in Swift"
 description: " "
 date: 2023-09-17
-tags: [swift, multithreading]
+tags: [multithreading]
 comments: true
 share: true
 ---

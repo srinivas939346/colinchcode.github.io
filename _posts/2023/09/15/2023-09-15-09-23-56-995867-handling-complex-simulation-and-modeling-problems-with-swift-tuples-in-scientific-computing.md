@@ -3,7 +3,7 @@ layout: post
 title: "Handling complex simulation and modeling problems with Swift Tuples in scientific computing."
 description: " "
 date: 2023-09-15
-tags: [swift, scientificcomputing]
+tags: [scientificcomputing]
 comments: true
 share: true
 ---

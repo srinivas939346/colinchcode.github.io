@@ -3,7 +3,7 @@ layout: post
 title: "How to handle optional unwrapping using guard statements in Swift"
 description: " "
 date: 2023-09-17
-tags: [Swift, OptionalUnwrapping]
+tags: [OptionalUnwrapping]
 comments: true
 share: true
 ---

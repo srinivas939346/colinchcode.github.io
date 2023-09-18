@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for efficiently indexing and searching large-scale character-based document collections in Swift applications"
 description: " "
 date: 2023-09-15
-tags: [Swift, SearchOptimization]
+tags: [SearchOptimization]
 comments: true
 share: true
 ---

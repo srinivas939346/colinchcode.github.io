@@ -3,7 +3,7 @@ layout: post
 title: "Guarding against empty collections with guard statements in Swift"
 description: " "
 date: 2023-09-17
-tags: [Swift, GuardStatements, EmptyCollections]
+tags: [GuardStatements, EmptyCollections]
 comments: true
 share: true
 ---

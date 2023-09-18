@@ -3,7 +3,7 @@ layout: post
 title: "Understanding the benefits of using Swift Tuples over traditional data structures."
 description: " "
 date: 2023-09-15
-tags: [swift, tuples]
+tags: [tuples]
 comments: true
 share: true
 ---

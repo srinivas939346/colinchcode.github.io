@@ -3,7 +3,7 @@ layout: post
 title: "Building a real-time chat application using Swift in iOS"
 description: " "
 date: 2023-09-14
-tags: [Swift, RealTimeChat, Firebase]
+tags: [RealTimeChat, Firebase]
 comments: true
 share: true
 ---

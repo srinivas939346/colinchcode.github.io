@@ -3,7 +3,7 @@ layout: post
 title: "Enhancing document editing with rich text formatting options in Swift"
 description: " "
 date: 2023-09-18
-tags: [Swift, DocumentEditing]
+tags: [DocumentEditing]
 comments: true
 share: true
 ---

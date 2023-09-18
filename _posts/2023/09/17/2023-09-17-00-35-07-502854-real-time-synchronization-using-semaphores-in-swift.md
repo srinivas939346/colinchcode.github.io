@@ -3,7 +3,7 @@ layout: post
 title: "Real-time synchronization using semaphores in Swift"
 description: " "
 date: 2023-09-17
-tags: [Swift, Semaphore]
+tags: [Semaphore]
 comments: true
 share: true
 ---

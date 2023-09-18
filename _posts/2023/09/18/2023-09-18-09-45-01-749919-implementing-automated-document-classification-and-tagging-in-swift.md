@@ -3,7 +3,7 @@ layout: post
 title: "Implementing automated document classification and tagging in Swift"
 description: " "
 date: 2023-09-18
-tags: [Swift, MachineLearning]
+tags: [MachineLearning]
 comments: true
 share: true
 ---

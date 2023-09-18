@@ -3,7 +3,7 @@ layout: post
 title: "Creating custom templates for Swift document-based apps"
 description: " "
 date: 2023-09-18
-tags: [Swift, DocumentBasedApps]
+tags: [DocumentBasedApps]
 comments: true
 share: true
 ---

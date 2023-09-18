@@ -3,7 +3,7 @@ layout: post
 title: "Implementing custom recommendation engines using Swift Tuples for personalized content delivery."
 description: " "
 date: 2023-09-15
-tags: [swift, recommendationengine]
+tags: [recommendationengine]
 comments: true
 share: true
 ---

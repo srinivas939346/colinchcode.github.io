@@ -3,7 +3,7 @@ layout: post
 title: "Creating type-safe APIs with Swift Tuples for improved code reliability."
 description: " "
 date: 2023-09-15
-tags: [swift, tuples, apis, codesafety]
+tags: [tuples, apis, codesafety]
 comments: true
 share: true
 ---

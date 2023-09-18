@@ -3,7 +3,7 @@ layout: post
 title: "Using guard statements for authentication and authorization in Swift"
 description: " "
 date: 2023-09-17
-tags: [swift, security]
+tags: [security]
 comments: true
 share: true
 ---

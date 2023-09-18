@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing Grand Central Dispatch (GCD) for multithreading in Swift"
 description: " "
 date: 2023-09-17
-tags: [swift]
+tags: []
 comments: true
 share: true
 ---

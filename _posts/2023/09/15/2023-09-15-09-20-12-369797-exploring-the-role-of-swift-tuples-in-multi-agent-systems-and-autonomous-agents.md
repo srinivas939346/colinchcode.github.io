@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the role of Swift Tuples in multi-agent systems and autonomous agents."
 description: " "
 date: 2023-09-15
-tags: [Swift, MultiAgentSystems, AutonomousAgents]
+tags: [MultiAgentSystems, AutonomousAgents]
 comments: true
 share: true
 ---

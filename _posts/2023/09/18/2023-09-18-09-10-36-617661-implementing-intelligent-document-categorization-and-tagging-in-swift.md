@@ -3,7 +3,7 @@ layout: post
 title: "Implementing intelligent document categorization and tagging in Swift"
 description: " "
 date: 2023-09-18
-tags: [swift, naturallanguage]
+tags: [naturallanguage]
 comments: true
 share: true
 ---

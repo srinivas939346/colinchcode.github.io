@@ -3,7 +3,7 @@ layout: post
 title: "Achieving thread safety in Swift with global variables and synchronization"
 description: " "
 date: 2023-09-17
-tags: [Swift, ThreadSafety]
+tags: [ThreadSafety]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing custom operators with Swift Tuples for expressive and concise code."
 description: " "
 date: 2023-09-15
-tags: [Swift, CustomOperators, Tuples]
+tags: [CustomOperators, Tuples]
 comments: true
 share: true
 ---

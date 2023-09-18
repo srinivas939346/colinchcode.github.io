@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for using guard statements in Swift"
 description: " "
 date: 2023-09-17
-tags: [Swift, BestPractices]
+tags: [BestPractices]
 comments: true
 share: true
 ---

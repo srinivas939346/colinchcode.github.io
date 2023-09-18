@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the character datatype in Swift"
 description: " "
 date: 2023-09-15
-tags: [swift, characters]
+tags: [characters]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Building a fitness tracking app using Swift in iOS"
 description: " "
 date: 2023-09-14
-tags: [Swift, FitnessTracking, AppDevelopment]
+tags: [FitnessTracking, AppDevelopment]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Multithreading techniques for real-time object detection with Swift"
 description: " "
 date: 2023-09-17
-tags: [Swift, Multithreading, ObjectDetection]
+tags: [Multithreading, ObjectDetection]
 comments: true
 share: true
 ---

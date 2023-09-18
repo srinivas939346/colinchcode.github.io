@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for efficiently manipulating and rendering complex characters or character ligatures in Swift applications"
 description: " "
 date: 2023-09-15
-tags: [swift, Typography, Unicode]
+tags: [Typography, Unicode]
 comments: true
 share: true
 ---

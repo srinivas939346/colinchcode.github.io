@@ -3,7 +3,7 @@ layout: post
 title: "Implementing document archiving and compression features in Swift"
 description: " "
 date: 2023-09-18
-tags: [Swift, DocumentArchiving]
+tags: [DocumentArchiving]
 comments: true
 share: true
 ---

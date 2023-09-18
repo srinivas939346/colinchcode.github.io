@@ -3,7 +3,7 @@ layout: post
 title: "Exploring tuple composition in Swift to combine multiple tuples into one."
 description: " "
 date: 2023-09-15
-tags: [Swift, TupleComposition]
+tags: [TupleComposition]
 comments: true
 share: true
 ---

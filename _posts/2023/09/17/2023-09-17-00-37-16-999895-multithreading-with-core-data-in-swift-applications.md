@@ -3,7 +3,7 @@ layout: post
 title: "Multithreading with Core Data in Swift applications"
 description: " "
 date: 2023-09-17
-tags: [Swift, CoreData, Multithreading]
+tags: [CoreData, Multithreading]
 comments: true
 share: true
 ---

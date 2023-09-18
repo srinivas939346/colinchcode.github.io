@@ -3,7 +3,7 @@ layout: post
 title: "Using Swift Tuples to build advanced audio and video processing systems."
 description: " "
 date: 2023-09-15
-tags: [swift, multimedia]
+tags: [multimedia]
 comments: true
 share: true
 ---

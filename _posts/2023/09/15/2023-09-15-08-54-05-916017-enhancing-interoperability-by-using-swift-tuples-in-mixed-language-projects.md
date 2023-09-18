@@ -3,7 +3,7 @@ layout: post
 title: "Enhancing interoperability by using Swift Tuples in mixed-language projects."
 description: " "
 date: 2023-09-15
-tags: [Swift, Interop, MixedLanguageProjects]
+tags: [Interop, MixedLanguageProjects]
 comments: true
 share: true
 ---

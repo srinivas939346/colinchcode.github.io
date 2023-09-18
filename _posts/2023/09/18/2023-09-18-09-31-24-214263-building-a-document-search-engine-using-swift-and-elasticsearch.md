@@ -3,7 +3,7 @@ layout: post
 title: "Building a document search engine using Swift and Elasticsearch"
 description: " "
 date: 2023-09-18
-tags: [Swift, Elasticsearch]
+tags: [Elasticsearch]
 comments: true
 share: true
 ---

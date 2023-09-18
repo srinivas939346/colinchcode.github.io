@@ -3,7 +3,7 @@ layout: post
 title: "Using guard statements for handling user interface events in Swift"
 description: " "
 date: 2023-09-17
-tags: [swift, UIevents]
+tags: [UIevents]
 comments: true
 share: true
 ---

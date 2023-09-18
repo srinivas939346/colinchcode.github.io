@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging Swift Tuples for efficient data validation and sanitization."
 description: " "
 date: 2023-09-15
-tags: [Swift, DataValidation, DataSanitization]
+tags: [DataValidation, DataSanitization]
 comments: true
 share: true
 ---

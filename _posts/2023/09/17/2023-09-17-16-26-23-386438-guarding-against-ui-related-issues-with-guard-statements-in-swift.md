@@ -3,7 +3,7 @@ layout: post
 title: "Guarding against UI-related issues with guard statements in Swift"
 description: " "
 date: 2023-09-17
-tags: [swift, guardstatement, UIissues]
+tags: [guardstatement, UIissues]
 comments: true
 share: true
 ---

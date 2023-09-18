@@ -3,7 +3,7 @@ layout: post
 title: "Securely sharing documents between users in Swift document-based apps"
 description: " "
 date: 2023-09-18
-tags: [Swift, DocumentSharing]
+tags: [DocumentSharing]
 comments: true
 share: true
 ---

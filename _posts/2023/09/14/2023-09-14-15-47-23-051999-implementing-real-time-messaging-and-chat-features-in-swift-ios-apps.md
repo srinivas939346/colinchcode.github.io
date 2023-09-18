@@ -3,7 +3,7 @@ layout: post
 title: "Implementing real-time messaging and chat features in Swift iOS apps"
 description: " "
 date: 2023-09-14
-tags: [swift, chat, Firebase]
+tags: [chat, Firebase]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using guard statements for input sanitization in Swift"
 description: " "
 date: 2023-09-17
-tags: [Swift, InputSanitization]
+tags: [InputSanitization]
 comments: true
 share: true
 ---

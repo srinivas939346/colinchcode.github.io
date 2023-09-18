@@ -3,7 +3,7 @@ layout: post
 title: "Building a responsive and adaptive layout in Swift for iOS"
 description: " "
 date: 2023-09-14
-tags: [Swift]
+tags: []
 comments: true
 share: true
 ---

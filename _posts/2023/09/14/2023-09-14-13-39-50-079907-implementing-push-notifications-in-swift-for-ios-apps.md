@@ -3,7 +3,7 @@ layout: post
 title: "Implementing push notifications in Swift for iOS apps"
 description: " "
 date: 2023-09-14
-tags: [Swift, PushNotifications]
+tags: [PushNotifications]
 comments: true
 share: true
 ---

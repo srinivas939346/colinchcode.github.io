@@ -3,7 +3,7 @@ layout: post
 title: "Implementing document redaction and data anonymization in Swift"
 description: " "
 date: 2023-09-18
-tags: [swift, documentredaction]
+tags: [documentredaction]
 comments: true
 share: true
 ---

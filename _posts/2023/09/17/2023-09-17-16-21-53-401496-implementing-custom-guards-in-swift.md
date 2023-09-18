@@ -3,7 +3,7 @@ layout: post
 title: "Implementing custom guards in Swift"
 description: " "
 date: 2023-09-17
-tags: [Swift, Guards]
+tags: [Guards]
 comments: true
 share: true
 ---

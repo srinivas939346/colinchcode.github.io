@@ -3,7 +3,7 @@ layout: post
 title: "Integrating Swift Tuples with SwiftUI for improved user interface development."
 description: " "
 date: 2023-09-15
-tags: [Swift, SwiftUI]
+tags: [SwiftUI]
 comments: true
 share: true
 ---

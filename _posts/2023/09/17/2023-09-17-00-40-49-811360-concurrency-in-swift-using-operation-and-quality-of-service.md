@@ -3,7 +3,7 @@ layout: post
 title: "Concurrency in Swift using Operation and Quality of Service"
 description: " "
 date: 2023-09-17
-tags: [swift, concurrency]
+tags: [concurrency]
 comments: true
 share: true
 ---

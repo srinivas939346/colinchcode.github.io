@@ -3,7 +3,7 @@ layout: post
 title: "Implementing data parallelism with SIMD in Swift"
 description: " "
 date: 2023-09-17
-tags: [swift, SIMD, dataParallelism]
+tags: [SIMD, dataParallelism]
 comments: true
 share: true
 ---

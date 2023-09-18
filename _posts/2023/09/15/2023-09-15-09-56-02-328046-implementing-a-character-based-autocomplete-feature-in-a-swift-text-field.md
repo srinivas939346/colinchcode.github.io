@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a character-based autocomplete feature in a Swift text field"
 description: " "
 date: 2023-09-15
-tags: [Swift, Autocomplete]
+tags: [Autocomplete]
 comments: true
 share: true
 ---

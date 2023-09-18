@@ -3,7 +3,7 @@ layout: post
 title: "Using guard statements for resource management in Swift"
 description: " "
 date: 2023-09-17
-tags: [swift, resourcemanagement]
+tags: [resourcemanagement]
 comments: true
 share: true
 ---

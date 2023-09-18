@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging Swift Tuples for efficient data caching and memoization techniques."
 description: " "
 date: 2023-09-15
-tags: [swift, caching]
+tags: [caching]
 comments: true
 share: true
 ---

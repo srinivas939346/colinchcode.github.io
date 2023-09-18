@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the Apple App Store guidelines for Swift iOS apps"
 description: " "
 date: 2023-09-14
-tags: [Swift, AppDevelopment]
+tags: [AppDevelopment]
 comments: true
 share: true
 ---

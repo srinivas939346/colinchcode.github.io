@@ -3,7 +3,7 @@ layout: post
 title: "Implementing custom dynamic dispatch mechanisms using Swift Tuples."
 description: " "
 date: 2023-09-15
-tags: [swift, dynamicdispatch]
+tags: [dynamicdispatch]
 comments: true
 share: true
 ---

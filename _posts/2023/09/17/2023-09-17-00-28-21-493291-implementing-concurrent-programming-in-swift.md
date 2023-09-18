@@ -3,7 +3,7 @@ layout: post
 title: "Implementing concurrent programming in Swift"
 description: " "
 date: 2023-09-17
-tags: [swift, concurrency]
+tags: [concurrency]
 comments: true
 share: true
 ---

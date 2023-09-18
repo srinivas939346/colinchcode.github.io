@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing lock-free data structures for efficient multithreading in Swift"
 description: " "
 date: 2023-09-17
-tags: [Swift, Multithreading]
+tags: [Multithreading]
 comments: true
 share: true
 ---

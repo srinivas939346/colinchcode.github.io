@@ -3,7 +3,7 @@ layout: post
 title: "Achieving thread safety in concurrent data structures in Swift"
 description: " "
 date: 2023-09-17
-tags: [swift, threadsafety]
+tags: [threadsafety]
 comments: true
 share: true
 ---

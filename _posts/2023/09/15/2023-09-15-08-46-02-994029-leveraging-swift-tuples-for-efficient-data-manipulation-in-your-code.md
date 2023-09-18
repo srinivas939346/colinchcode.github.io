@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging Swift Tuples for efficient data manipulation in your code."
 description: " "
 date: 2023-09-15
-tags: [swift, tuples]
+tags: [tuples]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Guarding against race conditions with guard statements in Swift"
 description: " "
 date: 2023-09-17
-tags: [swift, raceconditions, multithreading]
+tags: [raceconditions, multithreading]
 comments: true
 share: true
 ---

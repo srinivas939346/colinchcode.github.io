@@ -3,7 +3,7 @@ layout: post
 title: "Building advanced networking APIs with Swift Tuples for better error handling."
 description: " "
 date: 2023-09-15
-tags: [swift, networking, errorhandling]
+tags: [networking, errorhandling]
 comments: true
 share: true
 ---

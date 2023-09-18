@@ -3,7 +3,7 @@ layout: post
 title: "Handling complex distributed transactions and consistency guarantees with Swift Tuples."
 description: " "
 date: 2023-09-15
-tags: [swift, distributedtransactions]
+tags: [distributedtransactions]
 comments: true
 share: true
 ---

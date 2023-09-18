@@ -3,7 +3,7 @@ layout: post
 title: "Dealing with complex data structures using nested Swift Tuples."
 description: " "
 date: 2023-09-15
-tags: [Swift, NestedTuples]
+tags: [NestedTuples]
 comments: true
 share: true
 ---

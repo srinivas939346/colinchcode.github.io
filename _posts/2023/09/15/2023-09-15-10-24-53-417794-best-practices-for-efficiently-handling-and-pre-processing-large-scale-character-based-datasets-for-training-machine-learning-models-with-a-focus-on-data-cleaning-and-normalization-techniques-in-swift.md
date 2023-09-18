@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for efficiently handling and pre-processing large-scale character-based datasets for training machine learning models, with a focus on data cleaning and normalization techniques in Swift"
 description: " "
 date: 2023-09-15
-tags: [Swift, MachineLearning]
+tags: [MachineLearning]
 comments: true
 share: true
 ---

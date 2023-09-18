@@ -3,7 +3,7 @@ layout: post
 title: "Optimizing performance in Swift iOS applications"
 description: " "
 date: 2023-09-14
-tags: [Swift]
+tags: []
 comments: true
 share: true
 ---

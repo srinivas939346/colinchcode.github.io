@@ -3,7 +3,7 @@ layout: post
 title: "Building a document scanning app with Swift in iOS"
 description: " "
 date: 2023-09-14
-tags: [swift, iOSDevelopment]
+tags: [iOSDevelopment]
 comments: true
 share: true
 ---

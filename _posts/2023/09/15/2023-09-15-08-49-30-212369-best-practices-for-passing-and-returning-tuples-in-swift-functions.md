@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for passing and returning tuples in Swift functions."
 description: " "
 date: 2023-09-15
-tags: [swift, tuples]
+tags: [tuples]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Achieving thread safety in Swift with lock striping"
 description: " "
 date: 2023-09-17
-tags: [swift, concurrency]
+tags: [concurrency]
 comments: true
 share: true
 ---

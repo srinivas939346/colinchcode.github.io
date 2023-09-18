@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for Swift iOS development"
 description: " "
 date: 2023-09-14
-tags: [Swift, iOSDevelopment, BestPractices]
+tags: [iOSDevelopment, BestPractices]
 comments: true
 share: true
 ---

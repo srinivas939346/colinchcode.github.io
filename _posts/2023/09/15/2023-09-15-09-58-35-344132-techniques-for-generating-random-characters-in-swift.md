@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for generating random characters in Swift"
 description: " "
 date: 2023-09-15
-tags: [Swift, RandomCharacters]
+tags: [RandomCharacters]
 comments: true
 share: true
 ---

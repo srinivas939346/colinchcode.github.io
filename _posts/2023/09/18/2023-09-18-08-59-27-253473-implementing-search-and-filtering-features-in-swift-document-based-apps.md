@@ -3,7 +3,7 @@ layout: post
 title: "Implementing search and filtering features in Swift document-based apps"
 description: " "
 date: 2023-09-18
-tags: [Swift, DocumentBasedApps]
+tags: [DocumentBasedApps]
 comments: true
 share: true
 ---

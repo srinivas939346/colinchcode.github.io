@@ -3,7 +3,7 @@ layout: post
 title: "Implementing document-based app extensions in Swift"
 description: " "
 date: 2023-09-18
-tags: [Swift, AppExtension]
+tags: [AppExtension]
 comments: true
 share: true
 ---

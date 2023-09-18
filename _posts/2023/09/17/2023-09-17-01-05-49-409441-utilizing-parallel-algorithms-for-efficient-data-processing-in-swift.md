@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing parallel algorithms for efficient data processing in Swift"
 description: " "
 date: 2023-09-17
-tags: [Swift, ParallelAlgorithms]
+tags: [ParallelAlgorithms]
 comments: true
 share: true
 ---

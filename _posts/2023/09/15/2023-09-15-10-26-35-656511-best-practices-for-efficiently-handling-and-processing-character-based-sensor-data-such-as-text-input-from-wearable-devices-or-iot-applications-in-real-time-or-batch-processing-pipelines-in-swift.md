@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for efficiently handling and processing character-based sensor data, such as text input from wearable devices or IoT applications, in real-time or batch processing pipelines in Swift"
 description: " "
 date: 2023-09-15
-tags: [Swift, DataProcessing]
+tags: [DataProcessing]
 comments: true
 share: true
 ---

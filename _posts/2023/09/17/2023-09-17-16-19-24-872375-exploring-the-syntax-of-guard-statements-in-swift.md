@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the syntax of guard statements in Swift"
 description: " "
 date: 2023-09-17
-tags: [swift, guard]
+tags: [guard]
 comments: true
 share: true
 ---

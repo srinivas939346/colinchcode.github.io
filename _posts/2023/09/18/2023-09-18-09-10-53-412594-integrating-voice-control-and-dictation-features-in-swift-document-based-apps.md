@@ -3,7 +3,7 @@ layout: post
 title: "Integrating voice control and dictation features in Swift document-based apps"
 description: " "
 date: 2023-09-18
-tags: [Swift, VoiceControl]
+tags: [VoiceControl]
 comments: true
 share: true
 ---

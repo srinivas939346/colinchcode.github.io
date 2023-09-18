@@ -3,7 +3,7 @@ layout: post
 title: "Integrating barcode and QR code scanning in Swift document-based apps"
 description: " "
 date: 2023-09-18
-tags: [swift, documentapps]
+tags: [documentapps]
 comments: true
 share: true
 ---

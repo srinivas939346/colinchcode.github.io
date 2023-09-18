@@ -3,7 +3,7 @@ layout: post
 title: "Creating custom document export options in Swift"
 description: " "
 date: 2023-09-18
-tags: [Swift, DocumentExportOptions]
+tags: [DocumentExportOptions]
 comments: true
 share: true
 ---

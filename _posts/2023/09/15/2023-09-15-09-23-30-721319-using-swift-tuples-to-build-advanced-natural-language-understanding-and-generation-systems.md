@@ -3,7 +3,7 @@ layout: post
 title: "Using Swift Tuples to build advanced natural language understanding and generation systems."
 description: " "
 date: 2023-09-15
-tags: [Swift]
+tags: []
 comments: true
 share: true
 ---

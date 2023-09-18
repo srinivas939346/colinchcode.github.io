@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for handling multi-byte characters in string manipulation with Swift"
 description: " "
 date: 2023-09-15
-tags: [swift, stringmanipulation]
+tags: [stringmanipulation]
 comments: true
 share: true
 ---

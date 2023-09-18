@@ -3,7 +3,7 @@ layout: post
 title: "Handling complex scheduling and resource management problems with Swift Tuples."
 description: " "
 date: 2023-09-15
-tags: [swift, scheduling, swift, scheduling, resourcemanagement]
+tags: [scheduling, swift, scheduling, resourcemanagement]
 comments: true
 share: true
 ---

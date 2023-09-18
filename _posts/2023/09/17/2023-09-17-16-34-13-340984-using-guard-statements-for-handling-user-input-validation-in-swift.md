@@ -3,7 +3,7 @@ layout: post
 title: "Using guard statements for handling user input validation in Swift"
 description: " "
 date: 2023-09-17
-tags: [Swift, InputValidation]
+tags: [InputValidation]
 comments: true
 share: true
 ---

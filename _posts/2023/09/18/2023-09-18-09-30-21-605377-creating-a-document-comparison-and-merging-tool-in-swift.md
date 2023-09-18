@@ -3,7 +3,7 @@ layout: post
 title: "Creating a document comparison and merging tool in Swift"
 description: " "
 date: 2023-09-18
-tags: [Swift, DocumentComparison]
+tags: [DocumentComparison]
 comments: true
 share: true
 ---

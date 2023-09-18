@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the role of Swift Tuples in blockchain and distributed ledger technologies."
 description: " "
 date: 2023-09-15
-tags: [Swift, Blockchain]
+tags: [Blockchain]
 comments: true
 share: true
 ---

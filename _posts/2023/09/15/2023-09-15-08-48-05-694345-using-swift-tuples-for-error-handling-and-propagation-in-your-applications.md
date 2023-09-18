@@ -3,7 +3,7 @@ layout: post
 title: "Using Swift Tuples for error handling and propagation in your applications."
 description: " "
 date: 2023-09-15
-tags: [swift, errortuples]
+tags: [errortuples]
 comments: true
 share: true
 ---

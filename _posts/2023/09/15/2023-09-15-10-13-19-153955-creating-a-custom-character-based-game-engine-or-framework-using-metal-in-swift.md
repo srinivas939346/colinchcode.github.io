@@ -3,7 +3,7 @@ layout: post
 title: "Creating a custom character-based game engine or framework using Metal in Swift"
 description: " "
 date: 2023-09-15
-tags: [swift, metal]
+tags: [metal]
 comments: true
 share: true
 ---

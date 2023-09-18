@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for efficiently handling and processing multi-lingual and multi-script text or characters in Swift applications"
 description: " "
 date: 2023-09-15
-tags: [Swift, TextProcessing]
+tags: [TextProcessing]
 comments: true
 share: true
 ---

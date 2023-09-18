@@ -3,7 +3,7 @@ layout: post
 title: "Adding image and multimedia support to Swift document-based apps"
 description: " "
 date: 2023-09-18
-tags: [Swift, AppDevelopment]
+tags: [AppDevelopment]
 comments: true
 share: true
 ---

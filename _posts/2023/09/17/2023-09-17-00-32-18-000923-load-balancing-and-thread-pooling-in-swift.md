@@ -3,7 +3,7 @@ layout: post
 title: "Load balancing and thread pooling in Swift"
 description: " "
 date: 2023-09-17
-tags: [swift, loadbalancing, threadpooling]
+tags: [loadbalancing, threadpooling]
 comments: true
 share: true
 ---

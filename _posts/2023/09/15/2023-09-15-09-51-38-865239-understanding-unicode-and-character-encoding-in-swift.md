@@ -3,7 +3,7 @@ layout: post
 title: "Understanding Unicode and character encoding in Swift"
 description: " "
 date: 2023-09-15
-tags: [Swift, Unicode]
+tags: [Unicode]
 comments: true
 share: true
 ---

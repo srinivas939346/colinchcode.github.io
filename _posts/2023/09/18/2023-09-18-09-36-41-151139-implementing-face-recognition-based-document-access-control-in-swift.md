@@ -3,7 +3,7 @@ layout: post
 title: "Implementing face recognition-based document access control in Swift"
 description: " "
 date: 2023-09-18
-tags: [Swift, FaceRecognition]
+tags: [FaceRecognition]
 comments: true
 share: true
 ---

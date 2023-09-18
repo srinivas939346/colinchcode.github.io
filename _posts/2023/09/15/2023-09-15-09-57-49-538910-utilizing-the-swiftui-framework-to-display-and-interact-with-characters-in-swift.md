@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing the SwiftUI framework to display and interact with characters in Swift"
 description: " "
 date: 2023-09-15
-tags: [swift, swiftui]
+tags: [swiftui]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Handling complex resource allocation problems with Swift Tuples in schedulers and resource managers."
 description: " "
 date: 2023-09-15
-tags: [Swift, ResourceAllocation]
+tags: [ResourceAllocation]
 comments: true
 share: true
 ---

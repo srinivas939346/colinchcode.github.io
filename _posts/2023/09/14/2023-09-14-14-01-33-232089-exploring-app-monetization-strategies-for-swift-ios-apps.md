@@ -3,7 +3,7 @@ layout: post
 title: "Exploring app monetization strategies for Swift iOS apps"
 description: " "
 date: 2023-09-14
-tags: [Swift, AppMonetization]
+tags: [AppMonetization]
 comments: true
 share: true
 ---

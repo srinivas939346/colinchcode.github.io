@@ -3,7 +3,7 @@ layout: post
 title: "Enhancing document collaboration with live commenting and annotation in Swift"
 description: " "
 date: 2023-09-18
-tags: [Swift, DocumentCollaboration]
+tags: [DocumentCollaboration]
 comments: true
 share: true
 ---

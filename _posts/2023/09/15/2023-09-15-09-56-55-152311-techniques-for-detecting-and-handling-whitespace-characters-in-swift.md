@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for detecting and handling whitespace characters in Swift"
 description: " "
 date: 2023-09-15
-tags: [Swift, WhitespaceCharacters]
+tags: [WhitespaceCharacters]
 comments: true
 share: true
 ---
