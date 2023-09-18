@@ -3,7 +3,7 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "Colin.swift"
+name:               "colin.sql"
 
 author:
   facebook:         your-id
@@ -20,7 +20,7 @@ author:
   reddit:           your-id
   medium:           your-id
   tumblr:           your-id
-  email:            colin.ch.swift@hotmail.com
+  email:            colin.ch.sql@hotmail.com
 
 copyright:
   year:             2018
@@ -28,14 +28,14 @@ copyright:
 
 # Google-analytics
 google-analytics:
-  id:               "colinchswift"
+  id:               "colinchsql"
 
 # Disqus
 disqus:
-  id:               "colinchswift"
+  id:               "colinchsql"
 
 # URL
-url:                "https://colinchswift.github.io" # the base hostname & protocol for your site
+url:                "https://colinchsql.github.io" # the base hostname & protocol for your site
 # url:                "http://localhost:4000" # use this url when you develop
 baseurl:            "/" # the subpath of your site, e.g. /blog
 
@@ -62,7 +62,7 @@ nav:
   - name:           "Tags"
     url:            "/tags"
   - name:           "Github"
-    url:            "https://colinchswift.github.io"
+    url:            "https://colinchsql.github.io"
 
 # Sass
 sass:
