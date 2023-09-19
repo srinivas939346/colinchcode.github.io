@@ -1,0 +1,100 @@
+CURRENT_DATE - returns the current date
+CURRENT_TIME - returns the current time
+CURRENT_TIMESTAMP - returns the current date and time
+DATE - extracts the date part from a datetime value
+TIME - extracts the time part from a datetime value
+YEAR - extracts the year from a date value
+MONTH - extracts the month from a date value
+DAY - extracts the day from a date value
+HOUR - extracts the hour from a time value
+MINUTE - extracts the minute from a time value
+SECOND - extracts the second from a time value
+MONTHNAME - returns the name of the month from a date value
+DAYNAME - returns the name of the day from a date value
+WEEK - returns the week number from a date value
+QUARTER - returns the quarter of the year from a date value
+DATEADD - adds a specified number of intervals (days, months, years) to a date
+DATEDIFF - calculates the difference between two dates
+DATE_FORMAT - formats a date value based on specified formatting codes
+DATEPART - extracts a specific part (year, month, day) from a date value
+DATENAME - returns the name of a specific part (year, month, day) from a date value
+EOMONTH - returns the last day of the month from a given date value
+LAST_DAY - returns the last day of the month from a given date value
+ADD_MONTHS - adds a specific number of months to a date value
+SYSDATETIME - returns the current date and time
+GETDATE - returns the current date and time
+YEARFRAC - calculates the fraction of a year between two dates
+DAYOFWEEK - returns the day of the week from a date value
+WEEKDAY - returns the weekday index from a date value
+DATEDIFF_BIG - calculates the difference between two dates (for big integer values)
+ISDATE - checks if a string is a valid date
+CONVERT - converts a date value from one format to another
+STR_TO_DATE - converts a string value to a date value based on a specified format
+TIMESTAMPDIFF - calculates the difference between two timestamps
+DATE_TRUNC - truncates a date value to a specified precision
+SET DATEFIRST - sets the first day of the week in a date value
+FORMAT - formats a date value based on a specified format string
+NOW - returns the current date and time
+NEXT_DAY - returns the next occurrence of a specified day of the week after a given date
+ROUND - rounds a date or time value to a specific precision
+DATE_ADD - adds a specified interval to a date value
+DATE_SUB - subtracts a specified interval from a date value
+TIMESTAMP - converts a date and time value to a timestamp
+EXTRACT - extracts a specific part (year, month, day) from a date or time value
+GREATEST - returns the maximum date or time value from a list of values
+LEAST - returns the minimum date or time value from a list of values
+DATE_TRUNCATE - truncates a date or time value to a specified precision
+TO_CHAR - converts a date value to a string based on a specified format
+TO_DATE - converts a string value to a date value based on a specified format
+DATE_DIFF - calculates the difference between two dates
+LAST_CALENDAR_DAY - returns the last day of the calendar month for a given date
+AGE - calculates the difference between two dates in years, months, and days
+ISO_WEEK - returns the ISO week number from a date value
+EPOCH - converts a date or time value to the number of seconds since January 1, 1970
+TIMEZONE - returns the timezone offset from a datetime value
+DATE_TRUNCATE_HOUR - truncates a date or time value to the nearest hour
+DATE_TRUNCATE_MINUTE - truncates a date or time value to the nearest minute
+DATE_TRUNCATE_SECOND - truncates a date or time value to the nearest second
+DATE_TRUNCATE_MILLISECOND - truncates a date or time value to the nearest millisecond
+DATE_TRUNCATE_MICROSECOND - truncates a date or time value to the nearest microsecond
+DATE_TRUNCATE_NANOSECOND - truncates a date or time value to the nearest nanosecond
+LAST_DAY_OF_QUARTER - returns the last day of the quarter for a given date
+NEXT_MONTH - returns the next month in succession after a given date
+ADD_DAYS - adds a specific number of days to a date value
+ADD_HOURS - adds a specific number of hours to a date or time value
+ADD_MINUTES - adds a specific number of minutes to a date or time value
+ADD_SECONDS - adds a specific number of seconds to a date or time value
+ADD_MILLISECONDS - adds a specific number of milliseconds to a date or time value
+ADD_MICROSECONDS - adds a specific number of microseconds to a date or time value
+ADD_NANOSECONDS - adds a specific number of nanoseconds to a date or time value
+NEXT_WEEK - returns the next week in succession after a given date
+NEXT_YEAR - returns the next year in succession after a given date
+PREVIOUS_DAY - returns the previous day before a given date
+PREVIOUS_MONTH - returns the previous month before a given date
+PREVIOUS_YEAR - returns the previous year before a given date
+MONTH_DIFF - calculates the difference between two dates in months
+YEAR_DIFF - calculates the difference between two dates in years
+HOUR_DIFF - calculates the difference between two times in hours
+MINUTE_DIFF - calculates the difference between two times in minutes
+SECOND_DIFF - calculates the difference between two times in seconds
+MILLISECOND_DIFF - calculates the difference between two times in milliseconds
+MICROSECOND_DIFF - calculates the difference between two times in microseconds
+NANOSECOND_DIFF - calculates the difference between two times in nanoseconds
+DAY_END - returns the end of the day for a given date
+WEEK_START - returns the start of the week for a given date
+WEEK_END - returns the end of the week for a given date
+QUARTER_START - returns the start of the quarter for a given date
+QUARTER_END - returns the end of the quarter for a given date
+YEAR_START - returns the start of the year for a given date
+YEAR_END - returns the end of the year for a given date
+CURRENT_DATE_TIMEZONE - returns the current date and time in the current timezone
+CURRENT_TIMEZONE - returns the current timezone
+UTC_TIMESTAMP - returns the current date and time in UTC
+CONVERT_TZ - converts a date or time value from one timezone to another
+TRUNCATE - truncates a date or time value to a specific precision
+INTERVAL - defines a specific interval of time
+EXTRACT_DAY - extracts the day from a date or time value
+EXTRACT_MONTH - extracts the month from a date or time value
+EXTRACT_YEAR - extracts the year from a date or time value
+EXTRACT_HOUR - extracts the hour from a date or time value
+EXTRACT_MINUTE - extracts the minute from a date or time value

@@ -1,0 +1,100 @@
+Basic syntax of INNER JOIN in SQL
+Difference between INNER JOIN and other types of joins (LEFT JOIN, RIGHT JOIN, FULL OUTER JOIN)
+Understanding how INNER JOIN works
+Scenario examples using INNER JOIN
+Using INNER JOIN with multiple tables
+Performing INNER JOIN with aliases
+INNER JOIN vs. CROSS JOIN
+Common mistakes to avoid when using INNER JOIN
+INNER JOIN with NULL values
+INNER JOIN with multiple conditions
+INNER JOIN with aggregate functions (SUM, COUNT, AVG)
+INNER JOIN with self-referencing tables
+INNER JOIN with temporary tables
+Performance considerations when using INNER JOIN
+INNER JOIN in subqueries
+Using INNER JOIN in conjunction with GROUP BY and HAVING clauses
+INNER JOIN with the EXISTS operator
+INNER JOIN vs. INNER JOIN WHERE clause
+INNER JOIN with table-valued functions
+INNER JOIN with the APPLY operator
+Using INNER JOIN with conditional logic (CASE statement)
+INNER JOIN with UNION and UNION ALL operators
+INNER JOIN in hierarchical data structures (parent-child relationships)
+Difference between INNER JOIN and natural join
+INNER JOIN with self-join (joining a table with itself)
+INNER JOIN with the OVER clause
+INNER JOIN with the ROW_NUMBER() function
+INNER JOIN with the RANK() function
+INNER JOIN with the DENSE_RANK() function
+INNER JOIN with the LAG() and LEAD() functions
+INNER JOIN with the NTILE() function
+INNER JOIN with the FIRST_VALUE() and LAST_VALUE() functions
+INNER JOIN with the COALESCE() function
+INNER JOIN with the CONCAT() function
+INNER JOIN with the DATEPART() function
+INNER JOIN with the UPPER() and LOWER() functions
+INNER JOIN with the SUBSTRING() function
+INNER JOIN with the REPLACE() function
+INNER JOIN with the CHARINDEX() function
+INNER JOIN with the ROUND() function
+INNER JOIN with the CEILING() and FLOOR() functions
+INNER JOIN with the ABS() function
+INNER JOIN with the ISNULL() function
+INNER JOIN with the NULLIF() function
+INNER JOIN with the COALESCE() function
+INNER JOIN with the CAST() and CONVERT() functions
+INNER JOIN with the DATEADD() function
+INNER JOIN with the DATEDIFF() function
+INNER JOIN with the GETDATE() function
+INNER JOIN with the FORMAT() function
+INNER JOIN with the STUFF() function
+INNER JOIN with the XML functions (XML PATH, FOR XML)
+INNER JOIN with the JSON functions (OPENJSON, JSON_VALUE)
+INNER JOIN with the STRING functions (LEN, LEFT, RIGHT)
+INNER JOIN with the MATH functions (PI, POWER, SQRT)
+INNER JOIN with the AGGREGATE functions (MIN, MAX)
+INNER JOIN with the STRING manipulation functions (REVERSE, CONCATENATE)
+INNER JOIN with the DATE and TIME functions (DATEDIFF, DATEADD)
+INNER JOIN with the LOGICAL functions (AND, OR, NOT)
+INNER JOIN with the STATISTICAL functions (AVERAGE, MEDIAN)
+INNER JOIN with the SET functions (UNION, INTERSECT, EXCEPT)
+INNER JOIN with the WINDOW functions (ROW_NUMBER, RANK, LAG)
+INNER JOIN with the DATA TYPE functions (ISNULL, CAST, CONVERT)
+INNER JOIN with the STRING search functions (CHARINDEX, PATINDEX, REPLACE)
+INNER JOIN with the MATH functions (ABS, CEILING, FLOOR)
+INNER JOIN with the CONTROL FLOW functions (CASE, IF, SWITCH)
+INNER JOIN with the GROUP BY and HAVING clauses
+INNER JOIN with the PIVOT and UNPIVOT operators
+INNER JOIN with the XML and JSON functions (XML PATH, FOR JSON)
+INNER JOIN with the AGGREGATE functions (SUM, COUNT, AVG)
+INNER JOIN with the STRING manipulation functions (SUBSTRING, CONCAT)
+INNER JOIN with the DATE and TIME functions (GETDATE, FORMAT)
+INNER JOIN with the LOGICAL functions (AND, OR, NOT)
+INNER JOIN with the STATISTICAL functions (STDDEV, VARIANCE)
+INNER JOIN with the SET functions (UNION, INTERSECT, EXCEPT)
+INNER JOIN with the WINDOW functions (ROW_NUMBER, RANK, LAG)
+INNER JOIN with the DATA TYPE functions (ISNULL, CAST, CONVERT)
+INNER JOIN with the STRING search functions (CHARINDEX, PATINDEX, REPLACE)
+INNER JOIN with the MATH functions (ABS, CEILING, FLOOR)
+INNER JOIN with the CONTROL FLOW functions (CASE, IF, SWITCH)
+INNER JOIN with the GROUP BY and HAVING clauses
+INNER JOIN with the PIVOT and UNPIVOT operators
+INNER JOIN with the XML and JSON functions (XML PATH, FOR JSON)
+INNER JOIN with the AGGREGATE functions (SUM, COUNT, AVG)
+INNER JOIN with the STRING manipulation functions (SUBSTRING, CONCAT)
+INNER JOIN with the DATE and TIME functions (GETDATE, FORMAT)
+INNER JOIN with the LOGICAL functions (AND, OR, NOT)
+INNER JOIN with the STATISTICAL functions (STDDEV, VARIANCE)
+INNER JOIN with the SET functions (UNION, INTERSECT, EXCEPT)
+INNER JOIN with the WINDOW functions (ROW_NUMBER, RANK, LAG)
+INNER JOIN with the DATA TYPE functions (ISNULL, CAST, CONVERT)
+INNER JOIN with the STRING search functions (CHARINDEX, PATINDEX, REPLACE)
+INNER JOIN with the MATH functions (ABS, CEILING, FLOOR)
+INNER JOIN with the CONTROL FLOW functions (CASE, IF, SWITCH)
+INNER JOIN with the GROUP BY and HAVING clauses
+INNER JOIN with the PIVOT and UNPIVOT operators
+INNER JOIN with the XML and JSON functions (XML PATH, FOR JSON)
+INNER JOIN with the AGGREGATE functions (SUM, COUNT, AVG)
+INNER JOIN with the STRING manipulation functions (SUBSTRING, CONCAT)
+INNER JOIN with the DATE and TIME functions (GETDATE, FORMAT)

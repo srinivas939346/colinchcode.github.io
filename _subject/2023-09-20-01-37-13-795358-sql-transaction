@@ -1,0 +1,100 @@
+ACID properties in SQL transactions
+Commit in SQL transactions
+Rollback in SQL transactions
+Savepoint in SQL transactions
+Transaction isolation levels in SQL
+Nested transactions in SQL
+Transaction control statements in SQL
+Implicit transactions in SQL
+Explicit transactions in SQL
+Transaction log in SQL
+Transaction deadlock in SQL
+Distributed transactions in SQL
+Atomicity in SQL transactions
+Consistency in SQL transactions
+Isolation in SQL transactions
+Durability in SQL transactions
+Locking in SQL transactions
+Deadlock prevention in SQL transactions
+Deadlock detection in SQL transactions
+Savepoint vs rollback in SQL transactions
+Dirty read in SQL transactions
+Non-repeatable read in SQL transactions
+Phantom read in SQL transactions
+Serializable isolation level in SQL transactions
+Repeatable read isolation level in SQL transactions
+Read committed isolation level in SQL transactions
+Read uncommitted isolation level in SQL transactions
+Behaviour of auto-commit mode in SQL transactions
+Implicit vs explicit transaction modes in SQL
+Set autocommit in SQL transactions
+Nested transactions in SQL Server
+Transaction handling in MySQL
+Transaction handling in PostgreSQL
+Transaction handling in Oracle
+Transaction handling in Microsoft SQL Server
+Begin transaction in SQL
+Commit transaction in SQL
+Rollback transaction in SQL
+Set transaction isolation level in SQL
+Set transaction savepoint in SQL
+Transaction management in SQL Server
+Transaction management in MySQL
+Transaction management in PostgreSQL
+Transaction management in Oracle
+Transaction management in Microsoft SQL Server
+Transaction management in SQLite
+Explicit transaction example in SQL
+Implicit transaction example in SQL
+Handling errors in SQL transactions
+Rollback on error in SQL transactions
+Atomicity in database transactions
+Consistency in database transactions
+Isolation in database transactions
+Durability in database transactions
+Lock-based concurrency control in SQL transactions
+Optimistic concurrency control in SQL transactions
+Two-phase commit protocol in distributed transactions
+Three-phase commit protocol in distributed transactions
+Distributed transaction management in SQL Server
+Distributed transaction management in Oracle
+Distributed transaction management in MySQL
+Distributed transaction management in PostgreSQL
+Data integrity in SQL transactions
+ACID compliance in SQL transactions
+Transaction log backup in SQL Server
+Point-in-time recovery in SQL Server
+Transaction logging in MySQL
+Transaction logging in PostgreSQL
+Transaction logging in Oracle
+Transaction logging in Microsoft SQL Server
+Transaction logging in SQLite
+Dirty write in SQL transactions
+Lost update in SQL transactions
+Cascading rollback in SQL transactions
+Partial rollback in SQL transactions
+Concurrent access in SQL transactions
+High isolation level in SQL transactions
+Stale read in SQL transactions
+Unrepeatable read in SQL transactions
+Transactional consistency in SQL transactions
+Snapshot isolation level in SQL transactions
+MVCC (Multi-Version Concurrency Control) in SQL transactions
+Nested transaction example in SQL
+Transaction handling in MariaDB
+Transaction handling in IBM DB2
+Transaction handling in Sybase
+Transaction handling in SAP HANA
+Transaction handling in Teradata
+Transaction handling in Informix
+Rollback transaction on error in SQL Server
+Transaction management in SQL Server Management Studio
+Transaction management in MySQL Workbench
+Transaction management in Oracle SQL Developer
+Transaction management in pgAdmin
+Transaction management in Microsoft Visual Studio
+Transaction management in IntelliJ IDEA
+Transaction management in Eclipse
+Read-only transactions in SQL
+Transaction handling in MongoDB
+Transaction handling in Cassandra

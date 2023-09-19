@@ -1,0 +1,100 @@
+Full database restore
+Differential database restore
+Transaction log restore
+Point-in-time restore
+Filegroup restore
+Page restore
+Complete restore
+Partial restore
+Online restore
+Offline restore
+Copy-only restore
+Restore with recovery
+Restore with norecovery
+Standby database restore
+Standby mode restore
+Standby read-only restore
+Standby disconnect restore
+Standby active restore
+Standby automatic failover restore
+Standby manual failover restore
+Standby log shipping restore
+Standby mirroring restore
+Standby clustering restore
+Standby Always On Availability Groups restore
+Standby restore from backup
+Standby temporary restore
+Standby delayed restore
+Standby partial restore
+Standby alternate restore
+Standby copy-only restore
+Standby point-in-time restore
+Standby differential restore
+Standby transaction log restore
+Standby filegroup restore
+Standby page restore
+Standby complete restore
+Standby partial restore
+Database restore from backup
+Database restore from file
+Database restore from URL
+Database restore from device
+Database restore from disk
+Database restore from tape
+Database restore from Azure Blob Storage
+Database restore from AWS S3
+Database restore from Google Cloud Storage
+Database restore from FTP
+Database restore from network share
+Database restore from local drive
+Database restore to new location
+Database restore to existing location
+Database restore to different server
+Database restore to same server
+Database restore to standby server
+Database restore to secondary server
+Database restore to mirrored server
+Database restore to clustered server
+Database restore to Always On Availability Groups
+Database restore to read-only mode
+Database restore to offline mode
+Database restore to emergency mode
+Database restore with overwrite
+Database restore with replace
+Database restore with move
+Database restore with rename
+Database restore with relocate
+Database restore with reattach
+Database restore with attach
+Database restore with rebuild
+Database restore with recover
+Database restore with norecover
+Database restore with standby
+Database restore with continue_after_error
+Database restore with restart
+Database restore with force
+Database restore with ignore_damaged_pages
+Database restore with allow_data_loss
+Database restore with online
+Database restore with offline
+Database restore with keep_cdc
+Database restore with disable_scripting_options
+Database restore with stop_on_error
+Database restore with check_damaged_pages
+Database restore with verify_media
+Database restore with verify_only
+Database restore with checksum
+Database restore with tail_log
+Database restore with differential
+Database restore with transaction log
+Database restore with filegroup
+Database restore with page
+Database restore with complete
+Database restore with partial
+Database restore with alternate
+Database restore with temporary
+Database restore with delayed
+Database restore with copy-only
+Database restore with point-in-time
+Database restore with standby
+Database restore with system databases

@@ -1,0 +1,100 @@
+Basic SELECT statements
+SELECT DISTINCT
+WHERE clause
+Comparison operators in WHERE clause
+BETWEEN operator
+IS NULL operator
+LIKE operator
+IN operator
+ORDER BY clause
+ASC and DESC sorting
+LIMIT clause
+OFFSET clause
+GROUP BY clause
+HAVING clause
+Aggregate functions (SUM, AVG, COUNT, MAX, MIN)
+JOIN operation
+INNER JOIN
+LEFT JOIN
+RIGHT JOIN
+FULL OUTER JOIN
+CROSS JOIN
+UNION operator
+Subquery
+Existence check (EXISTS, NOT EXISTS)
+ANY and ALL operators
+CASE statement
+String functions (SUBSTRING, CONCAT, LENGTH, UPPER, LOWER)
+Date functions (DATE, EXTRACT, DATE_ADD, DATE_DIFF)
+Math functions (ROUND, CEILING, FLOOR, ABS)
+Typecasting (CAST, CONVERT)
+Nested functions
+Views
+Indexing
+Primary keys and foreign keys
+Transactions
+Stored procedures
+Triggers
+Cursors
+Conditional statements (IF, ELSE, IF-ELSEIF-ELSE)
+Error handling (TRY-CATCH)
+Temporary tables
+Wildcards in LIKE operator
+Aliases for table and column names
+RANK and DENSE_RANK functions
+Common table expressions (CTE)
+Window functions (ROW_NUMBER, LAG, LEAD)
+PIVOT and UNPIVOT operations
+Recursive queries
+Creating and modifying tables
+Inserting data into tables
+Updating table data
+Deleting table data
+Truncating tables
+Primary key constraints
+Unique constraints
+Foreign key constraints
+Check constraints
+Default values for columns
+Adding and dropping columns
+Renaming columns
+Modifying column data types
+Creating and using sequences
+Importing and exporting data
+Backup and restore procedures
+Analyzing query performance
+Optimization techniques
+Denormalization
+Replication
+Partitioning
+Join hints
+Query plan analysis
+Index tuning
+Locking and concurrency control
+Query optimization statistics
+Query execution plans
+Parallel query execution
+Query hints for specific DBMS (MySQL, Oracle, SQL Server, PostgreSQL)
+Stored procedures performance optimization
+Trigger performance optimization
+Memory usage optimization
+Query rewrite techniques
+Query optimization best practices
+Indexing strategies
+Database design principles
+Normalization forms
+Database normalization techniques
+Denormalization techniques for performance
+Database performance monitoring
+Query optimization tools
+Database performance tuning
+Database performance benchmarking
+SQL injection prevention techniques
+Data encryption in databases
+Data backup and recovery strategies
+Database security best practices
+Auditing database activities
+Database scalability techniques
+Database sharding
+Database clustering
+Database replication strategies

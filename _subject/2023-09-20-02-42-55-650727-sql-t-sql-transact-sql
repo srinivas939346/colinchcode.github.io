@@ -1,0 +1,100 @@
+Introduction to SQL T-SQL
+History and evolution of T-SQL
+Basic syntax and structure of T-SQL
+Data types in T-SQL
+SQL Server Management Studio (SSMS) and T-SQL
+Variables and data manipulation in T-SQL
+Creating and managing tables in T-SQL
+Selecting data with the SELECT statement in T-SQL
+Filtering and sorting data in T-SQL
+Aggregating data with GROUP BY and HAVING in T-SQL
+Joining tables in T-SQL
+Subqueries in T-SQL
+Common Table Expressions (CTEs) in T-SQL
+Stored procedures in T-SQL
+User-defined functions in T-SQL
+Triggers in T-SQL
+Transactions and error handling in T-SQL
+Indexes and performance optimization in T-SQL
+Cursors in T-SQL
+Views in T-SQL
+Temporary tables and table variables in T-SQL
+Dynamic SQL in T-SQL
+Working with dates and times in T-SQL
+String manipulation in T-SQL
+Mathematical operations in T-SQL
+Conditional statements (IF-ELSE) in T-SQL
+Loops (WHILE and FOR) in T-SQL
+Error logging and error handling in T-SQL
+Security and permissions in T-SQL
+Full-text search in T-SQL
+XML and JSON support in T-SQL
+Query optimization techniques in T-SQL
+Cursors versus set-based operations in T-SQL
+Performance tuning with execution plans in T-SQL
+Working with large datasets in T-SQL
+Handling NULL values in T-SQL
+Case sensitivity in T-SQL
+Backup and restore databases in T-SQL
+Creating and managing users and logins in T-SQL
+Data encryption in T-SQL
+Querying and modifying metadata in T-SQL
+Pivoting and unpivoting data in T-SQL
+Window functions in T-SQL
+Ranking functions in T-SQL
+Working with file and filestream data in T-SQL
+Implementing checksums and hash functions in T-SQL
+Querying system databases in T-SQL
+Replication in T-SQL
+SQL Server Agent and job scheduling in T-SQL
+Querying and modifying extended properties in T-SQL
+Querying and analyzing query plans in T-SQL
+Profiling and performance monitoring in T-SQL
+Database maintenance tasks in T-SQL
+Query hints and performance tuning in T-SQL
+Common performance issues and their solutions in T-SQL
+Managing database schemas in T-SQL
+Error handling and troubleshooting techniques in T-SQL
+Migrating data to/from T-SQL
+Using T-SQL with linked servers
+Importing and exporting data in T-SQL
+Implementing triggers for auditing and logging in T-SQL
+Data validation and integrity constraints in T-SQL
+Working with XML data in T-SQL
+Creating and managing database diagrams in T-SQL
+Implementing data partitioning in T-SQL
+Querying and modifying system configurations in T-SQL
+Implementing change tracking in T-SQL
+Querying and monitoring deadlock information in T-SQL
+Implementing database snapshots in T-SQL
+Implementing data compression in T-SQL
+Querying and modifying service broker objects in T-SQL
+Implementing table and index partitioning in T-SQL
+Implementing full-text indexing and searching in T-SQL
+Working with table-valued parameters in T-SQL
+Querying and modifying database statistics in T-SQL
+Implementing change data capture in T-SQL
+Querying and modifying extended events in T-SQL
+Implementing database mail in T-SQL
+Working with hierarchical data in T-SQL
+Implementing database mirroring in T-SQL
+Querying and modifying database backups in T-SQL
+Implementing database snapshots for reporting purposes in T-SQL
+Implementing data replication in T-SQL
+Querying and modifying memory-optimized tables in T-SQL
+Implementing data masking in T-SQL
+Querying and modifying filestream data in T-SQL
+Implementing database maintenance plans in T-SQL
+Querying and modifying distributed transaction coordinator (DTC) settings in T-SQL
+Implementing query notifications in T-SQL
+Working with system-versioned temporal tables in T-SQL
+Querying and modifying database triggers in T-SQL
+Implementing in-memory OLTP in T-SQL
+Querying and modifying database schemas in T-SQL
+Implementing database snapshots for data recovery in T-SQL
+Querying and modifying database compatibility level in T-SQL
+Implementing data compression for database backups in T-SQL
+Querying and modifying transparent data encryption in T-SQL
+Implementing remote data access in T-SQL
+Querying and modifying change tracking in T-SQL
+Implementing temporal tables for auditing purposes in T-SQL

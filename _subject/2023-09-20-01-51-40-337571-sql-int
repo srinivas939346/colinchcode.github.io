@@ -1,0 +1,100 @@
+SQL INT data type
+SQL INT size limitations
+SQL INT vs SMALLINT
+SQL INT vs BIGINT
+SQL INT data storage requirements
+SQL INT data type syntax
+SQL INT in CREATE TABLE statement
+SQL INT in INSERT statement
+SQL INT in UPDATE statement
+SQL INT in SELECT statement
+SQL INT in WHERE clause
+SQL INT in ORDER BY clause
+SQL INT in GROUP BY clause
+SQL INT in HAVING clause
+SQL INT in JOIN statement
+SQL INT in UNIQUE constraint
+SQL INT in CHECK constraint
+SQL INT in DEFAULT value
+SQL INT in INDEX creation
+SQL INT in FOREIGN KEY constraint
+SQL INT data type conversions
+SQL INT to VARCHAR conversion
+SQL INT to DECIMAL conversion
+SQL INT to DATE conversion
+SQL INT to BOOLEAN conversion
+SQL INT to FLOAT conversion
+SQL INT to DOUBLE conversion
+SQL INT to TIMESTAMP conversion
+SQL INT to CHAR conversion
+SQL INT to BINARY conversion
+SQL INT arithmetic operations
+SQL INT addition
+SQL INT subtraction
+SQL INT multiplication
+SQL INT division
+SQL INT modulus
+SQL INT absolute value
+SQL INT rounding functions
+SQL INT ceiling function
+SQL INT floor function
+SQL INT round function
+SQL INT truncate function
+SQL INT aggregate functions
+SQL INT count function
+SQL INT sum function
+SQL INT average function
+SQL INT max function
+SQL INT min function
+SQL INT date functions
+SQL INT date extraction functions
+SQL INT year function
+SQL INT month function
+SQL INT day function
+SQL INT hour function
+SQL INT minute function
+SQL INT second function
+SQL INT date manipulation functions
+SQL INT date addition
+SQL INT date subtraction
+SQL INT date comparison
+SQL INT date formatting
+SQL INT string functions
+SQL INT concatenation
+SQL INT substring extraction
+SQL INT string length
+SQL INT uppercase conversion
+SQL INT lowercase conversion
+SQL INT trimming whitespace
+SQL INT case-sensitive comparison
+SQL INT case-insensitive comparison
+SQL INT logical operators
+SQL INT equal to operator
+SQL INT not equal to operator
+SQL INT greater than operator
+SQL INT less than operator
+SQL INT greater than or equal to operator
+SQL INT less than or equal to operator
+SQL INT logical AND operator
+SQL INT logical OR operator
+SQL INT logical NOT operator
+SQL INT NULL values handling
+SQL INT NULL checking
+SQL INT NULL substitution
+SQL INT NULL ordering
+SQL INT NULL arithmetic operations
+SQL INT NULL comparison
+SQL INT NULL concatenation
+SQL INT NULL in aggregate functions
+SQL INT indexing strategies
+SQL INT clustered index
+SQL INT non-clustered index
+SQL INT unique index
+SQL INT composite index
+SQL INT filtered index
+SQL INT index performance optimization
+SQL INT index fragmentation management
+SQL INT index statistics
+SQL INT index hints
+SQL INT index usage analysis
+SQL INT index maintenance strategies

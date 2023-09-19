@@ -1,0 +1,100 @@
+ACID properties in SQL transactions
+Commit and rollback in SQL transactions
+Nested transactions in SQL
+Savepoints in SQL transactions
+Isolation levels in SQL transactions
+Concurrent access in SQL transactions
+Deadlocks in SQL transactions
+Locking mechanisms in SQL transactions
+Implicit and explicit transactions in SQL
+Error handling in SQL transactions
+Data integrity in SQL transactions
+Atomicity in SQL transactions
+Consistency in SQL transactions
+Isolation in SQL transactions
+Durability in SQL transactions
+Transaction log in SQL
+Undo and redo operations in SQL transactions
+Benefits of using transactions in SQL databases
+Best practices for using transactions in SQL
+Tracking transaction history in SQL
+Distributed transactions in SQL
+Handling multiple data modifications in a single transaction
+Cascading updates and deletes in SQL transactions
+Handling savepoints in SQL transactions
+Transaction control statements in SQL
+Implicit commit in SQL transactions
+Atomically saving changes in SQL transactions
+Optimistic and pessimistic locking in SQL transactions
+ACID compliance in relational databases
+Rollback segments in SQL transactions
+Undo space management in SQL transactions
+Creating and dropping savepoints in SQL transactions
+Transaction isolation levels and their implications
+Dirty read in SQL transactions
+Unrepeatable read in SQL transactions
+Phantom read in SQL transactions
+Read committed isolation level in SQL transactions
+Read uncommitted isolation level in SQL transactions
+Repeatable read isolation level in SQL transactions
+Serializable isolation level in SQL transactions
+Locking granularity in SQL transactions
+Shared and exclusive locks in SQL transactions
+Explicitly setting isolation levels in SQL transactions
+Deadlock detection and prevention in SQL transactions
+Deadlock resolution methods in SQL transactions
+Handling lock timeouts in SQL transactions
+Deferred constraint checking in SQL transactions
+Performing auto-commit in SQL transactions
+Implicit versus explicit lock modes in SQL transactions
+Using two-phase commit protocol in distributed transactions
+Handling long-running transactions in SQL
+Rollback and recovery in SQL transactions
+Optimizing transaction processing in SQL databases
+Partitioning transactions in SQL databases
+Transaction boundaries and scope in SQL
+ACID versus BASE principles in transaction management
+Atomic commit with replicated data in SQL transactions
+Implementing optimistic concurrency control in SQL transactions
+Handling concurrency conflicts in SQL transactions
+Handling data consistency checks in SQL transactions
+Distributed deadlock detection in SQL transactions
+Implementing distributed two-phase commit in SQL transactions
+Transactional data integrity in SQL databases
+Data recovery during system failures in SQL transactions
+Implementing transactional messaging in SQL databases
+Handling resource contention in SQL transactions
+Saving intermediate results using temporary tables in SQL transactions
+Database triggers and SQL transactions
+Truncate table in the context of SQL transactions
+Batch processing and SQL transactions
+Rollbacks and undoing changes in SQL transactions
+Handling foreign key constraints in SQL transactions
+Optimistic concurrency control versus pessimistic concurrency control in SQL transactions
+Choosing the appropriate isolation level for SQL transactions
+Locking strategies in concurrent SQL transactions
+Transactional consistency and data replication in SQL databases
+Handling cascading updates and deletes in SQL transactions
+Handling transaction log growth in SQL databases
+Handling long delays for distributed transactions in SQL
+Transactional consistency for distributed databases in SQL
+Maintaining referential integrity in SQL transactions
+Implementing parallel processing with SQL transactions
+Handling large volume data updates in SQL transactions
+Transaction boundaries in microservices architecture with SQL databases
+Handling multi-threading in SQL transactions
+Transactional consistency across heterogeneous databases in SQL
+Implementing multiple savepoints within SQL transactions
+Temporal tables and auditing in SQL transactions
+Auditing changes in SQL transactions
+Implementing subtransactions in SQL transactions
+Optimizing transaction logs for backup and recovery in SQL databases
+Implementing transaction retry logic in SQL transactions
+Database sharding and SQL transactions
+Handling bulk data operations in SQL transactions
+Implementing distributed deadlock detection and prevention in SQL transactions
+Handling transactional conflicts in distributed SQL databases
+Optimizing transactional throughput in SQL databases
+Transactional consistency across multiple databases in SQL
+Handling network failures during distributed transactions in SQL
+Implementing distributed optimistic concurrency control in SQL transactions

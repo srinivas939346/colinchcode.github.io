@@ -1,0 +1,100 @@
+Full backup in SQL server
+Differential backup in SQL server
+Transaction log backup in SQL server
+Incremental backup in SQL server
+Partial backup in SQL server
+Filegroup backup in SQL server
+Copy-only backup in SQL server
+Automated backup in SQL server
+Manual backup in SQL server
+Scheduled backup in SQL server
+Point-in-time recovery in SQL server
+Recovery model in SQL server
+Backup compression in SQL server
+Backup to network share in SQL server
+Backup to Azure Blob storage in SQL server
+Backup to tape in SQL server
+Backup to local disk in SQL server
+Backup to remote location in SQL server
+Mirrored backup in SQL server
+Split backup in SQL server
+Tail-log backup in SQL server
+Copy database wizard in SQL server
+Database snapshot in SQL server
+Read-only filegroup in SQL server
+Offline backup in SQL server
+Online backup in SQL server
+Bulk-logged recovery model in SQL server
+Full recovery model in SQL server
+Simple recovery model in SQL server
+Database mirroring in SQL server
+Always On availability groups in SQL server
+Log shipping in SQL server
+Transactional replication in SQL server
+Peer-to-peer replication in SQL server
+Snapshot replication in SQL server
+Backup strategies in SQL server
+Backup best practices in SQL server
+Restoring a database from backup in SQL server
+Point-in-time restore in SQL server
+Restoring a differential backup in SQL server
+Restoring a transaction log backup in SQL server
+Restoring a full backup in SQL server
+Restoring a striped backup in SQL server
+Restoring a compressed backup in SQL server
+Restoring a database to a different server in SQL server
+System databases backup in SQL server
+User databases backup in SQL server
+Encrypted backup in SQL server
+Password-protected backup in SQL server
+Backup retention period in SQL server
+Backup verification in SQL server
+Backup integrity check in SQL server
+Backup size estimation in SQL server
+Log truncation in SQL server
+Backup troubleshooting in SQL server
+Backup failure reasons in SQL server
+Backup history in SQL server
+Backup and restore permissions in SQL server
+Backup metadata in SQL server
+Backup expiration in SQL server
+Backup catalogs in SQL server
+Parallel backup in SQL server
+Online restore in SQL server
+Point of failure in SQL server backups
+Log chain in SQL server
+Backup checksum in SQL server
+Backup storage options in SQL server
+Backup device in SQL server
+Backup copy in SQL server
+Backup priority in SQL server
+Backup compression ratio in SQL server
+Backup retention policy in SQL server
+Backup encryption in SQL server
+Backup performance tuning in SQL server
+Backup destination in SQL server
+Backup monitoring in SQL server
+Backup and recovery documentation in SQL server
+Backup and recovery testing in SQL server
+Backup and recovery strategy in SQL server
+Backup and recovery tools in SQL server
+Backup and recovery solution in SQL server
+Backup and restore using T-SQL commands in SQL server
+Backup and restore using SQL Server Management Studio (SSMS)
+Backup and restore using PowerShell in SQL server
+Hot backup in SQL server
+Cold backup in SQL server
+Backup maintenance tasks in SQL server
+Backup agent in SQL server
+Backup expiration policy in SQL server
+Backup scheduling in SQL server
+Backup plan in SQL server
+Backup compression algorithms in SQL server
+Backup disk space requirements in SQL server
+Backup file format in SQL server
+Backup performance benchmarks in SQL server
+Backup speed in SQL server
+Backup and restore logging in SQL server
+Backup and restore events in SQL server
+Backup and restore notifications in SQL server
+Backup and restore performance monitoring in SQL server

@@ -1,0 +1,100 @@
+SQL BETWEEN operator syntax
+SQL BETWEEN vs. comparison operators
+Understanding the SQL BETWEEN operator
+SQL BETWEEN operator examples
+Using SQL BETWEEN with numerical values
+Using SQL BETWEEN with character values
+SQL BETWEEN and date values
+SQL BETWEEN operator with datetime values
+SQL BETWEEN operator with timestamp values
+SQL BETWEEN operator with string values
+SQL BETWEEN operator with boolean values
+SQL BETWEEN operator with NULL values
+SQL BETWEEN operator with multiple conditions
+SQL BETWEEN operator with inclusive range
+SQL BETWEEN operator with exclusive range
+SQL BETWEEN operator with overlapping ranges
+SQL BETWEEN operator with non-overlapping ranges
+SQL BETWEEN operator with reverse range
+SQL BETWEEN operator with descending values
+SQL BETWEEN operator with ascending values
+SQL BETWEEN operator with negative values
+SQL BETWEEN operator with positive values
+SQL BETWEEN operator with decimals
+SQL BETWEEN operator with fractions
+SQL BETWEEN operator with wildcards
+SQL BETWEEN operator with NOT clause
+SQL BETWEEN operator with NOT BETWEEN clause
+SQL BETWEEN operator with IN clause
+SQL BETWEEN operator with NOT IN clause
+SQL BETWEEN operator with subqueries
+SQL BETWEEN operator with joins
+SQL BETWEEN operator with aggregate functions
+SQL BETWEEN operator with GROUP BY clause
+SQL BETWEEN operator with HAVING clause
+SQL BETWEEN operator with ORDER BY clause
+SQL BETWEEN operator with LIMIT clause
+SQL BETWEEN operator with UNION clause
+SQL BETWEEN operator with INTERSECT clause
+SQL BETWEEN operator with EXCEPT clause
+SQL BETWEEN operator with CASE statement
+SQL BETWEEN operator with IF statement
+SQL BETWEEN operator with WHERE clause
+SQL BETWEEN operator with UPDATE statement
+SQL BETWEEN operator with INSERT statement
+SQL BETWEEN operator with DELETE statement
+SQL BETWEEN operator with SELECT statement
+SQL BETWEEN operator with FETCH statement
+SQL BETWEEN operator with TRUNCATE statement
+SQL BETWEEN operator with COMMIT statement
+SQL BETWEEN operator with ROLLBACK statement
+SQL BETWEEN operator with SAVEPOINT statement
+SQL BETWEEN operator with ALTER statement
+SQL BETWEEN operator with CREATE statement
+SQL BETWEEN operator with DROP statement
+SQL BETWEEN operator with GRANT statement
+SQL BETWEEN operator with REVOKE statement
+SQL BETWEEN operator with SET statement
+SQL BETWEEN operator with SHOW statement
+SQL BETWEEN operator with DESCRIBE statement
+SQL BETWEEN operator with EXPLAIN statement
+SQL BETWEEN operator with LOCK statement
+SQL BETWEEN operator with UNLOCK statement
+SQL BETWEEN operator with TRIGGER statement
+SQL BETWEEN operator with VIEW statement
+SQL BETWEEN operator with INDEX statement
+SQL BETWEEN operator with CONSTRAINT statement
+SQL BETWEEN operator with PRIMARY KEY constraint
+SQL BETWEEN operator with FOREIGN KEY constraint
+SQL BETWEEN operator with UNIQUE constraint
+SQL BETWEEN operator with CHECK constraint
+SQL BETWEEN operator with NOT NULL constraint
+SQL BETWEEN operator with DEFAULT constraint
+SQL BETWEEN operator with INDEX constraint
+SQL BETWEEN operator with COLLATE clause
+SQL BETWEEN operator with DISTINCT clause
+SQL BETWEEN operator with ALL clause
+SQL BETWEEN operator with ANY clause
+SQL BETWEEN operator with SOME clause
+SQL BETWEEN operator with EXISTS clause
+SQL BETWEEN operator with NOT EXISTS clause
+SQL BETWEEN operator with JOIN clause
+SQL BETWEEN operator with LEFT JOIN clause
+SQL BETWEEN operator with RIGHT JOIN clause
+SQL BETWEEN operator with INNER JOIN clause
+SQL BETWEEN operator with OUTER JOIN clause
+SQL BETWEEN operator with CROSS JOIN clause
+SQL BETWEEN operator with SELF JOIN clause
+SQL BETWEEN operator with NATURAL JOIN clause
+SQL BETWEEN operator with UNION JOIN clause
+SQL BETWEEN operator with subquery join
+SQL BETWEEN operator with self join
+SQL BETWEEN operator with inner join
+SQL BETWEEN operator with outer join
+SQL BETWEEN operator with cross join
+SQL BETWEEN operator with natural join
+SQL BETWEEN operator with left outer join
+SQL BETWEEN operator with right outer join
+SQL BETWEEN operator with full outer join
+SQL BETWEEN operator with inner join on multiple columns
+SQL BETWEEN operator with subquery join on multiple columns

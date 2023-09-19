@@ -1,0 +1,100 @@
+Adding a column to an existing table
+Removing a column from an existing table
+Modifying the data type of a column
+Renaming a table
+Adding a primary key constraint to a table
+Removing a primary key constraint from a table
+Adding a foreign key constraint to a table
+Removing a foreign key constraint from a table
+Modifying the name of a column
+Modifying the length of a character column
+Modifying the precision and scale of a numeric column
+Adding a unique constraint to a column
+Removing a unique constraint from a column
+Adding a check constraint to a column
+Removing a check constraint from a column
+Modifying the default value of a column
+Creating a new table from an existing table
+Modifying the collation of a column
+Moving a column to a different position in the table
+Modifying the data type and size of a column
+Modifying the nullability of a column
+Adding an index to a column
+Removing an index from a column
+Adding a partition to a table
+Removing a partition from a table
+Modifying the tablespace of a table
+Modifying the storage parameters of a table
+Modifying the logging mode of a table
+Modifying the caching mode of a table
+Modifying the compression mode of a table
+Adding a trigger to a table
+Removing a trigger from a table
+Enabling a constraint on a table
+Disabling a constraint on a table
+Modifying the foreign key reference of a column
+Modifying the default value of a sequence
+Modifying the increment value of a sequence
+Modifying the minimum value of a sequence
+Modifying the maximum value of a sequence
+Adding a composite primary key on multiple columns
+Adding a composite unique constraint on multiple columns
+Modifying the table owner of a table
+Modifying the table schema of a table
+Modifying the data type of a column with existing data
+Adding a column with a default value to an existing table
+Modifying the precision of a decimal column
+Modifying the scale of a decimal column
+Adding a new primary key column to an existing table
+Removing a primary key column from an existing table
+Modifying the data type of a column without changing the data
+Renaming a column in a table
+Modifying the visibility of a column in a table
+Modifying the comment of a column in a table
+Modifying the foreign key reference options of a column
+Modifying the update rule of a foreign key constraint
+Modifying the delete rule of a foreign key constraint
+Modifying the on update trigger of a table
+Modifying the on delete trigger of a table
+Modifying the character set of a character column
+Adding a new column to a specific position in the table
+Modifying the foreign key cascade options of a column
+Modifying the foreign key match options of a column
+Modifying the foreign key deferrable constraints of a column
+Modifying the foreign key initially deferred constraints of a column
+Modifying the foreign key initially immediate constraints of a column
+Modifying the foreign key deferred constraints of a column
+Modifying the foreign key immediate constraints of a column
+Modifying the foreign key not deferrable constraints of a column
+Modifying the foreign key cascade delete options of a column
+Modifying the foreign key cascade update options of a column
+Modifying the foreign key restrict options of a column
+Modifying the foreign key no action options of a column
+Modifying the foreign key set null options of a column
+Modifying the foreign key set default options of a column
+Modifying the foreign key set default and set null options of a column
+Modifying the foreign key set null and set default options of a column
+Modifying the foreign key cascade update on delete options of a column
+Modifying the foreign key cascade delete on update options of a column
+Modifying the foreign key no action on delete options of a column
+Modifying the foreign key no action on update options of a column
+Modifying the foreign key set null on delete options of a column
+Modifying the foreign key set default on delete options of a column
+Modifying the foreign key set default and set null on delete options of a column
+Modifying the foreign key set null and set default on delete options of a column
+Modifying the foreign key set null on update options of a column
+Modifying the foreign key set default on update options of a column
+Modifying the foreign key set default and set null on update options of a column
+Modifying the foreign key set null and set default on update options of a column
+Modifying the default value constraint of a column
+Modifying the check constraint conditions of a column
+Modifying the unique constraint condition of a column
+Modifying the collation of a character column
+Removing a not null constraint from a column
+Adding a not null constraint to a column
+Modifying the comment of a table
+Modifying the block size of a table
+Modifying the cache size of a table
+Modifying the logging options of a table
+Modifying the table row format
+Modifying the table compression algorithm

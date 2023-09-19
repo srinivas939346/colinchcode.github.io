@@ -1,0 +1,100 @@
+Introduction to SQL TIMESTAMP data type
+Difference between DATE and TIMESTAMP in SQL
+Syntax for declaring a TIMESTAMP column in SQL
+Storing specific date and time using TIMESTAMP in SQL
+Working with time zones in SQL TIMESTAMP
+Converting TIMESTAMP to other date/time formats in SQL
+Extracting specific parts (year, month, day, hour, etc.) from TIMESTAMP in SQL
+Manipulating TIMESTAMP values using SQL functions
+Adding or subtracting time from a TIMESTAMP in SQL
+Comparing TIMESTAMP values in SQL
+Sorting TIMESTAMP values in SQL
+Formatting TIMESTAMP output in SQL
+Rounding TIMESTAMP values in SQL
+Calculating the difference between two TIMESTAMP values in SQL
+Using TIMESTAMP as a primary key or foreign key in SQL
+Inserting TIMESTAMP values in SQL INSERT statement
+Updating TIMESTAMP values in SQL UPDATE statement
+Deleting rows based on TIMESTAMP values in SQL DELETE statement
+Retrieving rows based on TIMESTAMP values in SQL SELECT statement
+Working with TIMESTAMP arrays in SQL
+Handling NULL TIMESTAMP values in SQL
+Filtering TIMESTAMP values using SQL WHERE clause
+Grouping TIMESTAMP values in SQL GROUP BY statement
+Aggregating TIMESTAMP values using SQL functions (SUM, AVG, COUNT, etc.)
+Rounding TIMESTAMP values in SQL GROUP BY statement
+Calculating the maximum and minimum TIMESTAMP values in SQL
+Calculating the average TIMESTAMP value in SQL
+Calculating the median TIMESTAMP value in SQL
+Calculating the standard deviation of TIMESTAMP values in SQL
+Calculating the variance of TIMESTAMP values in SQL
+Generating a sequence of TIMESTAMP values in SQL
+Creating a calendar table in SQL using TIMESTAMP
+Creating a time interval table in SQL using TIMESTAMP
+Performing date arithmetic using TIMESTAMP in SQL
+Calculating the age based on TIMESTAMP in SQL
+Calculating the difference in weeks between two TIMESTAMP values in SQL
+Calculating the difference in months between two TIMESTAMP values in SQL
+Calculating the difference in years between two TIMESTAMP values in SQL
+Calculating the difference in days between two TIMESTAMP values in SQL
+Calculating the difference in hours between two TIMESTAMP values in SQL
+Calculating the difference in minutes between two TIMESTAMP values in SQL
+Calculating the difference in seconds between two TIMESTAMP values in SQL
+Calculating the difference in milliseconds between two TIMESTAMP values in SQL
+Calculating the difference in microseconds between two TIMESTAMP values in SQL
+Calculating the difference in nanoseconds between two TIMESTAMP values in SQL
+Calculating the difference in centuries between two TIMESTAMP values in SQL
+Calculating the difference in decades between two TIMESTAMP values in SQL
+Calculating the difference in quarters between two TIMESTAMP values in SQL
+Calculating the difference in fiscal years between two TIMESTAMP values in SQL
+Calculating the difference in fiscal quarters between two TIMESTAMP values in SQL
+Calculating the difference in fiscal months between two TIMESTAMP values in SQL
+Calculating the difference in fiscal weeks between two TIMESTAMP values in SQL
+Calculating the difference in fiscal days between two TIMESTAMP values in SQL
+Calculating the difference in fiscal hours between two TIMESTAMP values in SQL
+Calculating the difference in fiscal minutes between two TIMESTAMP values in SQL
+Calculating the difference in fiscal seconds between two TIMESTAMP values in SQL
+Calculating the difference in fiscal milliseconds between two TIMESTAMP values in SQL
+Calculating the difference in fiscal microseconds between two TIMESTAMP values in SQL
+Calculating the difference in fiscal nanoseconds between two TIMESTAMP values in SQL
+Understanding precision and scale in TIMESTAMP data type in SQL
+Storing only date without time in a TIMESTAMP column in SQL
+Storing only time without date in a TIMESTAMP column in SQL
+Converting TIMESTAMP to UNIX timestamp in SQL
+Converting UNIX timestamp to TIMESTAMP in SQL
+Extracting the day of the week from a TIMESTAMP value in SQL
+Extracting the day of the month from a TIMESTAMP value in SQL
+Extracting the day of the year from a TIMESTAMP value in SQL
+Extracting the week of the year from a TIMESTAMP value in SQL
+Extracting the month from a TIMESTAMP value in SQL
+Extracting the year from a TIMESTAMP value in SQL
+Extracting the hour from a TIMESTAMP value in SQL
+Extracting the minute from a TIMESTAMP value in SQL
+Extracting the second from a TIMESTAMP value in SQL
+Extracting the millisecond from a TIMESTAMP value in SQL
+Extracting the microsecond from a TIMESTAMP value in SQL
+Extracting the nanosecond from a TIMESTAMP value in SQL
+Calculating the days, hours, minutes, and seconds since a TIMESTAMP value in SQL
+Calculating the weeks, days, hours, minutes, and seconds since a TIMESTAMP value in SQL
+Calculating the months, days, hours, minutes, and seconds since a TIMESTAMP value in SQL
+Calculating the years, months, days, hours, minutes, and seconds since a TIMESTAMP value in SQL
+Calculating the centuries, years, months, days, hours, minutes, and seconds since a TIMESTAMP value in SQL
+Calculating the decades, years, months, days, hours, minutes, and seconds since a TIMESTAMP value in SQL
+Calculating the quarters, months, days, hours, minutes, and seconds since a TIMESTAMP value in SQL
+Calculating the fiscal years, quarters, months, days, hours, minutes, and seconds since a TIMESTAMP value in SQL
+Calculating the fiscal quarters, months, days, hours, minutes, and seconds since a TIMESTAMP value in SQL
+Calculating the fiscal months, days, hours, minutes, and seconds since a TIMESTAMP value in SQL
+Calculating the fiscal weeks, days, hours, minutes, and seconds since a TIMESTAMP value in SQL
+Calculating the fiscal days, hours, minutes, and seconds since a TIMESTAMP value in SQL
+Calculating the fiscal hours, minutes, and seconds since a TIMESTAMP value in SQL
+Calculating the fiscal minutes and seconds since a TIMESTAMP value in SQL
+Calculating the fiscal seconds since a TIMESTAMP value in SQL
+Converting TIMESTAMP to a different time zone in SQL
+Converting a TIMESTAMP from one time zone to another in SQL
+Handling TIMESTAMP values in different time zones in a database system
+Calculating the difference in time zones between two TIMESTAMP values in SQL
+Storing fractional seconds in a TIMESTAMP column in SQL
+Displaying only date or time portion of TIMESTAMPS in SQL
+Handling leap years in TIMESTAMP calculations in SQL
+Calculating average response time based on TIMESTAMP values in SQL
+Visualizing TIMESTAMP data using charts and graphs in SQL

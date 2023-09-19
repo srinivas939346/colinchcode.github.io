@@ -1,0 +1,100 @@
+What is a dimension table in SQL?
+Why are dimension tables used in database design?
+Key characteristics of a dimension table in SQL.
+Examples of dimension tables in a data warehouse.
+Difference between dimension tables and fact tables in SQL.
+How to create a dimension table in SQL.
+Primary key selection for dimension tables.
+Adding foreign keys to dimension tables in SQL.
+Benefits of using surrogate keys in dimension tables.
+Best practices for designing dimension tables in SQL.
+How to handle updates in dimension tables.
+SCD (Slowly Changing Dimension) types in dimension tables.
+Techniques for maintaining historical data in dimension tables.
+Role of dimension tables in star schema database design.
+Denormalization techniques for dimension tables.
+How to join dimension tables with fact tables in SQL queries.
+Query performance considerations for dimension tables.
+Examples of different types of dimensions in dimension tables.
+Using views to simplify complex dimension table queries.
+Implementing hierarchies in dimension tables.
+Dimensional modeling techniques for dimension tables.
+Practical tips for optimizing dimension table design.
+How to handle missing data in dimension tables.
+Auditing and logging changes in dimension tables.
+Using indexes to improve performance in dimension tables.
+Data validation in dimension tables.
+Role of surrogate keys in surrogate dimensions.
+Techniques for handling natural keys in dimension tables.
+Normalization principles for dimension tables.
+Choosing the right data types for dimension table columns.
+Guidelines for naming conventions in dimension tables.
+Creating dimension hierarchies in SQL.
+Handling slowly changing dimensions in SQL queries.
+Techniques for merging dimension tables.
+Using data transformation functions in dimension tables.
+Implementing type 2 slowly changing dimensions.
+Handling type 3 slowly changing dimensions in SQL.
+Techniques for handling slowly changing dimensions in ETL processes.
+Implementing loading strategies for dimension tables.
+How to handle dimension table updates in real-time data warehouses.
+Guidelines for managing surrogate keys in dimension tables.
+Techniques for tracking changes in dimension tables over time.
+Implementing slowly changing dimensions in Snowflake schema.
+Using dimension tables for drill-down analysis.
+Techniques for maintaining referential integrity in dimension tables.
+Loading data from multiple source systems into dimension tables.
+Handling dimension table updates in distributed databases.
+Techniques for handling large dimension tables efficiently.
+Implementing surrogate key generation for dimension tables.
+How to handle dimension table changes in highly concurrent environments.
+Techniques for managing concurrent updates to dimension tables.
+Implementing slowly changing dimensions in time-dependent hierarchies.
+Handling data lineage in dimension tables.
+Techniques for handling attribute changes in dimension tables.
+Implementing type 4 slowly changing dimensions.
+Handling dimension table updates in data replication scenarios.
+Techniques for handling parent-child relationships in dimension tables.
+Implementing dimension table partitions for improved query performance.
+Handling surrogate key collisions in dimension tables.
+Techniques for maintaining data consistency in dimension tables.
+Implementing type 1 slowly changing dimensions.
+Handling dimension table updates in data federation scenarios.
+Techniques for handling alternate hierarchies in dimension tables.
+Implementing dimension table indexing strategies.
+Handling concurrent inserts in dimension tables.
+Techniques for handling slowly changing dimensions in distributed databases.
+Implementing slowly changing dimensions in columnar databases.
+Handling dimension table changes in multi-tenant environments.
+Techniques for handling cascading updates in dimension tables.
+Implementing slowly changing dimensions in in-memory databases.
+Handling dimension table updates in data streaming scenarios.
+Techniques for handling ragged hierarchies in dimension tables.
+Implementing dimension table caching strategies for improved performance.
+Handling slowly changing dimensions in data virtualization scenarios.
+Techniques for handling recursive hierarchies in dimension tables.
+Implementing slowly changing dimensions in graph databases.
+Handling dimension table updates in distributed data processing frameworks.
+Techniques for handling slowly changing dimensions in NoSQL databases.
+Implementing slowly changing dimensions in document databases.
+Handling dimension table updates in cloud-based data platforms.
+Techniques for handling slowly changing dimensions in geospatial databases.
+Implementing slowly changing dimensions in graph-based databases.
+Handling dimension table updates in serverless computing environments.
+Techniques for handling slowly changing dimensions in time series databases.
+Implementing slowly changing dimensions in key-value stores.
+Handling dimension table updates in containerized environments.
+Techniques for handling slowly changing dimensions in memory-oriented databases.
+Implementing slowly changing dimensions in blockchain databases.
+Handling dimension table updates in edge computing scenarios.
+Techniques for handling slowly changing dimensions in federated databases.
+Implementing slowly changing dimensions in streaming analytics platforms.
+Handling dimension table updates in distributed ledger technologies.
+Techniques for handling slowly changing dimensions in edge computing devices.
+Implementing slowly changing dimensions in edge-to-cloud architectures.
+Handling dimension table updates in edge-to-edge data synchronization.
+Techniques for handling slowly changing dimensions in Big Data frameworks.
+Implementing slowly changing dimensions in edge-to-cloud data streaming.
+Handling dimension table updates in real-time analytics pipelines.
+Techniques for handling slowly changing dimensions in edge-to-fog architectures.
+Implementing slowly changing dimensions in edge-to-fog-to-cloud data integration.

@@ -1,0 +1,100 @@
+SQL UPDATE statement syntax
+Updating a single column using SQL UPDATE
+Updating multiple columns using SQL UPDATE
+Setting a specific value in an SQL UPDATE statement
+Using conditions in SQL UPDATE statements
+Updating a table with data from another table using SQL UPDATE
+Updating a table with values from a subquery using SQL UPDATE
+Updating a table using a JOIN statement in SQL UPDATE
+Updating a table using a temporary table in SQL UPDATE
+Updating a table with values from a CSV file using SQL UPDATE
+Updating a table with values from a JSON file using SQL UPDATE
+Updating a table with values from an XML file using SQL UPDATE
+Updating a table with values from an Excel file using SQL UPDATE
+Updating a table with values from a text file using SQL UPDATE
+Updating a table with calculated values using SQL UPDATE
+Updating a table with random values using SQL UPDATE
+Updating a table with values from a sequence using SQL UPDATE
+Updating a table with auto-generated values using SQL UPDATE
+Updating a table with current date and time using SQL UPDATE
+Updating a table where a column matches a specific value using SQL UPDATE
+Updating a table where a column contains a specific value using SQL UPDATE
+Updating a table where a column starts with a specific value using SQL UPDATE
+Updating a table where a column ends with a specific value using SQL UPDATE
+Updating a table where a column is null using SQL UPDATE
+Updating a table where a column is not null using SQL UPDATE
+Updating a table where a column is in a list of values using SQL UPDATE
+Updating a table where a column is not in a list of values using SQL UPDATE
+Updating a table where a column matches a pattern using SQL UPDATE
+Updating a table where a column does not match a pattern using SQL UPDATE
+Updating a table where a column is greater than a value using SQL UPDATE
+Updating a table where a column is greater than or equal to a value using SQL UPDATE
+Updating a table where a column is less than a value using SQL UPDATE
+Updating a table where a column is less than or equal to a value using SQL UPDATE
+Updating a table where a column is between two values using SQL UPDATE
+Updating a table where a column is not between two values using SQL UPDATE
+Updating a table where a column matches a wildcard using SQL UPDATE
+Updating a table where a column does not match a wildcard using SQL UPDATE
+Updating a table where a column matches a regular expression using SQL UPDATE
+Updating a table where a column does not match a regular expression using SQL UPDATE
+Updating a table based on a condition from another table using SQL UPDATE
+Updating a table using a CASE statement in SQL UPDATE
+Updating a table with a default value using SQL UPDATE
+Updating a table with a user-defined function using SQL UPDATE
+Updating a table with a stored procedure using SQL UPDATE
+Updating a table with values from a cursor using SQL UPDATE
+Updating a table with values from a table variable using SQL UPDATE
+Updating a table with values from a table-valued parameter using SQL UPDATE
+Updating a table with values from a temporary table using SQL UPDATE
+Updating a table with values from a derived table using SQL UPDATE
+Updating a table with values from a common table expression using SQL UPDATE
+Updating a table with values from a view using SQL UPDATE
+Updating a table with values from a subquery in the WHERE clause using SQL UPDATE
+Updating a table with values from a subquery in the SET clause using SQL UPDATE
+Updating a table with values from a correlated subquery using SQL UPDATE
+Updating a table with values from a nested subquery using SQL UPDATE
+Updating a table with values from a scalar subquery using SQL UPDATE
+Updating a table with values from a correlated scalar subquery using SQL UPDATE
+Updating a table with values from a subquery with multiple columns using SQL UPDATE
+Updating a table with values from a subquery with a GROUP BY clause using SQL UPDATE
+Updating a table with values from a subquery with an ORDER BY clause using SQL UPDATE
+Updating a table with values from a subquery with a LIMIT clause using SQL UPDATE
+Updating a table with values from a subquery with a JOIN statement using SQL UPDATE
+Updating a table with values from a subquery with a UNION statement using SQL UPDATE
+Updating a table with values from a subquery with an EXISTS clause using SQL UPDATE
+Updating a table with values from a subquery with an IN clause using SQL UPDATE
+Updating a table with values from a subquery with a NOT IN clause using SQL UPDATE
+Updating a table with values from a subquery with a HAVING clause using SQL UPDATE
+Updating a table with values from a subquery with a MIN() function using SQL UPDATE
+Updating a table with values from a subquery with a MAX() function using SQL UPDATE
+Updating a table with values from a subquery with a COUNT() function using SQL UPDATE
+Updating a table with values from a subquery with a SUM() function using SQL UPDATE
+Updating a table with values from a subquery with an AVG() function using SQL UPDATE
+Updating a table with values from a subquery with a NULLIF() function using SQL UPDATE
+Updating a table with values from a subquery with a COALESCE() function using SQL UPDATE
+Updating a table with values from a subquery with a CONCAT() function using SQL UPDATE
+Updating a table with values from a subquery with a SUBSTRING() function using SQL UPDATE
+Updating a table with values from a subquery with a REPLACE() function using SQL UPDATE
+Updating a table with values from a subquery with a LEFT() function using SQL UPDATE
+Updating a table with values from a subquery with a RIGHT() function using SQL UPDATE
+Updating a table with values from a subquery with a LEN() function using SQL UPDATE
+Updating a table with values from a subquery with a CHARINDEX() function using SQL UPDATE
+Updating a table with values from a subquery with a LOWER() function using SQL UPDATE
+Updating a table with values from a subquery with an UPPER() function using SQL UPDATE
+Updating a table with values from a subquery with a TRIM() function using SQL UPDATE
+Updating a table with values from a subquery with a DATEPART() function using SQL UPDATE
+Updating a table with values from a subquery with a DATEADD() function using SQL UPDATE
+Updating a table with values from a subquery with a DATEDIFF() function using SQL UPDATE
+Updating a table with values from a subquery with a GETDATE() function using SQL UPDATE
+Updating a table with values from a subquery with a GETUTCDATE() function using SQL UPDATE
+Updating a table with values from a subquery with a DAY() function using SQL UPDATE
+Updating a table with values from a subquery with a MONTH() function using SQL UPDATE
+Updating a table with values from a subquery with a YEAR() function using SQL UPDATE
+Updating a table with values from a subquery with a ROUND() function using SQL UPDATE
+Updating a table with values from a subquery with a CEILING() function using SQL UPDATE
+Updating a table with values from a subquery with a FLOOR() function using SQL UPDATE
+Updating a table with values from a subquery with a RANK() function using SQL UPDATE
+Updating a table with values from a subquery with a DENSE_RANK() function using SQL UPDATE
+Updating a table with values from a subquery with a ROW_NUMBER() function using SQL UPDATE
+Updating a table with values from a subquery with a NTILE() function using SQL UPDATE
+Updating a table with values from a subquery with a LAG() function using SQL UPDATE

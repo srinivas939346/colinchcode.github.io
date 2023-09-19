@@ -1,0 +1,100 @@
+Introduction to correlated subqueries in SQL
+Benefits of using correlated subqueries in SQL
+Syntax of correlated subqueries
+Comparison of correlated subqueries with regular subqueries
+Correlated subqueries in the SELECT statement
+Correlated subqueries in the WHERE clause
+Correlated subqueries in the FROM clause
+Limitations of correlated subqueries
+Examples of correlated subqueries
+Using correlated subqueries for data filtering
+Using correlated subqueries for data retrieval
+Using correlated subqueries with aggregate functions
+Applying multiple correlated subqueries in a single query
+Handling NULL values in correlated subqueries
+Performance considerations with correlated subqueries
+Common mistakes to avoid when using correlated subqueries
+Correlated subqueries in complex queries
+Using correlated subqueries for data modification (INSERT, UPDATE, DELETE)
+Using correlated subqueries with joins
+Using correlated subqueries with EXISTS operator
+Using correlated subqueries with NOT EXISTS operator
+Using correlated subqueries with IN operator
+Using correlated subqueries with NOT IN operator
+Using correlated subqueries with ANY operator
+Using correlated subqueries with ALL operator
+Using correlated subqueries with scalar subqueries
+Using correlated subqueries with table subqueries
+Using correlated subqueries with inline views
+Using correlated subqueries with self-joins
+Using correlated subqueries with HAVING clause
+Using correlated subqueries with CASE statement
+Using correlated subqueries for data validation
+Using correlated subqueries for data transformation
+Using correlated subqueries for ranking and sorting data
+Using correlated subqueries for data aggregation
+Using correlated subqueries for data summarization
+Using correlated subqueries for finding duplicates
+Using correlated subqueries for finding unique values
+Using correlated subqueries for pattern matching
+Using correlated subqueries for string manipulation
+Using correlated subqueries for date and time calculations
+Using correlated subqueries for mathematical calculations
+Using correlated subqueries for conditional calculations
+Using correlated subqueries for data normalization
+Using correlated subqueries for data denormalization
+Using correlated subqueries for data integration
+Using correlated subqueries for data migration
+Using correlated subqueries for data cleansing
+Using correlated subqueries for data validation
+Using correlated subqueries for data enrichment
+Using correlated subqueries for data masking
+Using correlated subqueries for data profiling
+Using correlated subqueries for data anonymization
+Using correlated subqueries for data encryption
+Using correlated subqueries for data decryption
+Using correlated subqueries for data compression
+Using correlated subqueries for data backup and recovery
+Using correlated subqueries for data replication
+Using correlated subqueries for data synchronization
+Using correlated subqueries for data archiving
+Using correlated subqueries for data indexing
+Using correlated subqueries for data modeling
+Using correlated subqueries for data visualization
+Using correlated subqueries for data exploration
+Using correlated subqueries for data mining
+Using correlated subqueries for data prediction
+Using correlated subqueries for data classification
+Using correlated subqueries for data clustering
+Using correlated subqueries for data regression
+Using correlated subqueries for data summarization
+Using correlated subqueries for data aggregation
+Using correlated subqueries for data sampling
+Using correlated subqueries for data filtering
+Using correlated subqueries for data transformation
+Using correlated subqueries for data validation
+Using correlated subqueries for data enrichment
+Using correlated subqueries for data integration
+Using correlated subqueries for data migration
+Using correlated subqueries for data cleansing
+Using correlated subqueries for data normalization
+Using correlated subqueries for data denormalization
+Using correlated subqueries for data masking
+Using correlated subqueries for data profiling
+Using correlated subqueries for data anonymization
+Using correlated subqueries for data encryption
+Using correlated subqueries for data decryption
+Using correlated subqueries for data compression
+Using correlated subqueries for data backup and recovery
+Using correlated subqueries for data replication
+Using correlated subqueries for data synchronization
+Using correlated subqueries for data archiving
+Using correlated subqueries for data indexing
+Using correlated subqueries for data modeling
+Using correlated subqueries for data visualization
+Using correlated subqueries for data exploration
+Using correlated subqueries for data mining
+Using correlated subqueries for data prediction
+Using correlated subqueries for data classification
+Using correlated subqueries for data clustering
+Using correlated subqueries for data regression

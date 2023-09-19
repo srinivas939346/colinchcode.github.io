@@ -1,0 +1,100 @@
+What is a SQL cursor?
+How do you declare and use a cursor in SQL?
+What are the different types of SQL cursors?
+What is the purpose of using a cursor in SQL?
+How do you open and close a cursor in SQL?
+What is the difference between a static and dynamic cursor?
+How do you fetch data from a cursor in SQL?
+How do you determine if a cursor is empty in SQL?
+Can a cursor be used to update or delete data in SQL?
+How do you pass parameters to a cursor in SQL?
+What are the advantages and disadvantages of using cursors in SQL?
+Can you nest cursors in SQL?
+How do you check the current position of a cursor in SQL?
+What are the important properties of a cursor in SQL?
+How do you limit the number of rows returned by a cursor in SQL?
+How do you deallocate a cursor in SQL?
+What is a forward-only cursor in SQL?
+How do you declare a read-only cursor in SQL?
+Can a cursor be used to query multiple tables in SQL?
+How do you use a cursor to loop through records in SQL?
+Can a cursor be used in a stored procedure in SQL?
+What is a cursor variable in SQL?
+How do you declare and use a cursor variable in SQL?
+What is the purpose of using a cursor variable in SQL?
+How do you pass a cursor variable as a parameter in SQL?
+What is a scrollable cursor in SQL?
+How do you declare a scrollable cursor in SQL?
+What are the different scroll modes available for a cursor in SQL?
+How do you fetch data using a scrollable cursor in SQL?
+How do you move the position of a scrollable cursor in SQL?
+What is a keyset-driven cursor in SQL?
+How do you declare a keyset-driven cursor in SQL?
+What are the advantages of using a keyset-driven cursor in SQL?
+What is a dynamic cursor in SQL?
+How do you declare and use a dynamic cursor in SQL?
+What are the advantages of using a dynamic cursor in SQL?
+What is a global cursor in SQL?
+How do you declare and use a global cursor in SQL?
+What is a local cursor in SQL?
+How do you declare and use a local cursor in SQL?
+What is a cursor for update in SQL?
+How do you declare and use a cursor for update in SQL?
+How do you update data using a cursor for update in SQL?
+What are the restrictions when using a cursor for update in SQL?
+Can a cursor for update be used in a transaction in SQL?
+How do you declare a cursor with parameters in SQL?
+How do you pass values to cursor parameters in SQL?
+How do you use a cursor with parameters in a stored procedure in SQL?
+What are the benefits of using a cursor with parameters in SQL?
+Can a cursor with parameters be used in a dynamic SQL statement in SQL?
+What is a server cursor in SQL?
+How do you enable and disable server cursors in SQL?
+What are the advantages and disadvantages of using server cursors in SQL?
+What is a local cursor in SQL Server?
+How do you declare and use a local cursor in SQL Server?
+What is a global cursor in SQL Server?
+How do you declare and use a global cursor in SQL Server?
+What is a cursor for update in SQL Server?
+How do you declare and use a cursor for update in SQL Server?
+What is a dynamic cursor in SQL Server?
+How do you declare and use a dynamic cursor in SQL Server?
+What is a scrollable cursor in SQL Server?
+How do you declare and use a scrollable cursor in SQL Server?
+What is a keyset-driven cursor in SQL Server?
+How do you declare and use a keyset-driven cursor in SQL Server?
+What is a server cursor in SQL Server?
+How do you enable and disable server cursors in SQL Server?
+What is a forward-only cursor in SQL Server?
+How do you declare a forward-only cursor in SQL Server?
+What is a read-only cursor in SQL Server?
+How do you declare a read-only cursor in SQL Server?
+What is a static cursor in SQL Server?
+How do you declare a static cursor in SQL Server?
+What is a dynamic cursor in SQL Server?
+How do you declare a dynamic cursor in SQL Server?
+What is a optimistic locking cursor in SQL Server?
+How do you declare a optimistic locking cursor in SQL Server?
+What is a pessimistic locking cursor in SQL Server?
+How do you declare a pessimistic locking cursor in SQL Server?
+What is a fast_forward cursor in SQL Server?
+How do you declare a fast_forward cursor in SQL Server?
+What is a auto_fetch cursor in SQL Server?
+How do you declare a auto_fetch cursor in SQL Server?
+What is a auto_close cursor in SQL Server?
+How do you declare a auto_close cursor in SQL Server?
+What is a global cursor in Oracle SQL?
+How do you declare and use a global cursor in Oracle SQL?
+What is a local cursor in Oracle SQL?
+How do you declare and use a local cursor in Oracle SQL?
+What is a cursor for update in Oracle SQL?
+How do you declare and use a cursor for update in Oracle SQL?
+What is a dynamic cursor in Oracle SQL?
+How do you declare and use a dynamic cursor in Oracle SQL?
+What is a scrollable cursor in Oracle SQL?
+How do you declare and use a scrollable cursor in Oracle SQL?
+What is a keyset-driven cursor in Oracle SQL?
+How do you declare and use a keyset-driven cursor in Oracle SQL?
+What is a server cursor in Oracle SQL?
+How do you enable and disable server cursors in Oracle SQL?
+What is a forward-only cursor in Oracle SQL?

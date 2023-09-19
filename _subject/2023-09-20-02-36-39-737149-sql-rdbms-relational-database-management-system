@@ -1,0 +1,100 @@
+Introduction to SQL RDBMS
+Key features of SQL RDBMS
+SQL RDBMS vs other database management systems
+History of SQL RDBMS
+Components of SQL RDBMS
+Relational databases in SQL RDBMS
+Tables in SQL RDBMS
+Columns and rows in SQL RDBMS
+Primary keys in SQL RDBMS
+Foreign keys in SQL RDBMS
+Indexes in SQL RDBMS
+Constraints in SQL RDBMS
+Data types in SQL RDBMS
+Data manipulation in SQL RDBMS
+Select statement in SQL RDBMS
+Insert statement in SQL RDBMS
+Update statement in SQL RDBMS
+Delete statement in SQL RDBMS
+Joins in SQL RDBMS
+Inner join in SQL RDBMS
+Outer join in SQL RDBMS
+Cross join in SQL RDBMS
+Union, intersection, and difference in SQL RDBMS
+Subqueries in SQL RDBMS
+Aggregate functions in SQL RDBMS
+Group by clause in SQL RDBMS
+Having clause in SQL RDBMS
+Order by clause in SQL RDBMS
+Views in SQL RDBMS
+Stored procedures in SQL RDBMS
+Triggers in SQL RDBMS
+Transactions in SQL RDBMS
+Normalization in SQL RDBMS
+First normal form in SQL RDBMS
+Second normal form in SQL RDBMS
+Third normal form in SQL RDBMS
+Denormalization in SQL RDBMS
+ACID properties in SQL RDBMS
+Data integrity in SQL RDBMS
+Backup and recovery in SQL RDBMS
+Security in SQL RDBMS
+User roles and privileges in SQL RDBMS
+Data replication in SQL RDBMS
+Replication types in SQL RDBMS
+Performance tuning in SQL RDBMS
+Indexing strategies in SQL RDBMS
+Query optimization in SQL RDBMS
+Partitioning in SQL RDBMS
+Sharding in SQL RDBMS
+High availability in SQL RDBMS
+Backup strategies in SQL RDBMS
+Database administration in SQL RDBMS
+Database monitoring in SQL RDBMS
+Database maintenance in SQL RDBMS
+Data warehousing in SQL RDBMS
+OLTP vs OLAP in SQL RDBMS
+ETL process in SQL RDBMS
+Reporting and analytics in SQL RDBMS
+Data mining in SQL RDBMS
+Data modeling in SQL RDBMS
+Entity-relationship diagram in SQL RDBMS
+Data dictionary in SQL RDBMS
+Data normalization in SQL RDBMS
+Backup and recovery techniques in SQL RDBMS
+Database security mechanisms in SQL RDBMS
+Query performance optimization in SQL RDBMS
+Database replication techniques in SQL RDBMS
+Data partitioning strategies in SQL RDBMS
+Database migration in SQL RDBMS
+Advanced SQL techniques in SQL RDBMS
+Working with large datasets in SQL RDBMS
+Geospatial data in SQL RDBMS
+Handling NULL values in SQL RDBMS
+Case sensitivity in SQL RDBMS
+Database normalization forms in SQL RDBMS
+Importing and exporting data in SQL RDBMS
+Data archival in SQL RDBMS
+Query optimization techniques in SQL RDBMS
+Advanced indexing methods in SQL RDBMS
+Database performance tuning in SQL RDBMS
+Locking and concurrency control in SQL RDBMS
+Database caching in SQL RDBMS
+Data clustering in SQL RDBMS
+Data encryption in SQL RDBMS
+Database auditing in SQL RDBMS
+Full-text search in SQL RDBMS
+Error handling in SQL RDBMS
+Query execution plans in SQL RDBMS
+Database snapshots in SQL RDBMS
+Temporal tables in SQL RDBMS
+Database backup compression in SQL RDBMS
+Materialized views in SQL RDBMS
+Parallel execution in SQL RDBMS
+Advanced query techniques in SQL RDBMS
+Database migration tools in SQL RDBMS
+Database schema comparison in SQL RDBMS
+Database recovery mechanisms in SQL RDBMS
+Database monitoring tools in SQL RDBMS
+Data versioning in SQL RDBMS
+Data synchronization in SQL RDBMS

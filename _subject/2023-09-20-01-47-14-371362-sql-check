@@ -1,0 +1,100 @@
+Basic SQL syntax
+SQL data types
+SQL operators
+SQL functions
+SQL data manipulation language (DML)
+SQL data definition language (DDL)
+SQL create table statement
+SQL select statement
+SQL insert statement
+SQL update statement
+SQL delete statement
+SQL where clause
+SQL order by clause
+SQL group by clause
+SQL having clause
+SQL join types
+SQL inner join
+SQL left join
+SQL right join
+SQL full outer join
+SQL subqueries
+SQL correlated subqueries
+SQL aggregate functions
+SQL count function
+SQL sum function
+SQL max function
+SQL min function
+SQL average function
+SQL distinct keyword
+SQL constraints
+SQL primary key
+SQL foreign key
+SQL unique constraint
+SQL index
+SQL views
+SQL stored procedures
+SQL triggers
+SQL transactions
+SQL commit and rollback statements
+SQL case statement
+SQL if statement
+SQL coalesce function
+SQL is null operator
+SQL between operator
+SQL like operator
+SQL in operator
+SQL exists operator
+SQL union operator
+SQL intersect operator
+SQL except operator
+SQL date functions
+SQL date format
+SQL date arithmetic
+SQL string functions
+SQL substring function
+SQL concatenate operator
+SQL string length function
+SQL upper function
+SQL lower function
+SQL trim function
+SQL mathematical functions
+SQL round function
+SQL floor function
+SQL ceil function
+SQL absolute function
+SQL logical operators
+SQL and operator
+SQL or operator
+SQL not operator
+SQL is operator
+SQL case sensitivity
+SQL outer join with null values
+SQL case-insensitive searching
+SQL auto increment
+SQL NULL values
+SQL constraint violations
+SQL database normalization
+SQL table joins with multiple tables
+SQL locking and concurrency
+SQL stored procedures vs functions
+SQL dynamic queries
+SQL index fragmentation
+SQL optimization techniques
+SQL query optimization
+SQL database security
+SQL data backup and recovery
+SQL performance tuning
+SQL database replication
+SQL distributed databases
+SQL data warehouse
+SQL reporting and analytics
+SQL cloud databases
+SQL NoSQL databases
+SQL database administration
+SQL user management
+SQL database backups and restores
+SQL database monitoring
+SQL database performance tuning
+SQL database migration
+SQL database version control

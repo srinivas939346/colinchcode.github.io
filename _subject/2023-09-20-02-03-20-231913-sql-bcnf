@@ -1,0 +1,100 @@
+Functional Dependency
+Boyce-Codd Normal Form
+Normalization
+Database Design
+Relational Database Management System
+Primary Key
+Candidate Key
+Super Key
+Decomposition
+Dependency Preservation
+Lossless Join Decomposition
+Third Normal Form
+Fourth Normal Form
+Fifth Normal Form
+Multivalued Dependency
+Determinant
+Anomaly
+Denormalization
+Redundancy
+Unnormalized Form
+First Normal Form
+Composite Key
+Attribute Closure
+Closure of a Set of Functional Dependencies
+Violation of BCNF
+Dependency Diagram
+Minimal Cover
+Trivial Functional Dependency
+Nontrivial Functional Dependency
+Equivalent Functional Dependency
+Functional Dependency Closure
+Lossless Join
+FD-Preservation
+Trivial Dependency Closure
+Decomposition Dependency Preservation
+Projections and Join Dependency
+Dependency Preservation Criteria
+Redundant Dependency
+MVD-Dependency Preservation
+Dependencies and Constraint
+BCNF Decomposition Algorithm
+Dependency Violation
+BCNF Violation
+Join Dependency
+Trivial MVD
+Nontrivial MVD
+Equivalent MVD
+MVD Closure
+MVD Decomposition
+Nonloss Decomposition
+Non FD-preserving Decomposition
+Normal Form Decomposition
+MVD-Preservation
+BCNF Lossless-join Decomposition
+Trivial MVD Preserving Decomposition
+Nontrivial MVD Preserving Decomposition
+Inference Rules for FD's
+Inference Rules for MVD's
+Trivial FD-Preservation
+Boyce-Codd Normal Form Property
+Superkey Closure
+Uniqueness Constraint
+Functional Closure and FD-Preservation
+Closure of MVD's
+BCNF Decompositions
+Functional Dependency Analysis
+Redundant Functional Dependency
+Functional Dependency Analysis Algorithm
+Boyce-Codd Normal Form Decomposition
+MVD Decomposition Algorithm
+BCNF Violation Analysis
+Determining BCNF Violations
+Lossless Join Decompositions
+3NF Decomposition
+Unnormalized Form Decomposition
+Higher Normal Forms and Decompositions
+Dependency and Decomposition
+Minimal Set of FD's
+Dependency Analysis
+Dependency Closure Algorithm
+BCNF Transformation
+Decomposition and Dependency Preservation
+Dependency and Key Analysis
+Redundant Key Constraint
+Lossless MVD Decomposition
+Database Anomalies
+BCNF Lossless-Join Decomposition Algorithm
+BCNF Decomposition Criteria
+Functional Dependency Constraints
+Dependency Normalization
+Analyzing Functional Dependencies
+Join Dependency Preservation
+Multivalued Dependency Preservation
+Nontrivial FD-Preservation
+Nontrivial MVD-Preservation
+BCNF Decomposition Example
+Functional Dependency Synthesis
+Candidate Key Determination
+BCNF Decomposition Steps
+Nontrivial MVD Decomposition

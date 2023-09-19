@@ -1,0 +1,100 @@
+SQL LEFT OUTER JOIN
+SQL RIGHT OUTER JOIN
+SQL FULL OUTER JOIN
+SQL INNER JOIN
+SQL CROSS JOIN
+SQL JOIN ON multiple columns
+SQL JOIN with NULL values
+SQL JOIN with WHERE clause
+SQL JOIN vs subquery
+SQL JOIN vs UNION
+SQL JOIN with GROUP BY clause
+SQL JOIN with ORDER BY clause
+SQL JOIN with HAVING clause
+SQL JOIN with LIMIT clause
+SQL JOIN with OFFSET clause
+SQL JOIN with subquery
+SQL JOIN with self table
+SQL JOIN using aliases
+SQL JOIN on different data types
+SQL JOIN on text columns
+SQL JOIN on numeric columns
+SQL JOIN on date columns
+SQL JOIN on timestamp columns
+SQL JOIN with aggregate functions
+SQL JOIN with subquery in ON clause
+SQL JOIN with subquery in WHERE clause
+SQL JOIN between multiple tables
+SQL JOIN between three tables
+SQL JOIN between multiple databases
+SQL JOIN with self join condition
+SQL JOIN using temporary tables
+SQL JOIN using table-valued functions
+SQL JOIN using common table expressions (CTEs)
+SQL JOIN using derived tables
+SQL JOIN using subquery with EXISTS clause
+SQL JOIN using subquery with IN clause
+SQL JOIN using subquery with ANY clause
+SQL JOIN using subquery with ALL clause
+SQL JOIN using subquery with NOT EXISTS clause
+SQL JOIN using subquery with NOT IN clause
+SQL JOIN using subquery with UNION clause
+SQL JOIN using subquery with INTERSECT clause
+SQL JOIN using subquery with EXCEPT clause
+SQL JOIN using correlated subquery
+SQL JOIN using self correlated subquery
+SQL JOIN with JOIN hints
+SQL JOIN with parallel execution
+SQL JOIN with indexed columns
+SQL JOIN with non-indexed columns
+SQL JOIN with clustered index
+SQL JOIN with non-clustered index
+SQL JOIN with covering index
+SQL JOIN with hash join algorithm
+SQL JOIN with merge join algorithm
+SQL JOIN with nested loop join algorithm
+SQL JOIN with full-text search
+SQL JOIN with spatial data
+SQL JOIN with XML data
+SQL JOIN with JSON data
+SQL JOIN with geospatial data
+SQL JOIN with geolocation data
+SQL JOIN with binary data
+SQL JOIN with image data
+SQL JOIN with audio data
+SQL JOIN with video data
+SQL JOIN with text search
+SQL JOIN with case-insensitive search
+SQL JOIN with pattern matching
+SQL JOIN with regular expressions
+SQL JOIN with wildcard characters
+SQL JOIN with exact match
+SQL JOIN with partial match
+SQL JOIN with fuzzy match
+SQL JOIN with similarity search
+SQL JOIN with soundex algorithm
+SQL JOIN with Levenshtein distance
+SQL JOIN with Jaccard similarity
+SQL JOIN with cosine similarity
+SQL JOIN with collaborative filtering
+SQL JOIN with recommender system
+SQL LEFT OUTER JOIN with COALESCE function
+SQL LEFT OUTER JOIN with NULLIF function
+SQL LEFT OUTER JOIN with CASE statement
+SQL RIGHT OUTER JOIN with COALESCE function
+SQL RIGHT OUTER JOIN with NULLIF function
+SQL RIGHT OUTER JOIN with CASE statement
+SQL FULL OUTER JOIN with COALESCE function
+SQL FULL OUTER JOIN with NULLIF function
+SQL FULL OUTER JOIN with CASE statement
+SQL JOIN with aggregate functions and GROUP BY
+SQL JOIN with aggregate functions and HAVING
+SQL JOIN with aggregate functions and ORDER BY
+SQL JOIN with aggregate functions and LIMIT
+SQL JOIN with aggregate functions and OFFSET
+SQL JOIN with aggregate functions and subquery
+SQL JOIN with aggregate functions and self join
+SQL JOIN between multiple tables with aggregate functions
+SQL JOIN between three tables with aggregate functions
+SQL JOIN between multiple databases with aggregate functions
+SQL JOIN using subquery with aggregate functions

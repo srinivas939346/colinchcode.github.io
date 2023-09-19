@@ -1,0 +1,100 @@
+SQL COUNT function
+COUNT(*) vs COUNT(column)
+COUNT(DISTINCT column)
+COUNT with WHERE clause
+COUNT with GROUP BY clause
+COUNT with HAVING clause
+COUNT with JOIN
+COUNT with SUBQUERY
+COUNT with UNION
+COUNT with ORDER BY
+COUNT with LIMIT
+COUNT with OFFSET
+COUNT with BETWEEN
+COUNT with IN operator
+COUNT with LIKE operator
+COUNT with NULL values
+COUNT with CASE statement
+COUNT with AVG function
+COUNT with SUM function
+COUNT with MAX function
+COUNT with MIN function
+COUNT with CONCAT function
+COUNT with DISTINCT and CONCAT
+COUNT with EXISTS operator
+COUNT with NOT operator
+COUNT with IF condition
+COUNT with CAST function
+COUNT with Date Functions
+COUNT with Mathematical Functions
+COUNT with String Functions
+COUNT with GROUP_CONCAT function
+COUNT with ROLLUP modifier
+COUNT with CUBE modifier
+COUNT with GROUPING SETS
+COUNT with OVER clause
+COUNT with PARTITION BY clause
+COUNT with ROWS BETWEEN clause
+COUNT with LAG function
+COUNT with LEAD function
+COUNT with FIRST_VALUE function
+COUNT with LAST_VALUE function
+COUNT with NTILE function
+COUNT with PERCENT_RANK function
+COUNT with RANK function
+COUNT with DENSE_RANK function
+COUNT with ANY operator
+COUNT with ALL operator
+COUNT with SOME operator
+COUNT with EXISTS clause
+COUNT with NOT EXISTS clause
+COUNT with IN clause
+COUNT with NOT IN clause
+COUNT with BETWEEN clause
+COUNT with NOT BETWEEN clause
+COUNT with LIKE operator
+COUNT with NOT LIKE operator
+COUNT with IS NULL condition
+COUNT with IS NOT NULL condition
+COUNT with = operator
+COUNT with > operator
+COUNT with < operator
+COUNT with >= operator
+COUNT with <= operator
+COUNT with <> operator
+COUNT with != operator
+COUNT with + operator
+COUNT with - operator
+COUNT with * operator
+COUNT with / operator
+COUNT with % operator
+COUNT with AND operator
+COUNT with OR operator
+COUNT with NOT operator
+COUNT with XOR operator
+COUNT with CASE statement
+COUNT with IF statement
+COUNT with FOR loop
+COUNT with WHILE loop
+COUNT with CURSOR
+COUNT with TRIGGER
+COUNT with INDEX
+COUNT with CONSTRAINT
+COUNT with PRIMARY KEY
+COUNT with FOREIGN KEY
+COUNT with INNER JOIN
+COUNT with LEFT JOIN
+COUNT with RIGHT JOIN
+COUNT with FULL JOIN
+COUNT with SELF JOIN
+COUNT with UNION
+COUNT with UNION ALL
+COUNT with INTERSECT
+COUNT with EXCEPT
+COUNT with NATURAL JOIN
+COUNT with CROSS JOIN
+COUNT with INNER APPLY
+COUNT with OUTER APPLY
+COUNT with PIVOT
+COUNT with UNPIVOT
+COUNT with TRUNCATE TABLE

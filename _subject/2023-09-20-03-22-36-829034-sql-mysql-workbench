@@ -1,0 +1,100 @@
+Introduction to SQL
+Basics of MySQL
+Understanding the MySQL Workbench interface
+Setting up a MySQL database in MySQL Workbench
+Creating tables in MySQL Workbench
+Defining columns in MySQL Workbench
+Using data types in MySQL Workbench
+Setting primary keys in MySQL Workbench
+Creating relationships between tables in MySQL Workbench
+Adding foreign keys in MySQL Workbench
+Importing data into MySQL Workbench
+Exporting data from MySQL Workbench
+Querying data with SELECT statement in MySQL Workbench
+Filtering data with WHERE clause in MySQL Workbench
+Sorting data with ORDER BY clause in MySQL Workbench
+Joining tables in MySQL Workbench
+Aggregating data with GROUP BY clause in MySQL Workbench
+Performing calculations with SQL functions in MySQL Workbench
+Updating data with UPDATE statement in MySQL Workbench
+Deleting data with DELETE statement in MySQL Workbench
+Creating views in MySQL Workbench
+Modifying tables in MySQL Workbench
+Adding indexes in MySQL Workbench
+Creating stored procedures in MySQL Workbench
+Creating triggers in MySQL Workbench
+Backup and restore databases in MySQL Workbench
+Using transaction management in MySQL Workbench
+Managing users and permissions in MySQL Workbench
+Executing multiple statements in MySQL Workbench
+Working with stored functions in MySQL Workbench
+Using cursors in MySQL Workbench
+Optimizing queries in MySQL Workbench
+Monitoring and analyzing database performance in MySQL Workbench
+Setting up replication in MySQL Workbench
+Configuring partitioning in MySQL Workbench
+Implementing security measures in MySQL Workbench
+Troubleshooting common issues in MySQL Workbench
+Analyzing query execution plans in MySQL Workbench
+Using indexing strategies in MySQL Workbench
+Working with large datasets in MySQL Workbench
+Implementing data compression in MySQL Workbench
+Configuring high availability in MySQL Workbench
+Managing database backups in MySQL Workbench
+Using MySQL Workbench with remote servers
+Working with spatial data in MySQL Workbench
+Implementing full-text search in MySQL Workbench
+Automating tasks with MySQL Workbench scripting
+Using MySQL Workbench with other programming languages
+Monitoring and optimizing server performance with MySQL Workbench
+Implementing database replication with MySQL Workbench
+Managing database security with MySQL Workbench
+Troubleshooting and debugging queries in MySQL Workbench
+Using stored procedures and functions in MySQL Workbench
+Implementing data encryption in MySQL Workbench
+Configuring advanced server settings in MySQL Workbench
+Using partitioning for large datasets in MySQL Workbench
+Creating and managing backups with MySQL Workbench
+Working with spatial functions in MySQL Workbench
+Implementing data synchronization in MySQL Workbench
+Optimizing query performance with indexes in MySQL Workbench
+Using MySQL Workbench as an ETL tool
+Configuring high availability and failover in MySQL Workbench
+Managing users and permissions with MySQL Workbench
+Analyzing and optimizing memory usage with MySQL Workbench
+Implementing database sharding with MySQL Workbench
+Monitoring and analyzing replication performance with MySQL Workbench
+Using external storage engines with MySQL Workbench
+Working with JSON data in MySQL Workbench
+Implementing backup and recovery strategies with MySQL Workbench
+Configuring server replication with MySQL Workbench
+Managing database auditing with MySQL Workbench
+Troubleshooting and resolving deadlocks in MySQL Workbench
+Using MySQL Workbench for data analysis and reporting
+Implementing data masking and anonymization in MySQL Workbench
+Configuring server caching and buffering in MySQL Workbench
+Working with XML data in MySQL Workbench
+Implementing database archiving with MySQL Workbench
+Managing database migration and upgrading with MySQL Workbench
+Troubleshooting and optimizing network performance in MySQL Workbench
+Using MySQL Workbench for data modeling and design
+Implementing data replication across multiple servers with MySQL Workbench
+Configuring database auditing and compliance with MySQL Workbench
+Working with MySQL Workbench in cloud environments
+Implementing data auditing and change tracking in MySQL Workbench
+Managing plugin extensions and add-ons with MySQL Workbench
+Troubleshooting and optimizing disk I/O performance in MySQL Workbench
+Using MySQL Workbench for database documentation and visualization
+Implementing data backup and restore strategies with MySQL Workbench
+Configuring database monitoring and alerting with MySQL Workbench
+Working with NoSQL data in MySQL Workbench
+Implementing data masking and tokenization in MySQL Workbench
+Managing high availability and disaster recovery with MySQL Workbench
+Troubleshooting and optimizing query caching in MySQL Workbench
+Using MySQL Workbench for data migration and integration
+Implementing data replication and synchronization with MySQL Workbench
+Configuring database performance tuning with MySQL Workbench
+Working with geospatial data in MySQL Workbench
+Implementing data security and access controls in MySQL Workbench
+Managing database scalability and elasticity with MySQL Workbench
+Troubleshooting and optimizing query optimization in MySQL Workbench

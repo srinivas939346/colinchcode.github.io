@@ -1,0 +1,100 @@
+ROW_NUMBER
+RANK
+DENSE_RANK
+NTILE
+LAG
+LEAD
+FIRST_VALUE
+LAST_VALUE
+NTH_VALUE
+CUME_DIST
+PERCENT_RANK
+PERCENTILE_CONT
+PERCENTILE_DISC
+RATIO_TO_REPORT
+LEAD vs LAG
+Rank functions vs Analytic functions
+PARTITION BY clause in window functions
+ORDER BY clause in window functions
+Framing in window functions
+Sliding window in window functions
+Tumbling window in window functions
+Window aggregate functions
+Overlapping windows in window functions
+Running total using window functions
+Cumulative sum using window functions
+Moving average using window functions
+Grouping sets in window functions
+CUBE clause in window functions
+ROLLUP clause in window functions
+Window functions in PostgreSQL
+Window functions in Oracle
+Window functions in SQL Server
+Window functions in MySQL
+Window functions in SQLite
+Window functions in DB2
+Window functions in Teradata
+Window functions in Redshift
+Window functions in Snowflake
+Window functions in Azure SQL Database
+Window functions in Hive
+Window functions in BigQuery
+Window functions in Vertica
+Window functions in Netezza
+Window functions in Greenplum
+Window functions in Exasol
+Window functions in SAP HANA
+Window functions in IBM Informix
+Window functions in Amazon Athena
+Window functions in MariaDB
+Window functions in PostgreSQL vs MySQL
+Window functions in PostgreSQL vs SQL Server
+Window functions in SQL Server vs Oracle
+Window functions in Oracle vs MySQL
+Window functions in MySQL vs SQLite
+Window functions in SQLite vs DB2
+Window functions in DB2 vs Teradata
+Window functions in Teradata vs Redshift
+Window functions in Redshift vs Snowflake
+Window functions in Snowflake vs Azure SQL Database
+Window functions in Azure SQL Database vs Hive
+Window functions in Hive vs BigQuery
+Window functions in BigQuery vs Vertica
+Window functions in Vertica vs Netezza
+Window functions in Netezza vs Greenplum
+Window functions in Greenplum vs Exasol
+Window functions in Exasol vs SAP HANA
+Window functions in SAP HANA vs IBM Informix
+Window functions in IBM Informix vs Amazon Athena
+Window functions in Amazon Athena vs MariaDB
+Performance considerations of window functions
+Optimizing window function queries
+Common use cases for window functions
+Analyzing time series data using window functions
+Ranking based on multiple columns using window functions
+Handling NULL values in window functions
+Window functions in data warehousing
+Window functions in OLAP cubes
+Window functions in reporting and analytics
+Aggregating data using window functions
+Window functions for trend analysis
+Partitioning data using window functions
+Window functions for data exploration
+Window functions for data cleaning
+Window functions for data visualization
+Window functions for data preprocessing
+Window functions for data sampling
+Handling outliers using window functions
+Window functions for anomaly detection
+Time-based window functions
+Rolling time window functions
+Statistical window functions
+Sliding window aggregation
+Window functions for sessionization
+Calculating moving averages using window functions
+Window functions for data imputation
+Window functions for data interpolation
+Window functions for time series forecasting
+Window functions for sequence analysis
+Comparing window functions in different database systems
+Advanced techniques with window functions

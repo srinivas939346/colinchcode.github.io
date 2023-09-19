@@ -1,0 +1,100 @@
+MIN function in SQL
+Finding the minimum value in a column using SQL
+Using MIN function to find the smallest value in a table
+Aggregating data with MIN function in SQL
+MIN function with GROUP BY clause in SQL
+Using MIN function in a WHERE clause in SQL
+Finding the minimum value among multiple columns in SQL
+MIN function with multiple conditions in SQL
+MIN function with NULL values in SQL
+Using MIN function with DISTINCT keyword in SQL
+MIN function versus other aggregate functions in SQL
+Examples of using MIN function in SQL queries
+Using MIN function to find the oldest record in a table
+MIN function in subqueries in SQL
+Using MIN function with DATE data type in SQL
+Using MIN function with timestamp data type in SQL
+Finding the earliest date in a column using MIN function in SQL
+Using MIN function to find the lowest temperature in a weather database
+MIN function with mathematical operations in SQL
+Using MIN function to find the smallest string value in a column
+Minimizing query execution time using MIN function in SQL
+Finding the minimum value in a column based on another column's value using MIN function
+Using MIN function to identify outliers in a dataset
+MIN function with text data type in SQL
+Using MIN function to find the lowest price in a product table
+MIN function with string concatenation in SQL
+Finding the earliest year in a date column using MIN function
+Using MIN function to find the shortest string length in a column
+MIN function with multiple tables in SQL
+Using MIN function to find the minimum age in a customer database
+Finding the minimum value in a column for each group using MIN function
+Using MIN function to find the smallest file size in a directory
+MIN function with string manipulation in SQL
+Finding the minimum value in a column excluding certain values using MIN function
+Using MIN function to find the smallest department ID in an organization
+MIN function with decimal data type in SQL
+Using MIN function to find the earliest login time for each user
+MIN function with string comparison in SQL
+Finding the minimum distance between two points using MIN function
+Using MIN function to find the minimum duration of a task
+MIN function with Boolean data type in SQL
+Using MIN function to find the earliest booking date in a hotel reservation system
+Finding the minimum value in a column within a specific date range using MIN function
+MIN function with time data type in SQL
+Using MIN function to find the smallest product quantity in stock
+MIN function with string pattern matching in SQL
+Finding the earliest invoice date in a sales transaction table using MIN function
+Using MIN function to find the most recent comment date in a forum
+MIN function with bitwise operators in SQL
+Using MIN function to find the shortest duration of a song
+Finding the minimum value in a column based on multiple conditions using MIN function
+MIN function with string formatting in SQL
+Using MIN function to find the earliest login date for each user
+Finding the minimum value in a column excluding outliers using MIN function
+MIN function with date and time data type in SQL
+Using MIN function to find the smallest product price in an e-commerce database
+MIN function with regular expression pattern matching in SQL
+Finding the earliest order date for each customer using MIN function
+Using MIN function to find the shortest email subject in an inbox
+MIN function with aggregate functions in SQL
+Using MIN function to find the earliest login time for a specific user
+Finding the minimum value among multiple columns based on a condition using MIN function
+MIN function with string manipulation and concatenation in SQL
+Using MIN function to find the earliest visit date for each website user
+Finding the minimum value in a column from a subset of rows using MIN function
+MIN function with conversion functions in SQL
+Using MIN function to find the lowest temperature on a specific day in a weather database
+Finding the earliest event date in a log table using MIN function
+Using MIN function to find the shortest job duration for each employee
+MIN function with string case-insensitive comparison in SQL
+Finding the minimum value in a column based on another column's value within a group using MIN function
+Using MIN function to find the earliest blog post date for each author
+Finding the minimum value in a column excluding NULL values using MIN function
+MIN function with string search and replace in SQL
+Using MIN function to find the earliest login date for all users in a specific country
+Finding the minimum value in a column within a specific time range using MIN function
+MIN function with column aliases in SQL
+Using MIN function to find the lowest sales amount for each product category
+Finding the earliest customer registration date in an online store using MIN function
+MIN function with string similarity comparison in SQL
+Using MIN function to find the earliest log entry time for each server
+Finding the minimum value in a column excluding zeros using MIN function
+MIN function with string length calculation in SQL
+Using MIN function to find the earliest message date in a messaging app
+Finding the minimum value in a column based on multiple conditions within a group using MIN function
+MIN function with string substring extraction in SQL
+Using MIN function to find the earliest sign-up date for all subscribers in a newsletter
+Finding the minimum value in a column for each distinct value of another column using MIN function
+MIN function with string case-sensitive comparison in SQL
+Using MIN function to find the earliest order placement date for each product
+Finding the minimum value in a column among the top N records using MIN function
+MIN function with string trim and padding in SQL
+Using MIN function to find the earliest post date for each forum thread
+Finding the minimum value in a column within a specific geographic area using MIN function
+MIN function with string regular expression matching in SQL
+Using MIN function to find the earliest appointment date for all doctors in a clinic
+Finding the minimum value in a column excluding negative values using MIN function
+MIN function with string case-insensitive sorting in SQL
+Using MIN function to find the earliest comment date for all articles in a blog
+Finding the minimum value in a column based on multiple conditions within a specific date range using MIN function

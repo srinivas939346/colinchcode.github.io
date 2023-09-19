@@ -1,0 +1,100 @@
+SQL SELECT statement syntax
+SQL SELECT clause
+SQL SELECT statement examples
+SQL SELECT distinct
+SQL SELECT where clause
+SQL SELECT order by
+SQL SELECT limit clause
+SQL SELECT join
+SQL SELECT date
+SQL SELECT count
+SQL SELECT sum
+SQL SELECT max
+SQL SELECT min
+SQL SELECT avg
+SQL SELECT group by
+SQL SELECT having
+SQL SELECT alias
+SQL SELECT wildcard
+SQL SELECT operators
+SQL SELECT case statement
+SQL SELECT in clause
+SQL SELECT between clause
+SQL SELECT is null
+SQL SELECT not null
+SQL SELECT like operator
+SQL SELECT exists
+SQL SELECT union
+SQL SELECT intersect
+SQL SELECT minus
+SQL SELECT inner join
+SQL SELECT left join
+SQL SELECT right join
+SQL SELECT full outer join
+SQL SELECT cross join
+SQL SELECT subquery
+SQL SELECT multiple tables
+SQL SELECT multiple columns
+SQL SELECT aggregate functions
+SQL SELECT column aliases
+SQL SELECT logical operators
+SQL SELECT date functions
+SQL SELECT string functions
+SQL SELECT mathematical functions
+SQL SELECT case when
+SQL SELECT case else
+SQL SELECT nested select
+SQL SELECT distinct on
+SQL SELECT top
+SQL SELECT fetch
+SQL SELECT offset
+SQL SELECT all
+SQL SELECT any
+SQL SELECT some
+SQL SELECT union all
+SQL SELECT minus all
+SQL SELECT count distinct
+SQL SELECT aggregate with group by
+SQL SELECT aggregate with having
+SQL SELECT aggregate with where
+SQL SELECT joins with multiple conditions
+SQL SELECT joins with different join types
+SQL SELECT joins with subqueries
+SQL SELECT joins with self
+SQL SELECT joins with aliases
+SQL SELECT joins with null values
+SQL SELECT joins with duplicates
+SQL SELECT joins with aggregate functions
+SQL SELECT joins with date conditions
+SQL SELECT joins with string conditions
+SQL SELECT joins with mathematical operations
+SQL SELECT joins with logical operators
+SQL SELECT joins with different data types
+SQL SELECT joins on multiple columns
+SQL SELECT joins with multiple tables on one column
+SQL SELECT joins with multiple conditions in where clause
+SQL SELECT case when with multiple conditions
+SQL SELECT case when with aggregate functions
+SQL SELECT case when with subqueries
+SQL SELECT case when with joins
+SQL SELECT case when with nested selects
+SQL SELECT alias with subqueries
+SQL SELECT alias with joins
+SQL SELECT alias with nested selects
+SQL SELECT distinct with subqueries
+SQL SELECT distinct with joins
+SQL SELECT distinct with nested selects
+SQL SELECT count with subqueries
+SQL SELECT count with joins
+SQL SELECT count with nested selects
+SQL SELECT sum with subqueries
+SQL SELECT sum with joins
+SQL SELECT sum with nested selects
+SQL SELECT max with subqueries
+SQL SELECT max with joins
+SQL SELECT max with nested selects
+SQL SELECT min with subqueries
+SQL SELECT min with joins
+SQL SELECT min with nested selects
+SQL SELECT avg with subqueries
+SQL SELECT avg with joins

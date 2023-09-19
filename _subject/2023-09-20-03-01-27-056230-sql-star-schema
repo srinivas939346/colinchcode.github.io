@@ -1,0 +1,100 @@
+What is a star schema in SQL?
+Understanding the structure of a star schema.
+Key components of a star schema.
+Fact table in a star schema.
+Dimension table in a star schema.
+Benefits of using a star schema in SQL.
+Advantages of star schema over other data models.
+Disadvantages of star schema in SQL.
+Use cases for implementing a star schema in SQL.
+Design considerations for creating a star schema.
+How to create a star schema in SQL.
+Steps to normalize data for use in a star schema.
+Comparison of star schema and snowflake schema.
+How to optimize queries in a star schema.
+Differences between a star schema and a hierarchical schema.
+Best practices for maintaining a star schema in SQL.
+Tools and technologies for building a star schema in SQL.
+Popular industries or domains that use star schemas.
+Real-life examples of star schema implementations.
+Challenges in implementing a star schema in SQL.
+Role of indexes in a star schema.
+How to handle slowly changing dimensions in a star schema.
+Denormalization techniques in a star schema.
+Security considerations in a star schema.
+How to handle hierarchies in a star schema.
+Data modeling for a star schema in SQL.
+Extract, Transform, Load (ETL) processes in a star schema.
+Strategies for handling dimension and fact tables in a star schema.
+Performance monitoring and tuning in a star schema.
+Challenges in maintaining data integrity in a star schema.
+Data aggregations and complex queries in a star schema.
+Historical and real-time data in a star schema.
+Role of star schema in decision support systems (DSS).
+Data warehouse vs. star schema.
+How to handle data updates in a star schema.
+Data quality management in a star schema.
+Data lineage and auditing in a star schema.
+Challenges in integrating external data sources with a star schema.
+Data governance and data stewardship in a star schema.
+Data replication and synchronization in a star schema.
+Impact analysis in a star schema environment.
+Backup and recovery strategies for a star schema database.
+Query optimization techniques for large star schemas.
+How to handle surrogate keys in a star schema.
+Data compression and storage optimization in a star schema.
+Performance comparison of star schema and relational schema.
+How to handle data inconsistencies in a star schema.
+Partitioning strategies for large star schemas.
+Impact of hardware infrastructure on star schema performance.
+Data archiving and purging in a star schema environment.
+Data validation and cleansing in a star schema.
+Role of data marts in a star schema architecture.
+Star schema vs. OLTP database design.
+Star schema vs. OLAP cube.
+Popular data visualization tools for analyzing star schema data.
+How to handle null values in a star schema.
+Role of metadata management in a star schema environment.
+Impact of data skewness on star schema performance.
+Hybrid approaches combining star schema and other data models.
+Data mining and predictive modeling using a star schema.
+Role of surrogate bridges in a star schema.
+How to handle big data in a star schema environment.
+Time-based dimension tables in a star schema.
+How to handle slowly changing dimensions with an unknown end date.
+Role of data transformation in a star schema.
+Role of master data management (MDM) in a star schema.
+How to handle hierarchical dimensions in a star schema.
+Role of data profiling in a star schema environment.
+Snowflake schema vs. star schema in SQL.
+Role of data lineage in a star schema.
+Challenges in integrating unstructured data in a star schema.
+Role of data masking in a star schema environment.
+How to handle multi-valued dimensions in a star schema.
+Role of data virtualization in a star schema architecture.
+Constraints and data validation in a star schema.
+Impact of data redundancy on star schema performance.
+Role of data governance in maintaining a star schema.
+How to handle slowly changing dimensions with multiple changes.
+Role of data synchronization in a star schema environment.
+How to handle data security in a star schema.
+Role of data stewardship in a star schema environment.
+Role of analytical queries in a star schema architecture.
+How to handle complex hierarchies in a star schema.
+Role of data masking in a star schema environment.
+How to handle inconsistent data in a star schema.
+Role of data discovery in a star schema environment.
+Partitioning options for dimension tables in a star schema.
+How to handle large dimensions in a star schema.
+Role of data virtualization in a star schema architecture.
+How to handle slowly changing dimensions with overlapping dates.
+Impact of data deduplication on star schema performance.
+Role of database indexing in a star schema.
+How to handle long-running queries in a star schema.
+Role of data replication in a star schema environment.
+How to handle missing data values in a star schema.
+Role of data profiling in a star schema architecture.
+Impact of data transformations on star schema performance.
+Role of data exploration in a star schema environment.
+How to handle data inconsistency in a star schema.
+Role of data classification in a star schema architecture.

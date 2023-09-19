@@ -1,0 +1,100 @@
+Introduction to SQL event tracing
+Importance of event tracing in SQL
+Setting up event tracing in SQL
+Event classes for SQL event tracing
+SQL Server Profiler for event tracing
+Extended Events for SQL event tracing
+Choosing the right events for tracing in SQL
+Capturing database events in SQL
+Tracing SQL queries and performance
+Analyzing event trace data in SQL
+Troubleshooting using event tracing in SQL
+Security events for tracing in SQL
+Tracing deadlock events in SQL
+Tracking performance bottlenecks with event tracing in SQL
+Tracing stored procedure executions in SQL
+Monitoring server activity with SQL event tracing
+Analyzing query execution plans using event tracing in SQL
+Tracing database backups and restores in SQL
+Monitoring data changes with event tracing in SQL
+Analyzing disk I/O with SQL event tracing
+Tracing login and user events in SQL
+Tracking index usage with event tracing in SQL
+Capturing query parameter values with event tracing in SQL
+Tracing SQL Server Agent jobs and alerts in SQL
+Monitoring tempdb usage with event tracing in SQL
+Analyzing buffer pool and memory usage with event tracing in SQL
+Tracing log management operations in SQL
+Tracking database file growth with event tracing in SQL
+Capturing server startup and shutdown events with event tracing in SQL
+Analyzing wait statistics using event tracing in SQL
+Tracing failed login attempts in SQL
+Monitoring transaction log activity with event tracing in SQL
+Analyzing page splits and fragmentation with event tracing in SQL
+Tracing index rebuilds and maintenance operations in SQL
+Tracking lock escalation events with event tracing in SQL
+Capturing query timeouts and aborts with event tracing in SQL
+Tracing database mirroring and replication events in SQL
+Monitoring CPU usage with event tracing in SQL
+Analyzing query compilation and recompilation with event tracing in SQL
+Tracing backup and restore operations with event tracing in SQL
+Tracking database mail events with event tracing in SQL
+Capturing login failures and password changes with event tracing in SQL
+Tracing CDC (Change Data Capture) events in SQL
+Monitoring query wait times with event tracing in SQL
+Analyzing blocking and deadlocks with event tracing in SQL
+Tracing SQL Server agent job failures with event tracing in SQL
+Tracking database integrity checks with event tracing in SQL
+Capturing query plan caching events with event tracing in SQL
+Tracing database snapshot operations in SQL
+Monitoring disk space usage with event tracing in SQL
+Analyzing network latency with event tracing in SQL
+Tracing SQL Server database mail events with event tracing in SQL
+Tracking query execution statistics with event tracing in SQL
+Capturing database maintenance and optimization events with event tracing in SQL
+Tracing data encryption and decryption events in SQL
+Monitoring backup and restore performance with event tracing in SQL
+Analyzing query parameter sniffing with event tracing in SQL
+Tracing database data and log file growth with event tracing in SQL
+Tracking query plan recompilations with event tracing in SQL
+Capturing data corruption events with event tracing in SQL
+Tracing connection pool usage with event tracing in SQL
+Monitoring parallel query execution with event tracing in SQL
+Analyzing query statistics and execution plans with event tracing in SQL
+Tracing filestream file accesses with event tracing in SQL
+Tracking SQL Server agent job completion events with event tracing in SQL
+Capturing database backup and restore events with event tracing in SQL
+Tracing index fragmentation events with event tracing in SQL
+Monitoring memory pressure with event tracing in SQL
+Analyzing SQL Server errors and warnings with event tracing in SQL
+Tracing query timeouts and cancellations with event tracing in SQL
+Capturing SQL Server service startup and shutdown events with event tracing in SQL
+Tracking query plan cache eviction events with event tracing in SQL
+Tracing table partitioning operations with event tracing in SQL
+Monitoring query compilations with event tracing in SQL
+Analyzing query performance with event tracing in SQL
+Tracing database user and role changes with event tracing in SQL
+Capturing blocking and deadlock resolution events with event tracing in SQL
+Tracing database log growth events with event tracing in SQL
+Tracking trigger firings with event tracing in SQL
+Monitoring I/O latency with event tracing in SQL
+Analyzing distributed transaction failures with event tracing in SQL
+Tracing backup compression events with event tracing in SQL
+Capturing orphaned user connections with event tracing in SQL
+Tracing database table and index statistics with event tracing in SQL
+Monitoring query execution progress with event tracing in SQL
+Analyzing cross-database and cross-server queries with event tracing in SQL
+Tracing database schema changes with event tracing in SQL
+Tracking full-text search events with event tracing in SQL
+Capturing database snapshot creation and deletion events with event tracing in SQL
+Tracing CLR (Common Language Runtime) events in SQL
+Monitoring query parameter sniffing issues with event tracing in SQL
+Analyzing SQL Server service account changes with event tracing in SQL
+Tracing backup tape operations with event tracing in SQL
+Capturing backup expiration and deletion events with event tracing in SQL
+Tracing query execution plan caching issues with event tracing in SQL
+Monitoring transaction log file growth with event tracing in SQL
+Analyzing query deadlock resolution with event tracing in SQL
+Tracing query recompile due to parameter sniffing with event tracing in SQL
+Tracking database index usage with event tracing in SQL
+Capturing database schema and object changes with event tracing in SQL

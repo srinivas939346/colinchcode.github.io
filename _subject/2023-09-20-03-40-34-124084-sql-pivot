@@ -1,0 +1,100 @@
+Basic syntax of SQL PIVOT
+Purpose of using SQL PIVOT
+Different ways to structure the SQL PIVOT query
+Understanding the concept of rows and columns in SQL PIVOT
+Examples of SQL PIVOT in action
+Using SQL PIVOT to convert rows into columns
+Applying SQL PIVOT to aggregate data
+Grouping and summarizing data with SQL PIVOT
+How to handle null values when using SQL PIVOT
+Limitations and considerations when using SQL PIVOT
+Comparing SQL PIVOT with UNPIVOT
+Using SQL PIVOT with multiple columns
+Conditional aggregations with SQL PIVOT
+How to order the output of SQL PIVOT
+Dynamic SQL PIVOT queries
+Applying SQL PIVOT to hierarchical data
+Handling duplicate values in SQL PIVOT
+Performance considerations when using SQL PIVOT
+Joining tables in SQL PIVOT queries
+Using SQL PIVOT with multiple aggregate functions
+Unpivoting data in SQL PIVOT
+Using SQL PIVOT to transpose data
+Pivoting data based on date ranges in SQL PIVOT
+Building dynamic column names in SQL PIVOT
+Using SQL PIVOT to calculate percentage shares
+Calculating cumulative values with SQL PIVOT
+Advanced filtering with SQL PIVOT
+Using SQL PIVOT with subqueries
+Pivoting data based on multiple columns in SQL PIVOT
+Handling large datasets with SQL PIVOT
+Using SQL PIVOT on XML data
+Creating dynamic pivot columns with SQL PIVOT
+Combining multiple PIVOT queries in SQL
+Using SQL PIVOT to create a crosstab report
+Pivoting data with calculated columns in SQL PIVOT
+Handling conflicting column names in SQL PIVOT
+Applying SQL PIVOT to financial data
+Using SQL PIVOT to analyze survey data
+Pivoting data based on time intervals in SQL PIVOT
+Handling missing values in SQL PIVOT
+Using SQL PIVOT to analyze sales data
+Pivoting data with string concatenation in SQL PIVOT
+Using SQL PIVOT to analyze customer data
+Applying SQL PIVOT to product inventory data
+Calculating rolling averages with SQL PIVOT
+Pivoting data with multiple tables in SQL PIVOT
+Using SQL PIVOT to analyze website traffic data
+Applying SQL PIVOT to social media data
+Pivoting data with case statements in SQL PIVOT
+Using SQL PIVOT to analyze employee performance data
+Pivoting data with dynamic date ranges in SQL PIVOT
+Analyzing customer behavior with SQL PIVOT
+Applying SQL PIVOT to time series data
+Pivoting data with pivot XML option in SQL PIVOT
+Using SQL PIVOT to analyze product sales by region
+Pivoting data with filtering in SQL PIVOT
+Analyzing financial performance with SQL PIVOT
+Applying SQL PIVOT to stock market data
+Pivoting data with multiple aggregate functions in SQL PIVOT
+Using SQL PIVOT to analyze customer satisfaction data
+Pivoting data with conditional aggregations in SQL PIVOT
+Analyzing website conversion rates with SQL PIVOT
+Applying SQL PIVOT to supply chain data
+Pivoting data with logical operators in SQL PIVOT
+Using SQL PIVOT to analyze employee attendance data
+Pivoting data with custom column names in SQL PIVOT
+Analyzing product performance with SQL PIVOT
+Applying SQL PIVOT to marketing campaign data
+Pivoting data with dynamic column aggregation in SQL PIVOT
+Using SQL PIVOT to analyze customer churn data
+Pivoting data with multiple levels of grouping in SQL PIVOT
+Analyzing sales trends with SQL PIVOT
+Applying SQL PIVOT to customer segmentation data
+Pivoting data with dynamic sorting in SQL PIVOT
+Using SQL PIVOT to analyze website conversion funnels
+Pivoting data with advanced calculations in SQL PIVOT
+Analyzing product pricing with SQL PIVOT
+Applying SQL PIVOT to customer feedback data
+Pivoting data with statistical functions in SQL PIVOT
+Using SQL PIVOT to analyze employee productivity data
+Pivoting data with rolling averages in SQL PIVOT
+Analyzing market share with SQL PIVOT
+Applying SQL PIVOT to customer retention data
+Pivoting data with dynamic filtering in SQL PIVOT
+Using SQL PIVOT to analyze website traffic sources
+Pivoting data with trend analysis in SQL PIVOT
+Analyzing product performance by category with SQL PIVOT
+Applying SQL PIVOT to sales forecasting data
+Pivoting data with dynamic column widths in SQL PIVOT
+Using SQL PIVOT to analyze customer lifetime value
+Pivoting data with percentage shares in SQL PIVOT
+Analyzing customer demographics with SQL PIVOT
+Applying SQL PIVOT to website engagement data
+Pivoting data with moving averages in SQL PIVOT
+Using SQL PIVOT to analyze customer feedback sentiments
+Pivoting data with cohort analysis in SQL PIVOT
+Analyzing product popularity with SQL PIVOT
+Applying SQL PIVOT to sales territory data
+Pivoting data with dynamic date calculations in SQL PIVOT
+Using SQL PIVOT to analyze customer purchase patterns

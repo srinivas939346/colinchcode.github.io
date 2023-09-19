@@ -1,0 +1,100 @@
+Introduction to SQL procedures
+Syntax of SQL procedures
+Benefits of using SQL procedures
+Creating a basic SQL procedure
+Parameters in SQL procedures
+Input parameters in SQL procedures
+Output parameters in SQL procedures
+Using default parameter values in SQL procedures
+Calling a SQL procedure
+Executing a SQL procedure
+Altering a SQL procedure
+Dropping a SQL procedure
+Conditional statements in SQL procedures
+IF-ELSE statements in SQL procedures
+CASE statements in SQL procedures
+Looping statements in SQL procedures
+WHILE loops in SQL procedures
+FOR loops in SQL procedures
+Cursors in SQL procedures
+Using CURSOR FETCH statement in SQL procedures
+Exception handling in SQL procedures
+Error handling in SQL procedures
+Nested SQL procedures
+Recursive SQL procedures
+Stored procedure vs SQL function
+Advantages of using stored procedures in SQL
+Disadvantages of using stored procedures in SQL
+Using stored procedures for data manipulation
+Using stored procedures for data retrieval
+Debugging SQL procedures
+Best practices for writing SQL procedures
+Passing arrays or collections as parameters in SQL procedures
+Using temporary tables in SQL procedures
+Dynamic SQL in SQL procedures
+Executing dynamic SQL in SQL procedures
+Granting permissions on SQL procedures
+Revoking permissions on SQL procedures
+Securing SQL procedures
+Optimizing SQL procedures for performance
+Monitoring SQL procedures
+Using SQL procedures in application development
+Migrating SQL procedures between databases
+Analyzing SQL procedures for dependencies
+Managing dependencies of SQL procedures
+Versioning SQL procedures
+Scheduling SQL procedures
+Automating SQL procedures
+Working with datetime data in SQL procedures
+Converting data types in SQL procedures
+Using transactions in SQL procedures
+Rollback in SQL procedures
+Commit in SQL procedures
+Using SAVEPOINT in SQL procedures
+Nesting transactions in SQL procedures
+Locking and isolation levels in SQL procedures
+Using PRINT statement in SQL procedures
+Returning result sets from SQL procedures
+Creating temporary tables in SQL procedures
+Dropping temporary tables in SQL procedures
+Using SET statement in SQL procedures
+Using IF statement in SQL procedures
+Using GOTO statement in SQL procedures
+Using TRY-CATCH block in SQL procedures
+Using RAISERROR statement in SQL procedures
+Using @@ERROR variable in SQL procedures
+Using @@ROWCOUNT variable in SQL procedures
+Using OUTPUT clause in SQL procedures
+Using RETURN statement in SQL procedures
+Using THROW statement in SQL procedures
+Using TRY_CONVERT function in SQL procedures
+Using TRY_PARSE function in SQL procedures
+Using TRY_CAST function in SQL procedures
+Using TRY_CONVERT_TZ function in SQL procedures
+Using TRY_PARSE_TZ function in SQL procedures
+Using TRY_CAST_TZ function in SQL procedures
+Using CONCAT_NULL_YIELDS_NULL option in SQL procedures
+Using QUOTED_IDENTIFIER option in SQL procedures
+Using ANSI_NULLS option in SQL procedures
+Using NOCOUNT option in SQL procedures
+Using XACT_ABORT option in SQL procedures
+Using RECOMPILE option in SQL procedures
+Using MAXDOP option in SQL procedures
+Using WITH RESULT SETS option in SQL procedures
+Using NOEXPAND hint in SQL procedures
+Using FORCESEEK hint in SQL procedures
+Using PARAMETERIZATION hint in SQL procedures
+Using INDEX hint in SQL procedures
+Using OPTIMIZE FOR hint in SQL procedures
+Using OPTION (RECOMPILE) hint in SQL procedures
+Using OPTION (FAST) hint in SQL procedures
+Using OPTION (FORCE ORDER) hint in SQL procedures
+Using OPTION (LOOP JOIN) hint in SQL procedures
+Using OPTION (MERGE JOIN) hint in SQL procedures
+Using OPTION (HASH JOIN) hint in SQL procedures
+Using OPTION (HASH GROUP) hint in SQL procedures
+Using OPTION (HASH UNION) hint in SQL procedures
+Using OPTION (KEEP PLAN) hint in SQL procedures
+Using OPTION (KEEPFIXED PLAN) hint in SQL procedures
+Using OPTION (RECOMPILE) hint in SQL procedures
+Using OPTION (FAST) hint in SQL procedures

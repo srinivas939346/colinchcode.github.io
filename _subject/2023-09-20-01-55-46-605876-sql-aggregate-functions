@@ -1,0 +1,100 @@
+COUNT(): Counts the number of rows in a specified column or table.
+SUM(): Calculates the sum of values in a specified column.
+AVG(): Calculates the average of values in a specified column.
+MIN(): Returns the minimum value in a specified column.
+MAX(): Returns the maximum value in a specified column.
+GROUP BY: Groups rows based on a specified column or multiple columns.
+HAVING: Filters groups based on a condition after using the GROUP BY clause.
+DISTINCT: Removes duplicate values from the result set.
+FIRST(): Returns the first value in a specified column.
+LAST(): Returns the last value in a specified column.
+COUNT(DISTINCT): Counts the number of distinct values in a specified column.
+STDDEV(): Calculates the standard deviation of values in a specified column.
+VARIANCE(): Calculates the variance of values in a specified column.
+CONCAT(): Joins two or more columns or values together.
+SUBSTRING(): Extracts a substring from a specified column or value.
+UPPER(): Converts a value or column to uppercase.
+LOWER(): Converts a value or column to lowercase.
+LENGTH(): Returns the length of a specified column or value.
+TRIM(): Removes leading and trailing spaces from a specified column or value.
+ROUND(): Rounds a value to a specified number of decimal places.
+MOD(): Returns the remainder of a division operation.
+BETWEEN: Filters rows based on a specified range of values.
+IN: Filters rows based on a specified set of values.
+LIKE: Filters rows based on a specified pattern.
+CASE: Performs conditional logic and returns different values based on specified conditions.
+COALESCE(): Returns the first non-null value in a list of arguments.
+NULLIF(): Returns null if two specified values are equal, otherwise returns the first value.
+ANY: Returns true if any condition in a subquery is true.
+ALL: Returns true if all conditions in a subquery are true.
+EXISTS: Checks for the existence of rows in a subquery.
+CAST(): Converts a value to a specified data type.
+DATE(): Extracts the date portion from a datetime column or value.
+TIME(): Extracts the time portion from a datetime column or value.
+NOW(): Returns the current date and time.
+INTERVAL: Performs calculations with date and time intervals.
+COUNT(*) vs COUNT(column): Difference between counting all rows and counting non-null values in a column.
+RANK(): Assigns a unique rank to each row based on specified criteria.
+DENSE_RANK(): Assigns a rank to each row, with no gaps between ranks.
+ROW_NUMBER(): Assigns a unique number to each row in the result set.
+LEAD(): Accesses the next row's value in a specified column, relative to the current row.
+LAG(): Accesses the previous row's value in a specified column, relative to the current row.
+NTILE(): Distributes rows into a specified number of groups as evenly as possible.
+PARTITION BY: Divides a result set into groups based on a specific column or columns.
+FIRST_VALUE(): Returns the first value in an ordered set of values.
+LAST_VALUE(): Returns the last value in an ordered set of values.
+PERCENT_RANK(): Calculates the relative rank of a row within a result set.
+CUME_DIST(): Calculates the cumulative distribution of a row within a result set.
+RATIO_TO_REPORT(): Calculates the ratio of a value to the total within a result set.
+MEDIAN(): Calculates the median value from a set of values.
+CORR(): Calculates the correlation coefficient between two columns.
+COVAR_POP(): Calculates the population covariance between two columns.
+COVAR_SAMP(): Calculates the sample covariance between two columns.
+REGR_SLOPE(): Calculates the slope of a linear regression line between two columns.
+REGR_INTERCEPT(): Calculates the y-intercept of a linear regression line between two columns.
+REGR_COUNT(): Calculates the number of non-null pairs used in a linear regression.
+REGR_AVGX(): Calculates the average of the x-values used in a linear regression.
+REGR_AVGY(): Calculates the average of the y-values used in a linear regression.
+REGR_R2(): Calculates the coefficient of determination for a linear regression.
+REGR_SXX(): Calculates the sum of squares for the x-values used in a linear regression.
+REGR_SYY(): Calculates the sum of squares for the y-values used in a linear regression.
+REGR_SXY(): Calculates the sum of products of paired differences for a linear regression.
+TOP: Returns the top n records based on specified criteria.
+PERCENTILE_DISC(): Calculates a specific percentile value within a sorted set of values.
+PERCENTILE_CONT(): Calculates a specific percentile value by interpolation within a sorted set of values.
+LISTAGG(): Concatenates values from multiple rows into a single string.
+COALESCE vs NULLIF: Difference between replacing null values and replacing specific values.
+CEILING(): Rounds a value up to the nearest integer.
+FLOOR(): Rounds a value down to the nearest integer.
+ABS(): Returns the absolute value of a number.
+POWER(): Raises a number to a specified power.
+SQRT(): Calculates the square root of a number.
+EXP(): Calculates the value of Euler's number raised to a specified power.
+LOG(): Calculates the natural logarithm of a number.
+LOG10(): Calculates the base-10 logarithm of a number.
+RAND(): Generates a random number between 0 and 1.
+SIGN(): Returns the sign of a number (-1 for negative, 0 for zero, 1 for positive).
+UNICODE(): Returns the Unicode value of a character.
+ASCII(): Returns the ASCII value of a character.
+DEGREES(): Converts radians to degrees.
+RADIANS(): Converts degrees to radians.
+PI(): Returns the value of pi (π).
+MODULO: Calculates the remainder of a division operation.
+STR_TO_DATE(): Converts a string value to a date value based on a specified format.
+DATE_FORMAT(): Formats a date value to a specified format.
+EXTRACT(): Extracts a specific component (year, month, day, etc.) from a date or timestamp.
+NOW() vs CURRENT_TIMESTAMP: Difference between obtaining the current date and time.
+TRUNCATE(): Removes decimal places from a number.
+TRANSLATE(): Replaces specific characters in a string with other characters.
+ROUND(): Rounds a number to a specified number of decimal places.
+CEIL(): Rounds up a number to the nearest integer.
+FLOOR(): Rounds down a number to the nearest integer.
+LEFT(): Extracts a specified number of characters from the start of a string.
+RIGHT(): Extracts a specified number of characters from the end of a string.
+LENGTH(): Returns the length of a string.
+REPLACE(): Replaces all occurrences of a specified value in a string with another value.
+CONCAT_WS(): Concatenates multiple strings with a specified separator.
+INSTR(): Returns the position of a substring within a string.
+LOCATE(): Returns the position of a substring within a string.
+LPAD(): Pads the left side of a string with a specified character.
+RPAD(): Pads the right side of a string with a specified character.
