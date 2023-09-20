@@ -1,0 +1,100 @@
+Introduction to SQL and T-SQL basics
+Differences between SQL and T-SQL
+Best practices for writing efficient T-SQL queries
+Advanced T-SQL query techniques
+Performance tuning in SQL Server using T-SQL
+Creating and managing SQL Server databases using T-SQL
+Understanding and using T-SQL functions
+Using T-SQL for data manipulation and data retrieval
+Implementing database security in SQL Server using T-SQL
+T-SQL stored procedures: creation and benefits
+Triggers in T-SQL: implementation and usage
+Overview of T-SQL data types and their usage
+Error handling and exception management in T-SQL
+Common table expressions (CTE) in T-SQL
+Working with XML data in T-SQL
+Introduction to T-SQL views and their benefits
+T-SQL cursors: usage and best practices
+Working with dates and time in T-SQL
+Using T-SQL for data transformation and manipulation
+T-SQL indexing strategies for optimal query performance
+Understanding execution plans in SQL Server for T-SQL queries
+T-SQL memory management and optimization techniques
+Introduction to window functions in T-SQL
+Managing transactions in T-SQL
+Dynamic SQL in T-SQL: advantages and risks
+T-SQL tips and tricks for debugging and troubleshooting
+Implementing data integrity constraints in T-SQL
+T-SQL partitioning techniques for large tables
+Using T-SQL to generate and execute dynamic SQL scripts
+T-SQL performance optimization using query hints
+Query optimization using T-SQL statistics
+T-SQL string manipulation and regular expressions
+Advanced T-SQL join techniques: inner, outer, and cross joins
+T-SQL data compression techniques in SQL Server
+Using T-SQL for data validation and data cleansing
+T-SQL tips for efficient table design and normalization
+Recursive queries in T-SQL using common table expressions (CTE)
+Implementing SQL Server high availability with T-SQL
+Working with large datasets in T-SQL: strategies and best practices
+T-SQL performance tuning using index fragmentation analysis
+Managing SQL Server instances and databases using T-SQL
+T-SQL best practices for error and exception handling
+T-SQL bulk insert techniques for efficient data loading
+T-SQL tips for writing maintainable and readable code
+Introduction to T-SQL for DBAs (Database Administrators)
+T-SQL optimization using query plan caching and reuse
+T-SQL data encryption techniques in SQL Server
+T-SQL automation using SQL Server Agent jobs
+Advanced T-SQL window functions: ranking and aggregate functions
+T-SQL tips for preventing and handling deadlock situations
+Implementing database mirroring and log shipping using T-SQL
+T-SQL techniques for handling JSON data in SQL Server
+T-SQL data pagination techniques for efficient data retrieval
+Working with temporary tables in T-SQL
+Understanding T-SQL execution contexts and scope
+T-SQL tips for cross-database queries and joins
+Advanced T-SQL pivot and unpivot techniques
+T-SQL data masking and anonymization techniques
+Query optimization using query hints in T-SQL
+Implementing full-text search in SQL Server using T-SQL
+T-SQL techniques for parsing and extracting data from strings
+T-SQL table variables vs. temporary tables: when to use each
+Advanced T-SQL techniques for handling XML data
+T-SQL tips for monitoring and troubleshooting query performance
+Implementing SQL Server replication using T-SQL
+T-SQL best practices for database schema design
+T-SQL techniques for working with spatial data
+Developing and debugging T-SQL code using SQL Server Management Studio
+T-SQL techniques for managing and optimizing SQL Server indexes
+Implementing database backups and restores using T-SQL
+T-SQL techniques for data deduplication and data cleansing
+T-SQL tips for working with large result sets efficiently
+Advanced T-SQL query optimization techniques
+T-SQL techniques for handling XML transformations
+Implementing change data capture (CDC) using T-SQL
+T-SQL best practices for query performance tuning
+T-SQL techniques for data auditing and tracking changes
+T-SQL tips for managing locking and concurrency in SQL Server
+Performance tuning using T-SQL execution plan analysis
+Implementing data archiving using T-SQL
+T-SQL techniques for handling hierarchical data
+T-SQL tips for index maintenance and defragmentation
+Advanced T-SQL techniques for working with JSON data
+T-SQL techniques for pivot and unpivot operations
+Implementing database mirroring and failover clustering using T-SQL
+T-SQL best practices for database triggers
+T-SQL tips for monitoring and optimizing SQL Server memory usage
+Performance optimization using T-SQL query plan analysis
+T-SQL techniques for handling and parsing delimited data
+Implementing data replication and synchronization using T-SQL
+T-SQL techniques for handling multi-valued data
+T-SQL best practices for database views
+T-SQL tips for managing and optimizing query plans
+Advanced T-SQL techniques for working with temporal data
+Implementing partitioning strategies in SQL Server using T-SQL
+T-SQL techniques for handling and processing large XML files
+T-SQL best practices for database constraints
+T-SQL tips for managing and optimizing SQL Server statistics
+Advanced T-SQL techniques for working with geospatial data
+Implementing database snapshotting using T-SQL

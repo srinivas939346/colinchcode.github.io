@@ -1,0 +1,100 @@
+Introduction to SQL Server Analysis Services (SSAS)
+Multidimensional modeling with SQL Server Analysis Services
+Implementing data mining with SQL Server Analysis Services
+Performance tuning techniques for SSAS
+Building cubes in SSAS
+Advanced data modeling in SQL Server Analysis Services
+Using MDX queries in SSAS
+Developing SSAS solutions with Visual Studio
+Dimensional modeling best practices with SQL Server Analysis Services
+Deploying and managing SSAS projects in different environments
+Building advanced calculations with MDX in SSAS
+Utilizing Data Analysis Expressions (DAX) with SSAS
+Configuring and optimizing SSAS for maximum performance
+Integration between SQL Server Analysis Services and Power BI
+Real-time analytics with SQL Server Analysis Services
+Automating SSAS processing and maintenance tasks
+Implementing security and access controls in SSAS
+Extending SSAS functionality with custom assemblies
+Developing SSAS tabular models using Visual Studio
+Advanced querying techniques with MDX in SSAS
+Implementing partitioning strategies in SSAS
+Creating dynamic reports with SSAS and Excel
+Troubleshooting common issues in SQL Server Analysis Services
+Working with hierarchies in SSAS
+Implementing advanced data mining algorithms in SSAS
+Scalability and high availability considerations with SSAS
+Optimizing SSAS performance for large datasets
+Implementing row-level security in SSAS
+Utilizing SSAS data mining capabilities for predictive analytics
+Building interactive dashboards with SSAS and Power BI
+Enhancing data visualization with SSAS and Tableau
+Implementing advanced calculations and business logic in SSAS
+Analyzing cube data with Excel pivot tables and slicers
+Real-time data processing with SSAS and Azure Stream Analytics
+Utilizing advanced scripting techniques with SSAS
+Optimizing SSAS processing and storage operations
+Implementing data compression techniques in SSAS
+Working with semi-additive measures in SSAS
+Implementing incremental cube updates in SSAS
+Advanced cube design techniques with SQL Server Analysis Services
+Analyzing SSAS performance using SQL Server Profiler
+Integrating SSAS with other Microsoft BI tools
+Building data-driven applications with SSAS as the backend
+Implementing advanced security models in SSAS
+Utilizing SSAS perspectives for enhanced cube browsing
+Expanding SSAS capabilities with custom security extensions
+Automating SSAS administration tasks with PowerShell
+Leveraging predictive analytics with SSAS and R
+Advanced data exploration techniques with SSAS and Excel Power Query
+Implementing time intelligence calculations in SSAS
+Enhancing SSAS cube processing performance with parallelism
+Building hierarchies and attribute relationships in SSAS
+Implementing partitioning strategies for SSAS tabular models
+Analyzing SSAS performance using Performance Monitor
+Utilizing advanced query optimization techniques in SSAS
+Implementing advanced dimension security in SSAS
+Building self-service BI solutions with SSAS and PowerPivot
+Optimizing SSAS processing for high data volumes
+Implementing change data capture (CDC) in SSAS
+Advanced data mining techniques with SQL Server Analysis Services
+Building financial models with SSAS and Power Query
+Utilizing advanced data mining algorithms in SSAS
+Implementing advanced partitioning strategies in SSAS
+Analyzing cube data with SSRS and SSAS
+Implementing query logging and auditing in SSAS
+Enhancing SSAS cube browsing with perspectives and translations
+Utilizing the role-playing dimension concept in SSAS
+Implementing predictive forecasting with SSAS and Excel
+Advanced configuration and performance tuning of SSAS
+Building advanced calculations and measures in SSAS
+Optimizing SSAS tabular model processing performance
+Implementing advanced data mining models in SSAS
+Utilizing external data sources in SSAS
+Advanced troubleshooting techniques for SSAS performance issues
+Implementing high availability and disaster recovery for SSAS
+Building custom SSAS solutions with the Analysis Services Management Objects (AMO) API
+Utilizing SSAS data mining models in Azure Machine Learning
+Implementing advanced dimension design techniques in SSAS
+Analyzing SSAS query performance with Dynamic Management Views (DMVs)
+Enhancing cube browsing with drill-through actions in SSAS
+Implementing data exploration and visualization in SSAS with Power View
+Advanced data modeling techniques for SSAS tabular models
+Utilizing reference dimensions for enhanced cube analysis in SSAS
+Implementing proactive caching for optimized SSAS cube performance
+Building custom aggregation models in SSAS
+Utilizing advanced time intelligence functions in MDX for SSAS
+Implementing advanced analysis scenarios with SSAS and Power Pivot
+Enhancing SSAS processing performance with parallel processing
+Implementing advanced security roles and permissions in SSAS
+Building custom data mining algorithms for SSAS
+Utilizing SSAS performance counters for monitoring and optimization
+Implementing custom KPIs and scorecards in SSAS
+Advanced dimension usage techniques in SSAS
+Implementing advanced data mining scenarios with SSAS and R
+Enhancing SSAS cube browsing with Excel slicers and Timeline filters
+Utilizing advanced scripting techniques with Tabular Model Scripting Language (TMSL)
+Implementing advanced attribute relationships in SSAS tabular models
+Building mobile BI solutions with SSAS and Power BI Mobile
+Optimizing SSAS cube calculations for improved performance
+Implementing advanced data bending and shaping in SSAS with M-Expressions

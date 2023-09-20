@@ -1,0 +1,100 @@
+Introduction to SQL window functions
+Using ROW_NUMBER() function in SQL
+Understanding RANK() function in SQL
+Exploring DENSE_RANK() function in SQL
+Using NTILE() function in SQL
+Understanding LAG() function in SQL
+Exploring LEAD() function in SQL
+Using FIRST_VALUE() function in SQL
+Understanding LAST_VALUE() function in SQL
+Exploring NTH_VALUE() function in SQL
+Using PARTITION BY in SQL window functions
+Understanding ORDER BY in SQL window functions
+Exploring RANGE and ROWS clauses in SQL window functions
+Using window functions to calculate running totals in SQL
+Understanding window functions for calculating moving averages in SQL
+Exploring window functions for finding cumulative sums in SQL
+Using window functions to calculate percentiles in SQL
+Understanding window functions for ranking rows based on specific criteria in SQL
+Exploring window functions for finding outliers in SQL
+Using window functions to identify trends in time-series data in SQL
+Understanding window functions for calculating differences between rows in SQL
+Exploring window functions for detecting gaps and islands in SQL
+Using window functions to handle missing values in SQL
+Understanding window functions for comparing current row with previous and next rows in SQL
+Exploring window functions for calculating moving averages with a window frame in SQL
+Using window functions to find top N values in each group in SQL
+Understanding window functions for finding first, last, and nth values in each group in SQL
+Exploring window functions for generating row numbers based on specific criteria in SQL
+Using window functions to calculate year-over-year growth in SQL
+Understanding window functions for detecting change points in time-series data in SQL
+Exploring window functions for calculating weighted averages in SQL
+Using window functions to handle time-based aggregates in SQL
+Understanding window functions for calculating lead and lag values with multiple columns in SQL
+Exploring window functions for finding the first occurrence of a value in each group in SQL
+Using window functions to calculate percentile ranks in SQL
+Understanding window functions for finding median values in each group in SQL
+Exploring window functions for calculating exponential moving averages in SQL
+Using window functions to handle rolling windows in SQL
+Understanding window functions for calculating moving sums in SQL
+Exploring window functions for finding the highest and lowest values in each group in SQL
+Using window functions to calculate time-based aggregates for irregular intervals in SQL
+Understanding window functions for finding the most recent occurrence of a value in each group in SQL
+Exploring window functions for calculating compound growth rates in SQL
+Using window functions to handle sliding windows in SQL
+Understanding window functions for calculating weighted moving averages in SQL
+Exploring window functions for finding the first and last occurrence of a specific value in each group in SQL
+Using window functions to calculate geometric means in SQL
+Understanding window functions for calculating lead and lag values within a specified range in SQL
+Exploring window functions for calculating moving maximums and minimums in SQL
+Using window functions to handle session-based aggregates in SQL
+Understanding window functions for finding the number of occurrences of specific values in each group in SQL
+Exploring window functions for calculating logarithmic moving averages in SQL
+Using window functions to handle expanding windows in SQL
+Understanding window functions for calculating z-scores in SQL
+Exploring window functions for calculating time-weighted averages in SQL
+Using window functions to find patterns in time-series data in SQL
+Understanding window functions for calculating lead and lag values for multiple columns within a specified range in SQL
+Exploring window functions for calculating cumulative maximums and minimums in SQL
+Using window functions to handle custom-defined windows in SQL
+Understanding window functions for finding the number of distinct values in each group in SQL
+Exploring window functions for calculating double exponential moving averages in SQL
+Using window functions to handle aligned windows in SQL
+Understanding window functions for calculating quartiles in SQL
+Exploring window functions for calculating weighted moving maximums and minimums in SQL
+Using window functions to handle multi-level aggregates in SQL
+Understanding window functions for finding the mode value in each group in SQL
+Exploring window functions for calculating time-based aggregates with a sliding window in SQL
+Using window functions to handle non-overlapping windows in SQL
+Understanding window functions for calculating interquartile ranges in SQL
+Exploring window functions for calculating exponential weighted moving maximums and minimums in SQL
+Using window functions to handle time-based aggregates with irregular time intervals in SQL
+Understanding window functions for finding the median value within a specified range in SQL
+Exploring window functions for calculating harmonic means in SQL
+Using window functions to handle session-based aggregates with custom-defined sessions in SQL
+Understanding window functions for finding the distribution of values within each group in SQL
+Exploring window functions for calculating linear weighted moving maximums and minimums in SQL
+Using window functions to handle time-based aggregates with overlapping windows in SQL
+Understanding window functions for finding the skewness of values within each group in SQL
+Exploring window functions for calculating simple moving maximums and minimums in SQL
+Using window functions to handle time-based aggregates with sliding windows in SQL
+Understanding window functions for finding the kurtosis of values within each group in SQL
+Exploring window functions for calculating exponentially weighted moving maximums and minimums in SQL
+Using window functions to handle time-based aggregates with expanding windows in SQL
+Understanding window functions for finding the standard deviation of values within each group in SQL
+Exploring window functions for calculating time-weighted moving maximums and minimums in SQL
+Using window functions to handle time-based aggregates with custom-defined intervals in SQL
+Understanding window functions for finding the covariance between two columns within each group in SQL
+Exploring window functions for calculating time-based aggregates with aligned windows in SQL
+Using window functions to handle time-based aggregates with non-overlapping windows in SQL
+Understanding window functions for finding the correlation between two columns within each group in SQL
+Exploring window functions for calculating time-based aggregates with multi-level windows in SQL
+Using window functions to handle time-based aggregates with non-fixed windows in SQL
+Understanding window functions for finding the percentile range of values within each group in SQL
+Exploring window functions for calculating time-based aggregates with custom-defined sessions in SQL
+Using window functions to handle percentiles for time-based aggregates in SQL
+Understanding window functions for finding the time range of values within each group in SQL
+Exploring window functions for calculating time-based aggregates with custom-defined windows in SQL
+Using window functions to handle time-based aggregates with irregular intervals and overlapping windows in SQL
+Understanding window functions for finding the variance of values within each group in SQL
+Exploring window functions for calculating time-weighted aggregates in SQL

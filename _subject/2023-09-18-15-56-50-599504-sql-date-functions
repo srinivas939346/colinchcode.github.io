@@ -1,0 +1,100 @@
+Introduction to SQL date functions
+Commonly used date functions in SQL
+How to extract month from a date in SQL
+How to calculate the difference between two dates in SQL
+Calculating age from birthdate using SQL date functions
+Getting the current date and time in SQL
+Understanding the DATEADD function in SQL
+Formatting dates in SQL using the CONVERT function
+How to find the day of the week for a given date in SQL
+Using the DATEDIFF function in SQL to calculate time intervals
+Working with time zones in SQL
+How to extract year from a date in SQL
+Performing date calculations with SQL date functions
+Filtering data based on specific date criteria in SQL
+Comparing dates in SQL using date functions
+Converting Unix timestamp to a date format in SQL
+Understanding the GETDATE function in SQL
+How to find the first and last day of a month in SQL
+Using the DATEPART function in SQL
+Round a date or time to the nearest specified datepart in SQL
+Calculating the number of days between two dates in SQL
+Truncating time from a datetime value in SQL
+How to add or subtract days from a date in SQL
+Using the WEEKDAY function in SQL to find the day of the week
+Finding the earliest and the latest date in SQL
+How to handle NULL values in SQL date functions
+Formulating complex date queries in SQL
+Customizing date formats in SQL queries
+Using the EOMONTH function in SQL to find the last day of the month
+How to calculate the number of weekdays between two dates in SQL
+Performing date calculations with time components in SQL
+Extracting quarter from a date in SQL
+How to shift dates forward or backward in SQL
+Understanding the DATENAME function in SQL
+How to add or subtract months from a date in SQL
+Using the NOW() function in SQL to get the current date and time
+Finding the average date from a list of dates in SQL
+Formulating efficient date queries with indexes in SQL
+Handling time zone conversions in SQL
+How to calculate the number of leap years between two dates in SQL
+Using the GETUTCDATE function in SQL to get the current UTC date and time
+Truncating seconds from a timestamp in SQL
+Calculating the number of months between two dates in SQL
+How to calculate the difference between two timestamps in SQL
+Finding the range of dates between two specific dates in SQL
+Using the TIMEPART function in SQL to extract time components
+Handling daylight saving time in SQL date functions
+How to calculate the number of weeks between two dates in SQL
+Using the SYSDATETIME function in SQL to get the current date and time
+Extracting hour from a datetime value in SQL
+How to add or subtract years from a date in SQL
+Finding the number of occurrences of a specific date in SQL
+Structuring queries with date intervals in SQL
+Understanding the YEAR function in SQL
+How to calculate the number of hours between two datetime values in SQL
+Sorting data by date in SQL queries
+Using the TODATETIMEOFFSET function in SQL to convert a date to a specific time zone
+Truncating minutes from a timestamp in SQL
+Calculating the number of weeks within a month in SQL
+How to calculate the number of seconds between two timestamps in SQL
+Finding the difference between two durations in SQL
+Using the CURRENT_TIMESTAMP function in SQL to get the current date and time
+Extracting minute from a datetime value in SQL
+How to check if a date falls within a specific range in SQL
+Finding the number of days in a specific month in SQL
+Handling different date formats in SQL date functions
+Calculating the number of years between two dates in SQL
+How to calculate the average time between consecutive date entries in SQL
+Using the DATEPARTOFFSET function in SQL to extract date and time components
+Truncating milliseconds from a timestamp in SQL
+Calculating the number of weekdays within a month in SQL
+How to calculate the number of weeks in a year in SQL
+Finding the current quarter in SQL using date functions
+Using the SYSDATETIMEOFFSET function in SQL to get the current date and time with timezone information
+Extracting second from a datetime value in SQL
+How to handle time zone conversions in SQL date functions
+Finding the number of weeks in a specific month in SQL
+Calculating the number of business days between two dates in SQL
+Using the CURRENT_DATE function in SQL to get the current date
+Truncating microseconds from a timestamp in SQL
+Calculating the number of months in a specific year in SQL
+How to calculate the average interval between date entries in SQL
+Using the DATEPARTISO function in SQL to extract ISO week information
+Extracting time from a datetime value in SQL
+How to handle leap years in SQL date functions
+Finding the number of days in a specific year in SQL
+Calculating the number of business hours between two datetime values in SQL
+Using the INTERSECT operator with dates in SQL
+Truncating nanoseconds from a timestamp in SQL
+Calculating the number of weeks in a month within a specific year in SQL
+How to calculate the average time between consecutive date entries for each month in SQL
+Using the CURRENT_TIME function in SQL to get the current time
+Extracting time zone offset from a datetime value in SQL
+How to find the previous and next date from a given date in SQL
+Finding the number of days before a specific date in SQL
+Calculating the number of business minutes between two datetime values in SQL
+Using the EXCEPT operator with dates in SQL
+Truncating picoseconds from a timestamp in SQL
+Calculating the number of weeks in a specific year and month in SQL
+How to calculate the average interval between date entries for each day of the week in SQL
