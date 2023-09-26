@@ -1,0 +1,50 @@
+Introduction to regular expressions
+Syntax of regular expressions in Python
+Matching literals with regular expressions
+Matching a single character with regular expressions
+Matching multiple characters with regular expressions
+Special characters in regular expressions
+Matching with wildcards in regular expressions
+Anchors and boundaries in regular expressions
+Quantifiers in regular expressions
+Grouping in regular expressions
+Alternation in regular expressions
+Greedy vs non-greedy matching in regular expressions
+Modifiers in regular expressions
+Escaping characters in regular expressions
+Backreferences in regular expressions
+Using regular expressions with strings in Python
+Finding patterns in text with regular expressions
+Replacing with regular expressions in Python
+Splitting with regular expressions in Python
+Validating user input with regular expressions
+Extracting data with regular expressions
+Capturing groups in regular expressions
+Named groups in regular expressions
+Lookahead and lookbehind assertions in regular expressions
+Unicode and regular expressions in Python
+Case-insensitive matching with regular expressions
+Predefined character classes in regular expressions
+Custom character classes in regular expressions
+Email validation with regular expressions
+URL validation with regular expressions
+Phone number validation with regular expressions
+IP address validation with regular expressions
+Password strength validation with regular expressions
+Removing unwanted characters with regular expressions
+Replacing HTML tags with regular expressions
+Parsing log files with regular expressions
+Extracting dates and times with regular expressions
+Extracting numbers with regular expressions
+Extracting email addresses with regular expressions
+Detecting duplicate words with regular expressions
+Finding and replacing multiple occurrences with regular expressions
+URL rewriting with regular expressions
+Counting occurrences with regular expressions
+Slashes and backslashes in regular expressions
+Matching whitespace characters with regular expressions
+Finding and replacing line breaks with regular expressions
+Using regular expressions in file processing
+Finding and replacing special characters with regular expressions
+Word boundary matching with regular expressions
+Using regular expressions in web scraping

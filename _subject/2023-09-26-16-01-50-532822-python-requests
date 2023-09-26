@@ -1,0 +1,50 @@
+Introduction to Python Requests
+Installing and importing Requests library
+Sending a GET request using Python Requests
+Sending a POST request using Python Requests
+Sending a PUT request using Python Requests
+Sending a DELETE request using Python Requests
+Handling request parameters in Python Requests
+Adding headers to a request in Python Requests
+Handling cookies with Python Requests
+Uploading files with Python Requests
+Downloading files with Python Requests
+Handling basic authentication with Python Requests
+Handling OAuth authentication with Python Requests
+Handling response status codes in Python Requests
+Handling response headers in Python Requests
+Parsing JSON response using Python Requests
+Parsing XML response using Python Requests
+Handling redirects in Python Requests
+Handling timeout issues in Python Requests
+Handling exceptions in Python Requests
+Making concurrent requests using Python Requests
+Using proxies with Python Requests
+Handling SSL certificates with Python Requests
+Adding custom SSL certificates in Python Requests
+Sending requests to RESTful APIs using Python Requests
+Authentication with JWT in Python Requests
+Handling multipart/form-data in Python Requests
+Handling URL encoding in Python Requests
+Handling request caching with Python Requests
+Handling rate limiting with Python Requests
+Using sessions in Python Requests
+Persistent connections with Python Requests
+Using request hooks in Python Requests
+Debugging requests with Python Requests
+Handling response compression in Python Requests
+Sending and receiving cookies with Python Requests
+Follow redirects with Python Requests
+Timing request duration in Python Requests
+Handling content encoding in Python Requests
+Sending custom HTTP methods with Python Requests
+Handling cross-site request forgery (CSRF) protection with Python Requests
+Handling server errors in Python Requests
+Handling pagination in API responses using Python Requests
+Handling response pagination using Python Requests
+Handling different encodings in Python Requests
+Sending PATCH requests using Python Requests
+Sending HEAD requests using Python Requests
+Handling HTML response in Python Requests
+Handling text response in Python Requests
+Handling binary response in Python Requests

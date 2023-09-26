@@ -1,0 +1,50 @@
+Introduction to SQLAlchemy
+Installing SQLAlchemy
+SQLAlchemy Object Relational Mapping (ORM)
+Connecting to a Database with SQLAlchemy
+Creating Tables with SQLAlchemy
+Defining Database Models in SQLAlchemy
+CRUD Operations with SQLAlchemy
+Retrieving Records with SQLAlchemy
+Filtering and Querying Data with SQLAlchemy
+Updating Records with SQLAlchemy
+Deleting Records with SQLAlchemy
+Transactions and Atomicity in SQLAlchemy
+SQLAlchemy Relationships: One-to-One
+SQLAlchemy Relationships: One-to-Many
+SQLAlchemy Relationships: Many-to-One
+SQLAlchemy Relationships: Many-to-Many
+Eager Loading in SQLAlchemy
+Lazy Loading in SQLAlchemy
+Joining Tables with SQLAlchemy
+Aggregating Data with SQLAlchemy
+Sorting and Ordering Data with SQLAlchemy
+SQLAlchemy Query API
+SQLAlchemy Expression Language
+SQLAlchemy Core
+Using Raw SQL Queries with SQLAlchemy
+Database Migrations with SQLAlchemy
+SQLAlchemy and Flask Integration
+SQLAlchemy and Django Integration
+SQLAlchemy and FastAPI Integration
+SQLAlchemy and Pyramid Integration
+SQLAlchemy and Bottle Integration
+SQLAlchemy and Falcon Integration
+SQLAlchemy and PeeWee Integration
+SQLAlchemy and Tornado Integration
+SQLAlchemy and AIOHTTP Integration
+SQLAlchemy and Quart Integration
+SQLAlchemy and Sanic Integration
+SQLAlchemy and Starlette Integration
+SQLAlchemy and TurboGears Integration
+SQLAlchemy and Web2py Integration
+SQLAlchemy and CherryPy Integration
+SQLAlchemy and Flask-SQLAlchemy
+SQLAlchemy and Django-ORM
+SQLAlchemy and SQLAlchemy-Utils
+SQLAlchemy and Alembic
+SQLAlchemy and PyMySQL
+SQLAlchemy and SQLite
+SQLAlchemy and MySQL
+SQLAlchemy and PostgreSQL
+SQLAlchemy and Oracle

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://colinchsql.github.io/sitemap.xml
+Sitemap: https://colinchcode.github.io/sitemap.xml
