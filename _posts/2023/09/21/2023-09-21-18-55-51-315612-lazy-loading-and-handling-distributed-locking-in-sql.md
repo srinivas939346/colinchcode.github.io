@@ -13,7 +13,7 @@ title: Lazy Loading and Handling Distributed Locking in SQL
 description: Learn about lazy loading and distributed locking techniques in SQL databases to improve performance and ensure data consistency.
 author: [Your Name]
 date: [Date]
-tags: [SQL, Database, Performance, Locking]
+tags: [Database, Performance, Locking]
 ---
 
 # Introduction

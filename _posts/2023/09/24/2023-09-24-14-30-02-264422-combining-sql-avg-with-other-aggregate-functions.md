@@ -11,7 +11,7 @@ title: Combining SQL AVG with Other Aggregate Functions
 description: Learn how to combine the SQL AVG function with other aggregate functions to perform powerful data calculations.
 author: [Your Name]
 date: 2022-02-15
-tags: [SQL, Database, Aggregate Functions]
+tags: [Database, Aggregate Functions]
 ---
 
 # Combining SQL AVG with Other Aggregate Functions
