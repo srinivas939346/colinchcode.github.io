@@ -32,7 +32,7 @@ google-analytics:
 
 # Disqus
 disqus:
-  id:               "codetroy"
+  id:               "https-codetroy-com"
 
 # URL
 url:                "https://codetroy.com" # the base hostname & protocol for your site
