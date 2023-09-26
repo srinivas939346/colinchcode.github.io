@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://colinchcode.github.io/sitemap.xml
+Sitemap: https://codetroy.com/sitemap.xml
