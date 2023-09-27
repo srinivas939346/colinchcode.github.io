@@ -1,0 +1,50 @@
+Introduction to Theano
+Installing Theano
+Setting up Theano environment
+Theano vs other deep learning frameworks
+Theano architecture and design
+Theano expression graphs
+Theano variables and functions
+Compiling Theano functions
+Theano symbolic differentiation
+Optimizing Theano expression graphs
+Automatic differentiation in Theano
+Building neural networks with Theano
+Theano neural network layers
+Training deep neural networks with Theano
+Theano GPU acceleration
+Debugging and profiling in Theano
+Common errors and debugging tips in Theano
+Speeding up Theano code
+Implementing convolutional neural networks in Theano
+Recurrent neural networks with Theano
+Natural language processing with Theano
+Reinforcement learning with Theano
+Generative models with Theano
+Transfer learning with Theano
+Distributed computing with Theano
+Optimization techniques in Theano
+Bayesian inference with Theano
+Implementing autoencoders in Theano
+Graphical models with Theano
+Hyperparameter tuning in Theano
+Parallel computing with Theano
+Theano for image classification
+Theano for object detection
+Theano for sentiment analysis
+Theano for anomaly detection
+Theano for time series analysis
+Theano for text generation
+Theano for recommendation systems
+Theano for speech recognition
+Theano for natural language understanding
+Theano for stock market prediction
+Theano for computer vision applications
+Theano for autonomous driving
+Theano for drug discovery
+Theano for genomics
+Theano for protein structure prediction
+Theano for financial forecasting
+Theano for fraud detection
+Theano for customer segmentation
+Theano for personalized medicine.
