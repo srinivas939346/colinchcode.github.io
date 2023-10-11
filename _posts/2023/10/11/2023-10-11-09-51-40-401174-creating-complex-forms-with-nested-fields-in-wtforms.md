@@ -81,16 +81,19 @@ In the code above, we applied the `Regexp` validator to the `number` field to en
 
 ## Rendering nested fields
 
+{% raw %}
 To render nested fields in your HTML template, you can use the `{{ form.field_name }}` notation provided by WTForms. You can also iterate over lists of fields using `{% for field in form.field_name %}`.
-
+{% endraw %}
 Here's an example HTML snippet for rendering the nested `phone_numbers` field:
 
 ```html
+{% raw %}
 {% for phone in form.phone_numbers %}
     <div class="form-group">
         {{ phone.number.label }}: {{ phone.number }}
     </div>
 {% endfor %}
+{% endraw %}
 ```
 
 In the code above, we iterate over the `phone_numbers` field and render each phone number field with its label.
