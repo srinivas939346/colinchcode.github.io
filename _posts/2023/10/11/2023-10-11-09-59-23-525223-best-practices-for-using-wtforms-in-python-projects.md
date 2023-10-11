@@ -99,6 +99,7 @@ def submit_form():
 WTForms provides default rendering for form fields, but you can customize the rendering by using templates or manipulating the HTML directly. This allows you to customize the form layout, styling, and validation error messages according to your project's requirements.
 
 ```html
+{% raw %}
 <form>
     {{ form.csrf_token }}
     <div class="form-group">
@@ -110,6 +111,7 @@ WTForms provides default rendering for form fields, but you can customize the re
     </div>
     <!-- More form fields -->
 </form>
+{% endraw %}
 ```
 
 ## 7. Write Unit Tests<a name="write-unit-tests"></a>

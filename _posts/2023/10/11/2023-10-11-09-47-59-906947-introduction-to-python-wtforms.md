@@ -82,6 +82,7 @@ In the above code, we create an instance of `RegistrationForm` and pass it to th
 To render a form in a template, we can use WTForms' `form` object and its `hidden_tag()`, `form.errors`, and `form.field_name` attributes. For example, to render the `RegistrationForm` in an HTML template, we can do the following:
 
 ```html
+{% raw %}
 <form method="POST">
     {{ form.hidden_tag() }}
 
@@ -103,6 +104,7 @@ To render a form in a template, we can use WTForms' `form` object and its `hidde
 
     {{ form.submit(class='btn btn-primary') }}
 </form>
+{% endraw %}
 ```
 
 The above code snippet demonstrates how to render the `RegistrationForm` using Flask's template engine, Jinja2. We use the `hidden_tag()` method to include any hidden fields, and then render each field along with its label and any validation errors.

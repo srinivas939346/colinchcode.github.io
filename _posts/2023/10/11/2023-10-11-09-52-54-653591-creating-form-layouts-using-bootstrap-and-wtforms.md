@@ -84,13 +84,16 @@ With the form class defined, we can now create an HTML template and integrate Bo
 Start by extending the base Bootstrap template and importing the necessary macros:
 
 ```html
+{% raw %}
 {% extends 'bootstrap/base.html' %}
 {% import 'bootstrap/wtf.html' as wtf %}
+{% endraw %}
 ```
 
 In the body section of the template, add the form fields using the provided macros:
 
 ```html
+{% raw %}
 {% block content %}
   <div class="container">
     <h1>Login Form</h1>
@@ -98,6 +101,7 @@ In the body section of the template, add the form fields using the provided macr
     {{ wtf.quick_form(form) }}
   </div>
 {% endblock %}
+{% endraw %}
 ```
 
 ## 5. Adding form validation<a name="adding-form-validation"></a>

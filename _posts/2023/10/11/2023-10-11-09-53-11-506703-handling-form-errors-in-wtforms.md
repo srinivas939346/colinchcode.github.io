@@ -62,6 +62,7 @@ WTForms provides default error messages for common validation errors. These erro
 To display the error messages in our template, we can use the following code:
 
 ```html
+{% raw %}
 <form method="POST" action="{{ url_for('form') }}">
   <!-- Form fields -->
   {{ form.csrf_token }}
@@ -75,6 +76,7 @@ To display the error messages in our template, we can use the following code:
   <!-- Other fields -->
   <button type="submit" class="btn btn-primary">Submit</button>
 </form>
+{% endraw %}
 ```
 
 In the above example, we iterate through each error associated with the `name` field and display it as an alert. The same can be done for other form fields.

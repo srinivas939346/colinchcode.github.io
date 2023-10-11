@@ -31,7 +31,9 @@ To troubleshoot this issue, you can follow these steps:
 Another common issue is when a validation error occurs during form submission, but the error message is not displayed to the user. By default, WTForms uses Flash messages to display validation errors. If you don't see any error messages, it could be due to the following reasons:
 
 To troubleshoot this issue, consider the following steps:
+{% raw %}
 1. Ensure that your template has a block to display flash messages. Include the necessary logic to display the flash messages in your template file. For example, using Flask, you can use `{% with messages = get_flashed_messages() %}` to access flash messages in your template.
+{% endraw %}
 2. Verify the configuration of your flash messaging. Make sure you have correctly set up the necessary configurations (e.g., `app.secret_key`) to enable flashing and displaying error messages.
 
 <a name="csrf-error"></a>
