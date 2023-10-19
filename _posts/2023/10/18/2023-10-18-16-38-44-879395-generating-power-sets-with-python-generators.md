@@ -11,9 +11,9 @@ share: true
 In this post, we will explore how to generate all possible subsets, also known as power sets, of a given set using Python generators. Power sets are a fundamental concept in mathematics and have various applications in combinatorics, algorithms, and data science.
 
 ## Introduction to Power Sets
-
+{% raw %}
 A power set is a set that contains all possible subsets of a given set. For example, the power set of `{1, 2}` is `{{}, {1}, {2}, {1, 2}}`, where the empty set `{}` and the original set `{1, 2}` are also included.
-
+{% endraw %}
 ## Naive Approach
 
 A naive approach to generate power sets involves iterating through all possible combinations and appending them to a result list. Here's an example using the `itertools` library in Python:
