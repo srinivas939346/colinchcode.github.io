@@ -75,6 +75,7 @@ def index():
 5. Create a template to display the form:
 
 ```python
+{% raw %}
 {% extends 'base.html' %}
 
 {% block content %}
@@ -85,6 +86,7 @@ def index():
     {{ form.submit }}
 </form>
 {% endblock %}
+{% endraw %}
 ```
 
 6. Run the Flask application:

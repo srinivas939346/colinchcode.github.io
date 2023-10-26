@@ -65,6 +65,7 @@ if __name__ == '__main__':
 Create a new folder called `templates` in the same directory as your `app.py` file, and inside the `templates` folder, create a new file named `index.html`. Add the following code to the `index.html` file:
 
 ```html
+{% raw %}
 <!DOCTYPE html>
 <html>
 <head>
@@ -78,10 +79,11 @@ Create a new folder called `templates` in the same directory as your `app.py` fi
     </form>
 </body>
 </html>
+{% endraw %}
 ```
-
+{% raw %}
 This form contains a file input field and a submit button. The form's `action` attribute is set to `{{ url_for('upload') }}`, which will be the route responsible for handling the file upload.
-
+{% endraw %}
 ## Handling the File Upload
 
 Now, let's modify the Flask app to handle the file upload. Import the `request` module from Flask and add a new route for the `/upload` URL:

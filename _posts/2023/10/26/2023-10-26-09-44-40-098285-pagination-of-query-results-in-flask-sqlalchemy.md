@@ -75,6 +75,7 @@ The `paginate` method returns a `Pagination` object, which contains the paginate
 To display links for navigating between pages, Flask-SQLAlchemy provides the `prev()` and `next()` methods on the `Pagination` object. Here's an example of how to display pagination links in a template:
 
 ```html
+{% raw %}
 {% for page in users.iter_pages() %}
     {% if page %}
         {% if users.page == page %}
@@ -86,6 +87,7 @@ To display links for navigating between pages, Flask-SQLAlchemy provides the `pr
         <span class="ellipsis">...</span>
     {% endif %}
 {% endfor %}
+{% endraw %}
 ```
 
 In the above code, we iterate over the pages using the `iter_pages()` method. We check if the current iteration is the current page and render it as plain text. Otherwise, we render a link to the respective page using the `url_for` function.

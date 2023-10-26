@@ -114,6 +114,7 @@ In this example, we import the `render_template`, `request`, and `redirect` func
 Create an `index.html` file in the same directory as `app.py`:
 
 ```html
+{% raw %}
 <!DOCTYPE html>
 <html>
 <head>
@@ -138,6 +139,7 @@ Create an `index.html` file in the same directory as `app.py`:
     </form>
 </body>
 </html>
+{% endraw %}
 ```
 
 Restart the application and navigate to `http://localhost:5000`. You should see a list of users and a form to add new users. Submit the form, and the user will be added to the database.
