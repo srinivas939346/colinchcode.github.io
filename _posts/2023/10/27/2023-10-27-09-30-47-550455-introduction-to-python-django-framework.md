@@ -99,6 +99,7 @@ def product_detail(request, product_id):
 Django templates are used to generate HTML output dynamically. They allow embedding Python code within HTML, making it possible to display data from the views. Here's an example of a Django template:
 
 ```html
+{% raw %}
 <!DOCTYPE html>
 <html>
 <head>
@@ -110,6 +111,7 @@ Django templates are used to generate HTML output dynamically. They allow embedd
     <p>Price: {{ product.price }}</p>
 </body>
 </html>
+{% endraw %}
 ```
 
 ## Conclusion

@@ -64,6 +64,7 @@ The `index` function retrieves all the messages received by the authenticated us
 Now, let's create a view to display the messages and the form to send a new message. Create a new file called `views/messaging/index.html` and add the following code:
 
 ```html
+{% raw %}
 {{extend 'layout.html'}}
 
 <h1>Messages</h1>
@@ -79,6 +80,7 @@ Now, let's create a view to display the messages and the form to send a new mess
 <h2>Send a new message</h2>
 
 {{=form}}
+{% endraw %}
 ```
 
 This view displays the list of received messages and provides a form to send a new message.
@@ -147,6 +149,7 @@ This code defines a `chat` function to render the chat view and a `stream` funct
 Create a new file called `views/messaging/chat.html` and add the following code:
 
 ```html
+{% raw %}
 {{extend 'layout.html'}}
 
 <h1>Chat</h1>
@@ -186,6 +189,7 @@ Create a new file called `views/messaging/chat.html` and add the following code:
         document.getElementById("content").value = "";
     };
 </script>
+{% endraw %}
 ```
 
 This view displays the chat interface, including the list of messages and the form to send a new message. It establishes a websocket connection and listens for incoming messages. When a message is received, it updates the UI accordingly.

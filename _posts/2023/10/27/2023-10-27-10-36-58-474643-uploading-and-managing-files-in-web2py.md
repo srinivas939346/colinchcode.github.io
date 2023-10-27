@@ -26,11 +26,13 @@ Web2py is a versatile Python web framework that allows developers to build web a
 To enable file upload, we need to create an HTML form with an input field of type "file". Here's an example:
 
 ```html
+{% raw %}
 <form action="{{=URL('upload')}}"
       enctype="multipart/form-data" method="POST">
   <input type="file" name="file">
   <input type="submit" value="Upload">
 </form>
+{% endraw %}
 ```
 
 Make sure to set the `enctype` attribute to `"multipart/form-data"` to enable file uploads.

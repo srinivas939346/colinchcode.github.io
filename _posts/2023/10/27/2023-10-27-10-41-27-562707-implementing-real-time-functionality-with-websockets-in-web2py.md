@@ -90,7 +90,9 @@ To implement a WebSocket endpoint in Web2py, you need to create a new controller
 
 2. Create a new view file, e.g., `views/ws/websocket.html`, with the following content:
    ```html
+   {% raw %}
    {{extend 'layout.html'}}
+   {% endraw %}
    ```
 
 3. Configure the routing in the `routes.py` file to map the WebSocket endpoint to the new controller:

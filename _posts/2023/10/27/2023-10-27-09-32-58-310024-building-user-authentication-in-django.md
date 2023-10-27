@@ -126,6 +126,7 @@ def register(request):
 4. Create a registration template (`registration.html`) in the app's `templates` directory to display the registration form.
 
 ```html
+{% raw %}
 {% extends 'base.html' %}
 
 {% block content %}
@@ -136,6 +137,7 @@ def register(request):
     <button type="submit">Register</button>
   </form>
 {% endblock %}
+{% endraw %}
 ```
 
 ## Login
@@ -181,6 +183,7 @@ def user_login(request):
 3. Create a login template (`login.html`) in the app's `templates` directory to display the login form.
 
 ```html
+{% raw %}
 {% extends 'base.html' %}
 
 {% block content %}
@@ -191,6 +194,7 @@ def user_login(request):
     <button type="submit">Login</button>
   </form>
 {% endblock %}
+{% endraw %}
 ```
 
 ## Logout

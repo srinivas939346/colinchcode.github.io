@@ -64,8 +64,10 @@ To translate the content displayed in the views, you can use the `T()` function 
 Here's an example of how to use the `T()` function in your views:
 
 ```python
+{% raw %}
 <h1>{{=T('Welcome to my website')}}</h1>
 <p>{{=T('This is my about page')}}</p>
+{% endraw %}
 ```
 
 In the above code, the strings inside the `T()` function will be automatically translated based on the selected language.
@@ -73,7 +75,9 @@ In the above code, the strings inside the `T()` function will be automatically t
 You can also provide translation strings with variables:
 
 ```python
+{% raw %}
 <h1>{{=T('Welcome to my website, %(name)s', name='John')}}</h1>
+{% endraw %}
 ```
 
 The `T()` function will substitute the placeholder `%(name)s` with the value provided.

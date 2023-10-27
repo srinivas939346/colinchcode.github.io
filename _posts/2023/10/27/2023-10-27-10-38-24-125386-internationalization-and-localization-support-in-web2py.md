@@ -43,9 +43,11 @@ T = {
 5. In your views, replace the static strings with calls to the `T` translation function. For example:
 
 ```python
+{% raw %}
 # index.html
 
 <h1>{{=T('Welcome to my app')}}</h1>
+{% endraw %}
 ```
 
 6. Start the Web2py server and visit your application. Web2py will automatically detect the user's preferred language based on the browser settings and load the corresponding translation files.
@@ -57,7 +59,9 @@ By default, Web2py uses the language specified in the `T.accepted_language` list
 To do this, add the following line to your layout file or any other view that should display the language selection:
 
 ```python
+{% raw %}
 {{=T('Change language')}}: {{=T.force(T('English'), 'en')}} | {{=T.force(T('Spanish'), 'es')}}
+{% endraw %}
 ```
 
 Where `'en'` and `'es'` are the language codes for English and Spanish, respectively. When the user selects a different language, web2py will reload the page with the updated language.

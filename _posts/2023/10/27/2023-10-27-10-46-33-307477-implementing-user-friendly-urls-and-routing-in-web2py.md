@@ -54,7 +54,9 @@ This function can include any logic you need, such as querying the database, pro
 Now that you have set up custom URL routes and controller functions, you can generate links dynamically in your views or controller functions using the `URL()` function provided by Web2py. The `URL()` function ensures that the generated link matches the configured routes.
 
 ```python
+{% raw %}
 {{=URL('default', 'index')}}
+{% endraw %}
 ```
 
 In this example, the link generated will be `/your_app/default/index`. You can also pass additional parameters to the `URL()` function to generate URLs with query strings or route parameters.

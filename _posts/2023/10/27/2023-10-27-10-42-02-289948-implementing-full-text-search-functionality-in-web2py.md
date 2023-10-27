@@ -88,10 +88,12 @@ def search_results():
 In your web2py view, you can display the search results as follows:
 
 ```html
+{% raw %}
 {{for result in results:}}
     <h2>{{=result.title}}</h2>
     <p>{{=result.content}}</p>
 {{pass}}
+{% endraw %}
 ```
 
 ## Additional Considerations

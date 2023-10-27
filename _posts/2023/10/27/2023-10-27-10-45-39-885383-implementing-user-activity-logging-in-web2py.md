@@ -91,6 +91,7 @@ In the above code, we query the "activity_log" table using the `db().select()` m
 Create a new view file `views/default/view_logs.html` and add the following code:
 
 ```html
+{% raw %}
 {{extend 'layout.html'}}
 
 {{block body}}
@@ -110,6 +111,7 @@ Create a new view file `views/default/view_logs.html` and add the following code
     {% endfor %}
 </table>
 {{end}}
+{% endraw %}
 ```
 
 This view template will render a table listing the user activity logs with columns for user, activity, and timestamp.

@@ -90,6 +90,7 @@ def my_form():
 In the above code, after the `if form.accepts()` block, you can add the following code in the view to display form errors:
 
 ```python
+{% raw %}
 {{if form.errors:}}
     <div class="alert alert-danger">
         Please correct the following errors:
@@ -100,6 +101,7 @@ In the above code, after the `if form.accepts()` block, you can add the followin
         </ul>
     </div>
 {{pass}}
+{% endraw %}
 ```
 
 The above code loops through the `form.errors` dictionary and displays each error message. You can customize the error message display as per your application's styling requirements.

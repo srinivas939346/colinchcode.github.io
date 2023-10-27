@@ -39,11 +39,13 @@ In this example, we have defined four fields - `name`, `email`, `age`, and `comm
 Once you have defined your form, you can render it in a template using the `form` template tag provided by Django.
 
 ```html
+{% raw %}
 <form method="post" action="{% url 'submit_form' %}">
     {% csrf_token %}
     {{ form.as_p }}
     <button type="submit">Submit</button>
 </form>
+{% endraw %}
 ```
 
 In the template code above, we use the `form.as_p` method to render the form fields as paragraphs. You can also use `form.as_table` or `form.as_ul` to render the form fields as tables or unordered lists, respectively.

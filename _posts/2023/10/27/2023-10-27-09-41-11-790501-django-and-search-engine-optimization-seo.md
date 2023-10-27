@@ -33,11 +33,13 @@ In the above example, we defined two URL patterns for blog listing and detail pa
 Meta tags provide search engines with information about your web page. Django allows you to set meta tags dynamically using template variables.
 
 ```html
+{% raw %}
 <head>
     <title>{{ page_title }}</title>
     <meta name="description" content="{{ page_description }}">
     <meta name="keywords" content="{{ page_keywords }}">
 </head>
+{% endraw %}
 ```
 
 By setting appropriate values for `page_title`, `page_description`, and `page_keywords` in your Django views, you can improve the relevancy and visibility of your web pages in search results.
@@ -71,6 +73,7 @@ In the above example, we created a `BlogSitemap` class that includes all the blo
 Schema markup is a structured data format that helps search engines understand the content of your website better. By adding schema markup to your Django templates, you can provide additional information about your web pages, such as the type of content, author, date published, and more.
 
 ```html
+{% raw %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -88,6 +91,7 @@ Schema markup is a structured data format that helps search engines understand t
   "description": "{{ blog.summary }}"
 }
 </script>
+{% endraw %}
 ```
 
 By implementing schema markup, you provide search engines with valuable information that can improve the visibility and presentation of your web pages in search results.

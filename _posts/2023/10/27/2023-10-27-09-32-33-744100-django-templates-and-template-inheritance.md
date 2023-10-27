@@ -19,6 +19,7 @@ In Django, a template is a file containing HTML code with placeholders for dynam
 To create a basic Django template, create a file with a `.html` extension and define your HTML code. For example, let's create a template named `example.html`:
 
 ```html
+{% raw %}
 <!DOCTYPE html>
 <html>
 <head>
@@ -29,10 +30,11 @@ To create a basic Django template, create a file with a `.html` extension and de
     <p>This is a simple Django template.</p>
 </body>
 </html>
+{% endraw %}
 ```
-
+{% raw %}
 In this template, `{{ name }}` is a placeholder that will be replaced with an actual value when the template is rendered.
-
+{% endraw %}
 ## Using Template Variables
 
 To render a template with dynamic data, you can pass a dictionary of variables to the `render()` function in Django views. For example:
@@ -45,9 +47,9 @@ def my_view(request):
     context = {'name': 'John'}
     return render(request, 'example.html', context)
 ```
-
+{% raw %}
 In this example, we pass the `context` dictionary to the `render()` function along with the `example.html` template. The value of `name` in the context dictionary will replace the `{{ name }}` placeholder in the template when it is rendered.
-
+{% endraw %}
 ## Template Inheritance
 
 Django templates provide **template inheritance**, which allows you to create a base template with common elements and extend it in child templates. This helps in reusing code and maintaining a consistent layout across multiple pages.

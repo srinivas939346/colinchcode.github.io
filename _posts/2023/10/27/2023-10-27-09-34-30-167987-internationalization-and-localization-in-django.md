@@ -89,6 +89,7 @@ Django automatically handles language preferences based on the `Accept-Language`
 You can override this behavior and allow users to manually select the language by providing a language selector in your navigation or settings page.
 
 ```html
+{% raw %}
 {% load i18n %}
 
 <form action="{% url 'set_language' %}" method="post">
@@ -102,6 +103,7 @@ You can override this behavior and allow users to manually select the language b
     </select>
     <button type="submit">Change Language</button>
 </form>
+{% endraw %}
 ```
 
 In conclusion, Django's internationalization and localization features make it easy to create multilingual web applications. By leveraging these features, you can provide a better user experience to your global audience.

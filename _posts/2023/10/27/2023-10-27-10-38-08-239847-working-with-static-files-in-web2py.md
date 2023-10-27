@@ -42,13 +42,17 @@ To link to a static file in your Web2py templates or views, you can use the `URL
 For example, to link to the `styles.css` file in the `css` subdirectory, you can use the following code:
 
 ```html
+{% raw %}
 <link rel="stylesheet" type="text/css" href="{{=URL('static', 'css/styles.css')}}">
+{% endraw %}
 ```
 
 Similarly, to link to the `logo.png` image in the `images` subdirectory, you can use the following code:
 
 ```html
+{% raw %}
 <img src="{{=URL('static', 'images/logo.png')}}">
+{% endraw %}
 ```
 
 ## Handling static file requests
@@ -68,7 +72,9 @@ def styles():
 Now, when you link to the `styles.css` file in your template, you would use the following code:
 
 ```html
+{% raw %}
 <link rel="stylesheet" type="text/css" href="{{=URL('controller', 'styles')}}">
+{% endraw %}
 ```
 
 ## Conclusion

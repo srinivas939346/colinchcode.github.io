@@ -122,6 +122,7 @@ To read, update, and delete blog posts, we need to implement the corresponding v
 To display the blog posts on a web page, we need to create a view and a corresponding HTML template. Create a new file called `home.html` inside the `templates/blog` directory and add the following code:
 
 ```html
+{% raw %}
 <h1>Blog Posts</h1>
 <ul>
   {% for blog in blogs %}
@@ -135,6 +136,7 @@ To display the blog posts on a web page, we need to create a view and a correspo
   <li>No blog posts yet.</li>
   {% endfor %}
 </ul>
+{% endraw %}
 ```
 
 Next, in `views.py`, create a new view function to render the home page:

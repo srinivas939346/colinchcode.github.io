@@ -53,9 +53,9 @@ def index():
     response.vars.message = 'Hello, World!'
     return dict()
 ```
-
+{% raw %}
 In the above example, we set the `response.view` attribute to `default/index.html` and assign the message "Hello, World!" to `response.vars.message`. In the associated view, you can access the data using the `{{=message}}` syntax.
-
+{% endraw %}
 Alternatively, you can also pass data directly from the controller to the view by returning a dictionary. Web2py will automatically look for a view file with the same name as the controller action and render it with the provided data.
 
 ## Managing Views
@@ -63,9 +63,9 @@ Alternatively, you can also pass data directly from the controller to the view b
 Web2py provides a straightforward way to organize and manage your views. By default, the framework searches for views in the `/views` directory of your application. However, you can customize the view search path by modifying the `response.view` attribute.
 
 It's common to use subdirectories within the `/views` directory to organize views for different controllers. For example, if you have a controller named `default` and an action named `index`, you can create a view at `/views/default/index.html`.
-
+{% raw %}
 Furthermore, you can extend views by creating reusable sections. Web2py allows you to define common sections in separate files and include them in multiple view templates using the `{{include}}` syntax.
-
+{% endraw %}
 ## Conclusion
 
 Views play a crucial role in web development, as they determine how data is presented to the user. In Web2py, creating and managing views is straightforward, allowing you to customize your application's HTML templates and display dynamic content efficiently. By using the provided syntax and organizing your views effectively, you can build robust and visually appealing web applications with Web2py.

@@ -38,6 +38,7 @@ To get started, make sure you have Web2py and jQuery installed. You can easily i
 To make an AJAX request in Web2py, we can use the `ajax` method provided by the `response` object. Here's an example of how to make a POST request to a specified URL:
 
 ```javascript
+{% raw %}
 $.ajax({
     url: '{{=URL('controller', 'function')}}',
     type: 'POST',
@@ -49,6 +50,7 @@ $.ajax({
         // Handle any errors that occur during the AJAX request
     }
 });
+{% endraw %}
 ```
 
 In the above code, replace `'controller'` and `'function'` with the name of your controller and function in Web2py. The `data` parameter can include any additional data you want to send to the server.
