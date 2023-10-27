@@ -59,15 +59,19 @@ Once the translation files are created, Django will automatically load the appro
 To make your templates multilingual, you can use the `trans` template tag provided by Django. This tag works similar to the `gettext` function and allows you to translate text within your templates.
 
 ```html
+{% raw %}
 {% load i18n %}
 
 <h1>{% trans "Welcome to my website!" %}</h1>
+{% endraw %}
 ```
 
 You can also use variables in translations and pass them as arguments to the `trans` tag.
 
 ```html
+{% raw %}
 {% trans "Hello, %(username)s!" username=user.username %}
+{% endraw %}
 ```
 
 ## <a name="formatting"></a>Formatting dates, times, and numbers
@@ -75,11 +79,13 @@ You can also use variables in translations and pass them as arguments to the `tr
 Django's i18n framework also provides support for formatting dates, times, and numbers according to the user's locale. You can use the `date`, `time`, and `number` template filters to format data in a user-friendly way.
 
 ```html
+{% raw %}
 {% load i18n %}
 
 <p>{% blocktrans with date=object.date|date %}This event is scheduled for {{ date }}.{% endblocktrans %}</p>
 
 <p>{% blocktrans with count=10 %}You have {{ count }} new messages.{% endblocktrans %}</p>
+{% endraw %}
 ```
 
 ## <a name="preferences"></a>Handling language preferences

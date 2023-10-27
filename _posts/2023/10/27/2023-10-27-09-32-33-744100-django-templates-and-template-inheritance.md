@@ -57,6 +57,7 @@ Django templates provide **template inheritance**, which allows you to create a 
 To create a base template, define the common elements such as header, footer, and navigation in a parent template, let's say `base.html`:
 
 ```html
+{% raw %}
 <!-- base.html -->
 <!DOCTYPE html>
 <html>
@@ -68,13 +69,15 @@ To create a base template, define the common elements such as header, footer, an
     {% endblock %}
 </body>
 </html>
+{% endraw %}
 ```
 
 In this base template, we define two **blocks**: `title` and `content`. The `title` block is used to specify the title of the page, and the `content` block is used to define the unique content of each child template.
-
+{% raw %}
 To extend the `base.html` template, create a child template and inherit the base template using the `{% extends %}` tag:
-
+{% endraw %}
 ```html
+{% raw %}
 <!-- child.html -->
 {% extends 'base.html' %}
 
@@ -84,6 +87,7 @@ To extend the `base.html` template, create a child template and inherit the base
     <h1>Welcome to my child page!</h1>
     <p>This page extends the base template.</p>
 {% endblock %}
+{% endraw %}
 ```
 
 In this child template, we override the `title` block and provide unique content in the `content` block.

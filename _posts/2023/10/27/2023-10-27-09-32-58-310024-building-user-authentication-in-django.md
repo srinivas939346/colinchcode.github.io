@@ -214,7 +214,9 @@ def user_logout(request):
 2. Create a logout link or button in your templates to trigger the logout view.
 
 ```html
+{% raw %}
 <a href="{% url 'logout' %}">Logout</a>
+{% endraw %}
 ```
 
 ## Conclusion

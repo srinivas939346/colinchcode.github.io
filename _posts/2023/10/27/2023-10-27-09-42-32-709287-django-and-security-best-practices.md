@@ -29,9 +29,9 @@ Django's settings file contains sensitive information such as secret keys, datab
 Django provides several mechanisms to protect against common web vulnerabilities. Here are a few security measures you should implement:
 
 - **Cross-Site Scripting (XSS) prevention:** Django automatically escapes user-generated content by default, which helps prevent XSS attacks. However, it is essential to be cautious when including raw user input in your templates. Use the `|safe` template filter only if you are confident that the input is safe.
-
+{% raw %}
 - **Cross-Site Request Forgery (CSRF) protection:** Django includes built-in CSRF protection, which helps prevent CSRF attacks. Ensure that the `{% csrf_token %}` template tag is present in your forms, and that the `csrfmiddlewaretoken` cookie is being utilized.
-
+{% endraw %}
 - **SQL Injection prevention:** Django's ORM protects against SQL Injection attacks by using parameterized queries. Always use Django's ORM features rather than writing raw SQL queries to minimize the risk of injection vulnerabilities.
 
 ## 4. Use strong authentication and authorization mechanisms

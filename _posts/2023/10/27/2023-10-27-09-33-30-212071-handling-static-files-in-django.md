@@ -47,8 +47,10 @@ To include a static file in your Django templates, you can use the `static` temp
 Here's an example of how to include a CSS file in a template:
 
 ```html
+{% raw %}
 {% load static %}
 <link rel="stylesheet" href="{% static 'css/main.css' %}">
+{% endraw %}
 ```
 
 ## Serving Static Files during Development

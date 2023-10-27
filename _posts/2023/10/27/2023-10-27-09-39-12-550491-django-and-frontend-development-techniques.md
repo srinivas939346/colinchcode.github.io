@@ -23,11 +23,13 @@ Django is a popular web framework used for building robust and scalable web appl
 When working with frontend development, static files such as JavaScript, CSS, and images play a vital role. Django provides a built-in mechanism to handle static files effectively. 
 
 To get started, create a directory called `static` in your Django project's main directory. Inside the `static` directory, you can organize your files into subdirectories based on the file type or purpose. For example, you can have a `js` directory for JavaScript files and a `css` directory for CSS files.
-
+{% raw %}
 To include these static files in your templates, use the `{% static %}` template tag provided by Django. For example, to include a CSS file:
-
+{% endraw %}
 ```html
+{% raw %}
 <link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}">
+{% endraw %}
 ```
 
 Django also provides a command, `collectstatic`, to collect all static files from different apps in your project into a single directory. This makes it easier to serve static files in production.
@@ -63,9 +65,9 @@ Django forms can also handle form submission, validation, and interaction with d
 ## Integrating with JavaScript
 
 While Django offers great backend capabilities, sometimes you may need to add interactivity or dynamic behavior to your frontend using JavaScript.
-
+{% raw %}
 To integrate JavaScript with Django, you can include JavaScript code directly in your HTML templates using `<script>` tags. You can also include external JavaScript files using the `{% static %}` template tag mentioned earlier.
-
+{% endraw %}
 Additionally, Django provides a way to expose certain data from the backend to your JavaScript code using AJAX requests or by rendering variables in your templates. This allows you to fetch data from the backend and update your frontend dynamically.
 
 In conclusion, Django offers various techniques to seamlessly integrate frontend development into your Django projects. By utilizing features like static files management, templates, forms, and JavaScript integration, you can build powerful and user-friendly web applications with Django. Happy coding!
